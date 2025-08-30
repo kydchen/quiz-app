@@ -1,0 +1,961 @@
+{
+  "C8": [
+    {
+      "question": "According to the IPCC, what is required to stabilize global temperatures?",
+      "options": {
+        "A": "A significant reduction in greenhouse gas emissions.",
+        "B": "A balance between global sources and sinks of greenhouse gases, achieving net zero.",
+        "C": "A complete halt of all industrial emissions.",
+        "D": "A focus solely on reducing carbon dioxide emissions."
+      },
+      "answer": "B",
+      "explanation": "Page 178 states, 'To stabilize global temperatures, it is necessary to reach a balance between global sources and sinks of greenhouse gases(i.e.,global greenhouse gas emissions must reach net zero).'"
+    },
+    {
+      "question": "What is the IPCC's estimated target for global emissions to limit the average temperature increase to 1.5°C?",
+      "options": {
+        "A": "Reach net zero by 2040.",
+        "B": "Halve emissions by 2040 and reach net zero by 2060.",
+        "C": "Halve emissions by 2030 and reach net zero by 2050.",
+        "D": "Reduce emissions by 25% by 2030."
+      },
+      "answer": "C",
+      "explanation": "Page 178 mentions, 'To have a chance of limiting global average temperature increases to 1.5°C, the IPCC estimates that global emissions need to halve by 2030 and reach net zero by 2050.'"
+    },
+    {
+      "question": "What is a key difference in the scope of various net-zero pledges made by organizations?",
+      "options": {
+        "A": "All pledges globally cover Scope 1, 2, and 3 emissions.",
+        "B": "Some pledges only cover carbon emissions, while others cover all greenhouse gases like methane; some cover only Scope 1 & 2, while others cover all 3 Scopes.",
+        "C": "Most pledges focus exclusively on methane reduction.",
+        "D": "National pledges are generally less comprehensive than corporate pledges."
+      },
+      "answer": "B",
+      "explanation": "Page 178 highlights the variability: 'some pledges will only apply to carbon emissions, whereas others cover emissions of all greenhouse gases, such as methane. Some pledges includeonly Scope 1 and 2 emissions, whereas others cover all 3 Scopes.'"
+    },
+    {
+      "question": "What is the primary concept behind 'net zero' emissions?",
+      "options": {
+        "A": "Eliminating all emissions of greenhouse gases.",
+        "B": "Balancing all global GHG emissions with corresponding GHG removals.",
+        "C": "Offsetting industrial emissions by planting trees.",
+        "D": "Reducing emissions to pre-industrial levels."
+      },
+      "answer": "B",
+      "explanation": "Page 180 explains that stabilizing temperatures 'requires total global emissions of greenhouse gases to reach net zero, meaning that all global GHG emissions are balanced by corresponding GHG removals.'"
+    },
+    {
+      "question": "The 2018 IPCC Special Report on 1.5°C concluded that...",
+      "options": {
+        "A": "The effects of a 2°C warming scenario are only slightly worse than a 1.5°C scenario.",
+        "B": "The likely effects from an extra 0.5°C of warming would be substantial.",
+        "C": "Coral reefs would be unaffected in a 2°C warming scenario.",
+        "D": "Extreme drought would decrease in a 2°C scenario compared to 1.5°C."
+      },
+      "answer": "B",
+      "explanation": "Page 180 states that the report 'provided evidence that the likely effects from an extra 0.5°C of warming would be substantial.'"
+    },
+    {
+      "question": "Under a 2°C warming scenario, what is the estimated share of the global population exposed to severe heat at least once every five years, compared to 14% under a 1.5°C scenario?",
+      "options": {
+        "A": "20%",
+        "B": "25%",
+        "C": "37%",
+        "D": "50%"
+      },
+      "answer": "C",
+      "explanation": "Box 8.1 on page 180 states, 'The estimated share of the global population exposed to severe heat at least once every five years rises from 14% under a 1.5°C scenario, to 37% under 2°C of warming.'"
+    },
+    {
+      "question": "What is the UN Race to Zero campaign's primary objective?",
+      "options": {
+        "A": "To exclusively fund renewable energy projects.",
+        "B": "To mobilize 'real economy' actors to commit to reaching net zero by 2050.",
+        "C": "To create a legally binding treaty for all nations.",
+        "D": "To focus only on financial institutions' commitments."
+      },
+      "answer": "B",
+      "explanation": "Page 181 describes the initiative's intention as 'mobilizing “real economy” actors, including regions, cities, businesses, and financial institutions, to commit to reducing their carbon emissions to net zero by 2050.'"
+    },
+    {
+      "question": "The Glasgow Financial Alliance for Net Zero (GFANZ) is a coalition of which type of entities?",
+      "options": {
+        "A": "Governments and subnational regions.",
+        "B": "Technology companies.",
+        "C": "Financial institutions.",
+        "D": "Non-profit environmental organizations."
+      },
+      "answer": "C",
+      "explanation": "Table 8.1 on page 181 describes GFANZ as 'A global coalition of over 550 financial institutions which covers various subsector alliances.'"
+    },
+    {
+      "question": "What is 'The Climate Pledge,' co-founded by Amazon?",
+      "options": {
+        "A": "A pledge for businesses to reach net zero by 2050.",
+        "B": "A campaign calling for businesses and organizations to reach net zero by 2040.",
+        "C": "An initiative focused on science-based targets for the tech industry.",
+        "D": "A hub providing resources for small and medium-sized companies."
+      },
+      "answer": "B",
+      "explanation": "Table 8.1 on page 182 describes The Climate Pledge as a campaign whose 'signatories have pledged to reach net zero by 2040.'"
+    },
+    {
+      "question": "According to the case study on the Net-Zero Insurance Alliance (NZIA), what is a key commitment for its members?",
+      "options": {
+        "A": "Divesting from all fossil fuel-related assets immediately.",
+        "B": "Only insuring renewable energy projects.",
+        "C": "Transitioning all operational and attributable GHG emissions from underwriting portfolios to net-zero by 2050.",
+        "D": "Focusing solely on reducing their own operational (Scope 1) emissions."
+      },
+      "answer": "C",
+      "explanation": "Page 183, in the NZIA case study, lists a key commitment: 'Transitioning all operational and attributable GHG emissions from insurance and reinsurance underwriting portfolios to net-zero emissions by 2050.'"
+    },
+    {
+      "question": "Which of the following is one of the key attributes for a meaningful net-zero target, as summarized by Fankhauser et al. (2022)?",
+      "options": {
+        "A": "Back-loaded emission reductions to allow for technological development.",
+        "B": "A narrow focus on Scope 1 emissions only.",
+        "C": "Front-loaded emission reductions because cumulative emissions matter.",
+        "D": "Unlimited use of carbon dioxide removal to offset high emissions."
+      },
+      "answer": "C",
+      "explanation": "Page 184 lists 'Front-loaded emission reductions' as the first attribute, explaining that 'it matters when emissions are reduced' because global temperature change is determined by cumulative emissions."
+    },
+    {
+      "question": "What is the principle of 'common but differentiated responsibilities and respective capacities' in the context of an equitable transition to net zero?",
+      "options": {
+        "A": "All countries must decarbonize at the same speed.",
+        "B": "Developing countries will need more time, financial, and technological support to transition.",
+        "C": "Only developed countries are responsible for emission reductions.",
+        "D": "Each country is responsible only for emissions consumed within its borders."
+      },
+      "answer": "B",
+      "explanation": "Page 184 explains this principle, 'emphasizing that developing countries will need more time and financial and technological support to transition.'"
+    },
+    {
+      "question": "What is the difference between 'production-based' and 'consumption-based' emissions accounting for countries?",
+      "options": {
+        "A": "They produce identical results for all countries.",
+        "B": "Production-based accounting measures emissions within a country's territory, while consumption-based accounting measures emissions from all goods and services consumed in that country.",
+        "C": "Consumption-based accounting is the internationally dominant standard.",
+        "D": "Production-based accounting is only used by developing countries."
+      },
+      "answer": "B",
+      "explanation": "Page 185 clarifies that production-based accounting is territorial, while consumption-based accounting measures 'cumulative emissions that arise from the production of all goods and services consumed in that country, regardless of where this production took place.'"
+    },
+    {
+      "question": "Typically, how do consumption-based emissions compare to production-based emissions for high-income countries?",
+      "options": {
+        "A": "They are much lower.",
+        "B": "They are roughly the same.",
+        "C": "They are much higher.",
+        "D": "The relationship is random and shows no clear pattern."
+      },
+      "answer": "C",
+      "explanation": "Page 185 states, 'Generally speaking, high-income countries have much higher consumption-based than production-based emissions.'"
+    },
+    {
+      "question": "What is a widely recognized best-practice standard for community-scale greenhouse gas emissions inventories?",
+      "options": {
+        "A": "The Paris Agreement Protocol.",
+        "B": "The TCFD Framework.",
+        "C": "The Protocol for Community-Scale Greenhouse Gas Emissions Inventories by the GHG Protocol.",
+        "D": "The Net Zero Tracker Standard."
+      },
+      "answer": "C",
+      "explanation": "Page 186 identifies 'A widely recognized best-practice standard is the Protocol for Community-Scale Greenhouse Gas Emissions Inventories, published by the Greenhouse Gas Protocol(GHG Protocol, 2021).'"
+    },
+    {
+      "question": "What is the core challenge for firms in energy-intensive industries, like steel production, to achieve net zero?",
+      "options": {
+        "A": "Reducing Scope 3 emissions from their supply chain.",
+        "B": "Developing alternatives to current production processes to address their large Scope 1 emissions.",
+        "C": "Managing reputational risk.",
+        "D": "Reporting their emissions to the TCFD."
+      },
+      "answer": "B",
+      "explanation": "Page 188 states, 'For firms in energy-intensive industries whose climate impact is largely driven by Scope 1 emissions, the core challenge will be to develop alternatives to current production processes.'"
+    },
+    {
+      "question": "What is the main source of the climate impact for most financial institutions?",
+      "options": {
+        "A": "The direct energy use of their office buildings (Scope 1 & 2).",
+        "B": "The activities they enable through their investments and other services (financed emissions).",
+        "C": "Employee commuting and business travel.",
+        "D": "The paper used in their operations."
+      },
+      "answer": "B",
+      "explanation": "Page 189 explains, 'In most cases, the main climate impact of financial institutions arises not from their own operations, but from the activities they enable through their investments and other services.'"
+    },
+    {
+      "question": "The Science-Based Targets initiative (SBTi) provides guidance for the financial sector. Which of these is one of its outlined approaches?",
+      "options": {
+        "A": "The Mandatory Divestment Approach.",
+        "B": "The Sectoral Decarbonization Approach.",
+        "C": "The Carbon Offsetting Maximization Approach.",
+        "D": "The Government Lobbying Approach."
+      },
+      "answer": "B",
+      "explanation": "Box 8.2 on page 189 lists three approaches, the first being the 'Sectoral decarbonization approach: The first approach is to define emissions-based physical intensity targets for investments and loans in a defined list of emission-intensive sectors...'"
+    },
+    {
+      "question": "What is the primary purpose of a Transition Plan?",
+      "options": {
+        "A": "To serve as a marketing document for a company's green initiatives.",
+        "B": "To be an integral part of an entity's overall strategy, setting out its plan to contribute to and prepare for a low GHG-emissions economy.",
+        "C": "To lobby for weaker climate regulations.",
+        "D": "To calculate a company's historical carbon footprint."
+      },
+      "answer": "B",
+      "explanation": "Page 189 defines transition plans as 'integral to an entity’s overall strategy, setting out its plan to contribute to and prepare for a rapid global transition towards a low GHG-emissions economy.'"
+    },
+    {
+      "question": "According to the TPT Disclosure Framework, 'Engagement Strategy' and 'Metrics & Targets' fall under which principle?",
+      "options": {
+        "A": "Ambition",
+        "B": "Action",
+        "C": "Accountability",
+        "D": "Foundation"
+      },
+      "answer": "B",
+      "explanation": "Figure 8.4 on page 190 shows that 'Engagement Strategy' and 'Metrics & Targets' are key stages of transition planning under the overarching principle of 'Action'."
+    },
+    {
+      "question": "What does the term 'permanence' refer to in the context of carbon-credit projects?",
+      "options": {
+        "A": "The accurate measurement of carbon stored.",
+        "B": "The long-term storage of carbon.",
+        "C": "Displacing rather than avoiding emissions.",
+        "D": "Whether the emission reduction would have happened anyway."
+      },
+      "answer": "B",
+      "explanation": "Box 8.3 on page 191 lists challenges with carbon-credit projects, including 'permanence (i.e., long-term storage of carbon).'"
+    },
+    {
+      "question": "What is a key finding from Microsoft's effort to pay for carbon removal, as mentioned in the text?",
+      "options": {
+        "A": "Most projects easily met their high-quality criteria.",
+        "B": "There is an oversupply of high-quality carbon removal credits.",
+        "C": "There is a need for clear standards and definitions for high-quality carbon removal.",
+        "D": "Carbon avoidance projects are more effective than carbon removal projects."
+      },
+      "answer": "C",
+      "explanation": "Page 191 notes, 'One of their key findings was that there is a need for clear standards and definitions. The company received almost 200 proposals... Out of these, however, only 2 MtCO2 met their conditions for high-quality CO2 removal.'"
+    },
+    {
+      "question": "According to the Oxford Principles for Net Zero Aligned Carbon Offsetting, what is the first priority for organizations?",
+      "options": {
+        "A": "Shift to long-lived carbon storage.",
+        "B": "Purchase as many offsets as possible.",
+        "C": "Support the development of net zero aligned offsetting.",
+        "D": "Cut their own emissions and use high-quality offsets."
+      },
+      "answer": "D",
+      "explanation": "Page 191 lists the first principle as: 'Cut emissions, use high-quality offsets, and regularly revise offsetting strategy as best practice evolves.'"
+    },
+    {
+      "question": "Why are interim targets considered critical for the credibility of long-term net-zero goals?",
+      "options": {
+        "A": "They are easier to achieve than long-term targets.",
+        "B": "The timing of emissions reductions matters, as climate change is driven by the cumulative stock of GHGs in the atmosphere.",
+        "C": "They allow companies to delay meaningful action.",
+        "D": "They are the only targets that regulators look at."
+      },
+      "answer": "B",
+      "explanation": "Page 192 explains, 'interim targets are critical because the timing of emissions reductions matters. As discussed in Chapter 1, the total level of radiative forcing is determined by the cumulative stock of greenhouse gasses in our atmosphere.'"
+    },
+    {
+      "question": "What is the 'Credibility Gap' in the context of national climate commitments?",
+      "options": {
+        "A": "The difference between a country's production and consumption emissions.",
+        "B": "The gap between a country's long-term pledge and its failure to set and meet adequate interim targets and plans.",
+        "C": "The time it takes for a pledge to be written into law.",
+        "D": "The lack of public support for climate action."
+      },
+      "answer": "B",
+      "explanation": "Page 193 defines the Credibility Gap: 'many governments are currently failing to keep pace with their 2030 interim emissions targets. This undermines the credibility of governments...This is commonly referred to as the Credibility Gap.'"
+    },
+    {
+      "question": "According to the case study, what was a key part of L'Oréal's strategy to reduce emissions at its plants and distribution centers?",
+      "options": {
+        "A": "Relying heavily on carbon offsetting projects.",
+        "B": "A three-pillar strategy including reducing energy needs, using renewable energy, and achieving targets without offsetting.",
+        "C": "Shifting all production to countries with greener energy grids.",
+        "D": "Focusing only on reducing emissions from product transport."
+      },
+      "answer": "B",
+      "explanation": "Page 194 describes L'Oréal's strategy: 'it used a strategy based on three pillars: (1)Reduce energy requirements across facilities, (2) increased use of renewable energy, and (3)achieve targets without carbon offsetting projects.'"
+    },
+    {
+      "question": "What are sectoral transition pathways useful for?",
+      "options": {
+        "A": "Helping organizations understand what net zero implies for their operations and develop realistic pathways.",
+        "B": "Creating a single, mandatory transition plan for all companies worldwide.",
+        "C": "Exclusively for financial institutions to assess risk, with no use for other companies.",
+        "D": "Replacing the need for company-specific interim targets."
+      },
+      "answer": "A",
+      "explanation": "Page 194 explains, 'Important tools that can help organizations unpack these complexities are sectoral transition pathways. These are being developed by various organizations... [to] help develop decarbonization pathways.'"
+    },
+    {
+      "question": "Which of the following is NOT one of the three broader topics for climate-related metrics recommended by the TCFD?",
+      "options": {
+        "A": "Metrics used to assess climate-related risks and opportunities.",
+        "B": "Scope 1, 2, and if appropriate, Scope 3 emissions.",
+        "C": "Targets used to manage climate-related risks and performance against them.",
+        "D": "Metrics on employee satisfaction with climate strategy."
+      },
+      "answer": "D",
+      "explanation": "Page 195 lists the three TCFD recommendations for metrics: assessing risks and opportunities, disclosing emissions, and describing targets and performance. Employee satisfaction is not on this list."
+    },
+    {
+      "question": "What is 'internal carbon pricing'?",
+      "options": {
+        "A": "A government-mandated tax on carbon emissions.",
+        "B": "An internal company tool, like a tax on emissions, used for project selection and investment decisions.",
+        "C": "The market price of carbon credits.",
+        "D": "A metric to calculate the carbon footprint of a product."
+      },
+      "answer": "B",
+      "explanation": "Table 8.5 on page 196 defines internal carbon pricing as 'a company internal tax on emissions that is invested into sustainability projects' and a shadow price as 'an estimated cost of carbon used for project selection purposes'."
+    },
+    {
+      "question": "Which portfolio alignment tool translates a portfolio's alignment into a projection of a likely end-of-century global warming outcome?",
+      "options": {
+        "A": "Binary target measurement.",
+        "B": "Maturity scale alignment metrics.",
+        "C": "Benchmark divergence.",
+        "D": "Implied temperature rise (ITR)."
+      },
+      "answer": "D",
+      "explanation": "Page 196 describes 'Implied temperature rise (ITR)' as a tool that 'translates the distance from a measured pathway into a projection of likely end-of-century global warming outcomes.'"
+    },
+    {
+      "question": "What is a key strength of the 'Binary measurement' portfolio alignment tool?",
+      "options": {
+        "A": "It provides deep insight into the degree of alignment.",
+        "B": "It is simple to use and based on easily attainable data.",
+        "C": "It is complex and requires climate-scenario expertise.",
+        "D": "It offers a holistic understanding of a company's trajectory."
+      },
+      "answer": "B",
+      "explanation": "Page 198 states, 'Binary measurement is simplest to use, based on easily attainable data, and broadly applicable to any asset class.'"
+    },
+    {
+      "question": "According to the BASF case study, what is the company's interim target for Scope 1 and 2 emissions by 2030?",
+      "options": {
+        "A": "A 10% reduction compared to 2018.",
+        "B": "A 25% reduction compared to 2018.",
+        "C": "A 50% reduction compared to 2018.",
+        "D": "To achieve net zero by 2030."
+      },
+      "answer": "B",
+      "explanation": "Page 197 details BASF's commitment: 'has set an interim target of a 25%reduction to the base year 2018 until 2030.'"
+    },
+    {
+      "question": "In the Lyxor case study, why did the company choose to disclose Implied Temperature Ratings (ITR)?",
+      "options": {
+        "A": "Because it is the most complex metric and impresses regulators.",
+        "B": "Because it is becoming a key metric in portfolio allocation and is straightforward for investors to understand.",
+        "C": "Because it is identical to ESG ratings.",
+        "D": "Because it was the only data available to them."
+      },
+      "answer": "B",
+      "explanation": "Page 199 explains that Lyxor opted for ITR for two reasons: 'Firstly, the company believes that the ITR metric is becoming a key metric in portfolio allocation and disclosure...Secondly, the indicator is straightforward and easy to understand for investors.'"
+    },
+    {
+      "question": "What is a key difference between ESG ratings and ITR metrics, as found by Lyxor?",
+      "options": {
+        "A": "They always produce the same result for a given company.",
+        "B": "ESG ratings focus on the status quo, while ITRs focus on the net-zero transition path of companies.",
+        "C": "ITRs are focused on social and governance issues, while ESG ratings are purely environmental.",
+        "D": "ITRs can only be applied to renewable energy companies."
+      },
+      "answer": "B",
+      "explanation": "Page 199 highlights a key difference: 'ESG ratings largely focus on the status quo and current business activities, while ITRs focus on the net-zero transition path of companies.'"
+    },
+    {
+      "question": "According to the UK Climate Financial Risk Forum's taxonomy for fossil fuel producers, which activity has a 'positive effect on alignment'?",
+      "options": {
+        "A": "New exploration and production.",
+        "B": "Expansion of current exploration and production.",
+        "C": "Making operations more efficient and reducing emissions (e.g., CCS).",
+        "D": "Carbon removal technologies (e.g., CCS, BECCS)."
+      },
+      "answer": "D",
+      "explanation": "Table 8.6 on page 199 lists activities that could 'reduce emissions and transition the portfolio/company (positive effect on alignment)'. This category includes 'Carbon removal technologies (e.g., CCS, BECCS)'."
+    },
+    {
+      "question": "Which organization, launched in 2015 by the Financial Stability Board, has emerged as a leading force in climate risk disclosures?",
+      "options": {
+        "A": "Global Reporting Initiative (GRI).",
+        "B": "Sustainability Accounting Standards Board (SASB).",
+        "C": "Task Force on Climate-related Financial Disclosures (TCFD).",
+        "D": "International Sustainability Standards Board (ISSB)."
+      },
+      "answer": "C",
+      "explanation": "Page 200 identifies the TCFD: 'In the realm of climate risk disclosures, the TCFD has emerged in recent years as the leading force and baseline setter.'"
+    },
+    {
+      "question": "What is the primary aim of the International Sustainability Standards Board (ISSB)?",
+      "options": {
+        "A": "To develop standards for impact reporting on human rights and corruption.",
+        "B": "To set sector-specific ESG standards for 77 industries.",
+        "C": "To deliver a global reporting standard for sustainability-related financial information.",
+        "D": "To develop recommendations for central banks on managing climate risk."
+      },
+      "answer": "C",
+      "explanation": "Table 8.7 on page 200 describes the ISSB's aim 'to deliver a global reporting standard for sustainability-related financial information.'"
+    },
+    {
+      "question": "What does the concept of 'double materiality' require corporations to disclose?",
+      "options": {
+        "A": "Only activities and risks that are material to the company's financial value.",
+        "B": "Activities material to the company's value, AND activities which could be material to society and the environment.",
+        "C": "Financial information in two different currencies.",
+        "D": "Risks that have at least a double impact on the company's turnover."
+      },
+      "answer": "B",
+      "explanation": "Page 201 explains, 'Double materiality adds to this concept with the notion that companies must also disclose activities which could be material to society and the environment.'"
+    },
+    {
+      "question": "In the UK, what has the government announced regarding transition plans?",
+      "options": {
+        "A": "They will remain voluntary for all companies.",
+        "B": "Preparing and publishing transition plans will become mandatory across the economy.",
+        "C": "Only financial institutions will be required to publish transition plans.",
+        "D": "The requirement for transition plans has been cancelled."
+      },
+      "answer": "B",
+      "explanation": "Page 201 states, 'in 2021, the UK Chancellor has announced that preparing and publishing transition plans will become mandatory across the economy.'"
+    },
+    {
+      "question": "The concept of net-zero emissions is scientifically based on the near-linear relationship between what two factors?",
+      "options": {
+        "A": "Annual GHG emissions and sea-level rise.",
+        "B": "Methane concentration and ocean acidity.",
+        "C": "Cumulative net emissions of CO2 and other GHGs, and changes in global surface temperatures.",
+        "D": "Deforestation rates and extreme weather intensity."
+      },
+      "answer": "C",
+      "explanation": "Page 179 states, 'It has long been understood that there is a near-linear relationship between cumulative net emissions of CO2 and other greenhouse gases (GHGs) on the one hand, and changes in global surface temperatures on the other.'"
+    },
+    {
+      "question": "What does the Paris Agreement in Article 2.1 commit negotiators to regarding global average temperature?",
+      "options": {
+        "A": "Hold the increase to exactly 1.5°C.",
+        "B": "Hold the increase to well below 2°C and pursue efforts to limit it to 1.5°C.",
+        "C": "Hold the increase to below 3°C.",
+        "D": "Halt any further increase in global average temperature immediately."
+      },
+      "answer": "B",
+      "explanation": "Page 180 quotes Article 2.1: negotiators agreed to 'hold the increase in global average temperature to well below 2°C above pre-industrial levels and pursue efforts to limit the temperature increase to 1.5°C.'"
+    },
+    {
+      "question": "The Under 2° Coalition is an alliance of which actors committed to achieving net zero emissions by 2050?",
+      "options": {
+        "A": "Cities.",
+        "B": "States, regions, provinces and other subnational governments.",
+        "C": "Corporations.",
+        "D": "Banks."
+      },
+      "answer": "B",
+      "explanation": "Table 8.1 on page 181 identifies the Under 2° Coalition as a 'Coalition of states, regions, provinces and other subnational governments...'"
+    },
+    {
+      "question": "The Net Zero Banking Alliance is a member of which larger coalition?",
+      "options": {
+        "A": "UN Environment Programme Finance Initiative (UNEP FI).",
+        "B": "The Climate Pledge.",
+        "C": "Glasgow Financial Alliance for Net Zero (GFANZ).",
+        "D": "Business ambition for 1.5°C."
+      },
+      "answer": "C",
+      "explanation": "Table 8.1 on page 181 clearly lists the Net Zero Banking Alliance with '(member of GFANZ)' next to its name."
+    },
+    {
+      "question": "What is a key feature of 'Certified B Corporations'?",
+      "options": {
+        "A": "They are certified to be net-zero by 2030.",
+        "B": "They meet high standards of social and environmental performance, accountability, and transparency.",
+        "C": "They are exclusively technology companies.",
+        "D": "They are non-profit organizations focused on climate lobbying."
+      },
+      "answer": "B",
+      "explanation": "Page 182 describes Certified B Corporations as 'companies that meet high standards of social and environmental performance, accountability, and transparency.'"
+    },
+    {
+      "question": "Why is 'alignment with broader socio-ecological objectives' considered a key attribute of a good net-zero target?",
+      "options": {
+        "A": "To ensure the transition does not exacerbate other issues like biodiversity loss or economic inequality.",
+        "B": "To prioritize economic growth above all other objectives.",
+        "C": "To make the targets easier to achieve.",
+        "D": "To focus solely on mitigation without considering other impacts."
+      },
+      "answer": "A",
+      "explanation": "Page 184 explains this attribute by stating, 'A narrow focus on mitigation may overlook negative repercussions in other dimensions... [such as] erosion of biosphere integrity, economic inequality...'"
+    },
+    {
+      "question": "The GHG Protocol's standard for cities and regions, BASIC+, is more comprehensive than the BASIC level because it includes sources like:",
+      "options": {
+        "A": "Scope 1 and 2 emissions from stationary energy and transport.",
+        "B": "Emissions from waste.",
+        "C": "Scope 3 emissions from transboundary transport and Scope 1 emissions from agriculture and land use.",
+        "D": "Only emissions from industrial facilities within the city."
+      },
+      "answer": "C",
+      "explanation": "Page 186 states, 'BASIC+level inventories are significantly more comprehensive and cover sources such as scope3 emissions from transboundary transport and scope 1 emissions from agriculture, forestry, and land use.'"
+    },
+    {
+      "question": "In the case study for a net-zero Germany, what is a major measure proposed for the period up to 2030?",
+      "options": {
+        "A": "Increased reliance on coal.",
+        "B": "Phasing out electric vehicles.",
+        "C": "Increased electrification across all sectors, coupled with rapid decarbonization of the power sector.",
+        "D": "Expanding agricultural production with higher nitrogen requirements."
+      },
+      "answer": "C",
+      "explanation": "Page 186, in the Germany case study, lists 'Increased electrification across all sectors, coupled with a rapid decarbonization of the power sector' as a key near-term action."
+    },
+    {
+      "question": "According to the Germany net-zero scenario, by 2045, what is the estimated remaining percentage of residual emissions that would need to be offset by carbon removal?",
+      "options": {
+        "A": "0%",
+        "B": "5%",
+        "C": "10%",
+        "D": "20%"
+      },
+      "answer": "B",
+      "explanation": "Page 187 states that by 2045, it would be possible to reduce total GHG emissions by 95%, which 'would leave a remaining 5% of residual emissions... which would need to be offset via carbon removal to reach net zero.'"
+    },
+    {
+      "question": "For a supermarket chain, where do the majority of its emissions typically come from?",
+      "options": {
+        "A": "Scope 1 emissions from refrigerant leaks.",
+        "B": "Scope 2 emissions from electricity use in stores.",
+        "C": "Scope 3 emissions from the value chain, covering everything from agricultural production to packaging.",
+        "D": "A combination of Scope 1 and 2 emissions from their own operations."
+      },
+      "answer": "C",
+      "explanation": "Pages 188-189 contrast high-emitting sectors with others: 'for many supermarket chains, whose own emissions are typically miniscule when compared to the emissions arising across the value chain of their products, which covers everything from agricultural production to packaging and logistics.'"
+    },
+    {
+      "question": "The SBTi recommends that financial institutions should strive to reach what level of portfolio coverage of investees with science-based targets by 2040?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "answer": "D",
+      "explanation": "Box 8.2 on page 189 states, 'The SBTi argues that financial institutions should strive to reach a portfolio coverage of 100% by 2040 to stay in line with the Paris Agreement.'"
+    },
+    {
+      "question": "What is the role of the Transition Plan Taskforce (TPT) in the UK?",
+      "options": {
+        "A": "To provide funding for green projects.",
+        "B": "To lobby against mandatory transition plans.",
+        "C": "To develop a 'gold standard' for robust private sector transition plans.",
+        "D": "To act as a regulatory body that penalizes companies for not meeting targets."
+      },
+      "answer": "C",
+      "explanation": "Page 190 mentions that the UK government appointed the TPT 'to develop a gold standard for robust private sector transition plans.'"
+    },
+    {
+      "question": "The term 'non-additional' in the context of carbon credits means that:",
+      "options": {
+        "A": "The project created additional social co-benefits.",
+        "B": "The project removed more carbon than was initially estimated.",
+        "C": "The reduction of carbon emissions would have occurred even without the financing from the sale of carbon credits.",
+        "D": "The project did not provide additional credits for sale."
+      },
+      "answer": "C",
+      "explanation": "Page 191 explains that a study found 85% of projects were 'non-additional, meaning that the reduction of carbon emissions would have occurred without the financing through the sale of carbon credits.'"
+    },
+    {
+      "question": "How did adopting a transition plan and science-based targets benefit the Kellogg Company?",
+      "options": {
+        "A": "It significantly increased their operational costs without any clear benefit.",
+        "B": "It damaged their relationship with the government.",
+        "C": "It significantly improved its reputation amongst retailers and enhanced its relationship with the government.",
+        "D": "It allowed them to exclusively use carbon offsets to meet their targets."
+      },
+      "answer": "C",
+      "explanation": "Page 192 states, 'As a result, Kellogg has significantly improved its reputation amongst retailers... The initiatives have also enhanced the company's relationship with the government...'"
+    },
+    {
+      "question": "According to Figure 8.5, what percentage of the Forbes Global 2000 list had committed to a net-zero target as of February 2025?",
+      "options": {
+        "A": "Around 10%",
+        "B": "Around 25%",
+        "C": "Around 40%",
+        "D": "Around 60%"
+      },
+      "answer": "C",
+      "explanation": "Page 193, referencing Figure 8.5, states, 'While around 40% of the companies have committed to net zero, less than 30% have set interim targets.'"
+    },
+    {
+      "question": "The Symrise AG case study demonstrates the use of interim targets. What was their target for 2025?",
+      "options": {
+        "A": "To become climate positive by 2025.",
+        "B": "To reduce GHG emissions by 60% in relation to value added by 2025, compared to 2016.",
+        "C": "To reduce only Scope 1 emissions by 20% by 2025.",
+        "D": "To ensure 50% of its suppliers had set emission reduction targets."
+      },
+      "answer": "B",
+      "explanation": "Page 194 states, 'Symrise set an interim target of reducing greenhouse gas emissions by 60% in relation to value added by 2025, compared to 2016.'"
+    },
+    {
+      "question": "To improve the quality and credibility of reported metrics, what does the text urge organizations to do?",
+      "options": {
+        "A": "Only report the most favorable metrics.",
+        "B": "Provide historical data to allow for trend analyses and have the metrics third-party assured.",
+        "C": "Use complex estimations without explaining the methodology.",
+        "D": "Report metrics only once every five years."
+      },
+      "answer": "B",
+      "explanation": "Page 195 suggests that to improve quality, 'organizations are urged to provide historical data to allow for trend analyses' and that they 'gain credibility if the metrics they use can be third-party assured.'"
+    },
+    {
+      "question": "What is a significant challenge or limitation of using 'Benchmark divergence' as a portfolio alignment tool?",
+      "options": {
+        "A": "It is too simple and offers no real insight.",
+        "B": "It is based on easily attainable data and requires no expertise.",
+        "C": "It is complex, requires climate-scenario expertise, and is based on potentially difficult-to-obtain data.",
+        "D": "It cannot be aggregated at the portfolio level."
+      },
+      "answer": "C",
+      "explanation": "Page 198 lists the challenges of Benchmark divergence: 'it is complex and requires climate-scenario expertise to use, is based on potentially difficult-to-obtain data...'"
+    },
+    {
+      "question": "How does BASF classify its products to estimate the carbon footprint of activities in its value chain?",
+      "options": {
+        "A": "Into High, Medium, and Low carbon categories.",
+        "B": "Into Scope 1, 2, and 3 product categories.",
+        "C": "Into the four categories: Accelerator, Performer, Transitioner, and Challenged.",
+        "D": "Into Green, Yellow, and Red product categories."
+      },
+      "answer": "C",
+      "explanation": "Page 198 explains, 'the chemical producer places its products into the four categories Accelerator, Performer, Transitioner, and Challenged (see Figure 8.7).'"
+    },
+    {
+      "question": "Which standard-setting body focuses on 'impact reporting', going beyond financial materiality to include a company's external impacts on issues like climate change and human rights?",
+      "options": {
+        "A": "TCFD",
+        "B": "SASB",
+        "C": "ISSB",
+        "D": "GRI"
+      },
+      "answer": "D",
+      "explanation": "Table 8.7 on page 200 describes the GRI as 'An initiative focused on developing standards for impact reporting' that goes beyond others by focusing on external impacts on societal issues."
+    },
+    {
+      "question": "The EU's Corporate Sustainability Reporting Directive (CSRD) aims to:",
+      "options": {
+        "A": "Reduce the amount of reporting required by companies.",
+        "B": "Make all large companies in the EU more publicly accountable by obliging them to regularly disclose information on their societal and environmental impact.",
+        "C": "Provide a voluntary framework for reporting.",
+        "D": "Apply only to companies based outside of the EU."
+      },
+      "answer": "B",
+      "explanation": "Page 201 states, 'The Corporate Sustainability Reporting Directive(CSRD) aims to make all large companies in the EU more publicly accountable by obliging them to regularly disclose information on their societal and environmental impact.'"
+    },
+    {
+      "question": "What does a net-zero target for a nation, based on territorial GHG accounting, imply?",
+      "options": {
+        "A": "The country will only reduce emissions from imported goods.",
+        "B": "The country will strive to significantly reduce all domestic GHG emissions and directly remove any remaining net flows via carbon sinks.",
+        "C": "The country will offshore all its emissions-intensive industries.",
+        "D": "The country will achieve net-zero for CO2 only, excluding other GHGs."
+      },
+      "answer": "B",
+      "explanation": "Page 185 states, 'A national net-zero target based on this form of territorial GHG accounting implies that a country will strive to significantly reduce all domestic greenhouse gas emissions, and directly remove any net flows from remaining sources via carbon sinks.'"
+    },
+    {
+      "question": "Which actor launched the 'Business ambition for 1.5°C' campaign to encourage private businesses to develop science-based emissions-reduction targets?",
+      "options": {
+        "A": "The World Bank",
+        "B": "The Science-Based Targets initiative (SBTi)",
+        "C": "The Glasgow Financial Alliance for Net Zero (GFANZ)",
+        "D": "Amazon and Global Optimism"
+      },
+      "answer": "B",
+      "explanation": "Table 8.1 on page 182 indicates that 'Business ambition for 1.5°C' is 'Led by the Science-Based Targets initiative...'"
+    },
+    {
+      "question": "What is a primary challenge for sub-national governments like cities and regions when seeking to decarbonize?",
+      "options": {
+        "A": "There is a single, complex, and mandatory global standard they must follow.",
+        "B": "There is no globally recognized standard for accounting emissions, so a first challenge is building inventories and defining the scope.",
+        "C": "They are not permitted to set net-zero targets.",
+        "D": "Their emissions are negligible and not worth tracking."
+      },
+      "answer": "B",
+      "explanation": "Page 186 states, 'there is no globally recognized standard for accounting emissions at the sub-national level. Therefore, for cities and regions seeking to decarbonize, a first challenge lies in building greenhouse gas inventories...and determining the scope of their target.'"
+    },
+    {
+      "question": "The SBTi's 'temperature rating approach' for financial firms involves:",
+      "options": {
+        "A": "Divesting from any company located in a country with a high average temperature.",
+        "B": "Assessing the current temperature rating of a financial portfolio and working to align it with ambitious long-term temperature targets.",
+        "C": "Investing only in companies that produce cooling technologies.",
+        "D": "Rating the physical climate risk of a portfolio's assets."
+      },
+      "answer": "B",
+      "explanation": "Box 8.2 on page 189 describes this approach as to 'assess the current temperature rating of a financial portfolio, and work to align it with ambitious long-term temperature targets...'"
+    },
+    {
+      "question": "What is the key argument made by the UN High-Level Expert Group regarding transition plans?",
+      "options": {
+        "A": "They are a voluntary and optional tool.",
+        "B": "They are only necessary for governments, not private companies.",
+        "C": "They are essential tools to deliver on the ambition of net-zero targets.",
+        "D": "They should be kept confidential and not disclosed publicly."
+      },
+      "answer": "C",
+      "explanation": "Page 190 states, 'the UN High-Level Expert Group... set out detailed recommendations... They argue that creating transition plans are essential tools to deliver on ambition.'"
+    },
+    {
+      "question": "What is the challenge of 'leakage' in carbon-credit projects?",
+      "options": {
+        "A": "The physical leakage of stored CO2 from a reservoir.",
+        "B": "The project displaces emissions to another location rather than avoiding them entirely.",
+        "C": "The financial benefits of the project 'leak' to unintended parties.",
+        "D": "The project fails to accurately measure its emissions reductions."
+      },
+      "answer": "B",
+      "explanation": "Box 8.3 on page 191 defines one of the challenges as 'leakage (i.e., displacing rather than avoiding emissions).'"
+    },
+    {
+      "question": "What is the first step companies should consider when aiming to define a granular transition plan, according to the text?",
+      "options": {
+        "A": "Invent a completely new methodology from scratch.",
+        "B": "Take advantage of industry-specific benchmarks and consider joining Race to Zero initiatives.",
+        "C": "Lobby local governments to weaken net-zero policies.",
+        "D": "Set a vague, long-term goal without any specific details."
+      },
+      "answer": "B",
+      "explanation": "Page 194 advises companies to 'take advantage of above-mentioned, industry-specific benchmarks and consider joining the Race to Zero initiatives in their sector, which can often provide a baseline...'"
+    },
+    {
+      "question": "How are metrics used for project selection purposes in a business context?",
+      "options": {
+        "A": "By selecting the project with the highest possible emissions to maximize short-term profit.",
+        "B": "By using metrics to describe carbon intensity, with decisions based on thresholds, or using internal carbon pricing in financial calculations.",
+        "C": "By choosing projects based on their marketing appeal, regardless of their carbon intensity.",
+        "D": "Metrics are only used for backward-looking reporting, not for future project selection."
+      },
+      "answer": "B",
+      "explanation": "Page 195 states, 'Metrics are often also used for project selection purposes... One can use metrics to describe the carbon intensity of projects... A second approach uses internal carbon pricing to account for emissions in net present value (NPV) calculations...'"
+    },
+    {
+      "question": "What is a key weakness of the 'Maturity scale alignment metrics' portfolio tool?",
+      "options": {
+        "A": "It is too simple to be useful.",
+        "B": "There is no commonly used approach for categorizing companies, making it difficult to compare across entities.",
+        "C": "It can only be applied to a single asset class.",
+        "D": "It offers no insight into a company's trajectory."
+      },
+      "answer": "B",
+      "explanation": "Page 198 identifies the pitfall of these metrics: 'there is no commonly used approach for categorizing companies, making it difficult to compare across entities...'"
+    },
+    {
+      "question": "According to the BASF value chain diagram (Figure 8.7), which stage causes the most Scope 3 emissions?",
+      "options": {
+        "A": "Transport",
+        "B": "Suppliers (Purchased products, services and capital goods)",
+        "C": "Disposal",
+        "D": "Customers (Emissions from the use of end products)"
+      },
+      "answer": "B",
+      "explanation": "Figure 8.7 on page 197 shows 'Suppliers' contributing 59 million metric tons of CO2e, which is the largest single category of emissions along the value chain."
+    },
+    {
+      "question": "Why can a gas-extracting company have terrible absolute ESG ratings but an ITR of <1.5°C?",
+      "options": {
+        "A": "The ITR metric is flawed and inaccurate.",
+        "B": "Because ESG ratings focus on current business activities (status quo), while the ITR focuses on the company's commitment and plan for a net-zero transition.",
+        "C": "Because ESG ratings do not consider environmental factors.",
+        "D": "This scenario is impossible; a low ESG rating always means a high ITR."
+      },
+      "answer": "B",
+      "explanation": "The Lyxor case study on page 199 explains this apparent contradiction: 'a gas-extracting company might have terrible absolute ESG ratings but an ITR of<1.5°C' because ESG looks at the 'status quo' while ITRs focus on the 'net-zero transition path'."
+    },
+    {
+      "question": "Which of these standard setters consolidated the work of the Value Reporting Foundation (which included SASB) in 2022?",
+      "options": {
+        "A": "TCFD",
+        "B": "GRI",
+        "C": "ISSB",
+        "D": "CDP"
+      },
+      "answer": "C",
+      "explanation": "Table 8.7 on page 200, in the description of SASB, notes its work was 'consolidated... into the International Sustainability Standards Board in 2022.'"
+    },
+    {
+      "question": "What is the key difference between the ISSB's approach to materiality and the EU's approach (e.g., in the CSRD)?",
+      "options": {
+        "A": "There is no difference; both use single materiality.",
+        "B": "The ISSB has excluded double materiality from its scope, while the EU's taxonomy and CSRD are built on the concept of double materiality.",
+        "C": "The ISSB uses double materiality, while the EU uses single materiality.",
+        "D": "Both have excluded materiality from their requirements entirely."
+      },
+      "answer": "B",
+      "explanation": "Page 201 contrasts the two: 'This concept [double materiality] now builds much of foundation of the EU’s taxonomy and CSRD disclosure standards. The ISSB, on the other hand, has excluded double materiality from the scope of its requirements.'"
+    },
+    {
+      "question": "What is a Transition Plan Pathway Initiative (TPI)?",
+      "options": {
+        "A": "A regulatory body in the UK.",
+        "B": "A global initiative formed by asset owners that provides sectoral benchmarks against which company ambitions can be assessed.",
+        "C": "A company that helps write transition plans for a fee.",
+        "D": "A research organization focused on hard-to-abate sectors."
+      },
+      "answer": "B",
+      "explanation": "Page 194 mentions the 'Transition Pathway Initiative, a global initiative formed by asset owners that provides sectoral benchmarks against which company ambitions can be assessed.'"
+    },
+    {
+      "question": "What did the 2018 IPCC report say about coral reefs in a 2°C warming scenario versus a 1.5°C scenario?",
+      "options": {
+        "A": "There would be no difference in impact on coral reefs.",
+        "B": "A 1.5°C warming would lead to a 70-90% reduction, but it would prevent the total loss projected with 2°C warming.",
+        "C": "Coral reefs would fully recover under a 2°C warming scenario.",
+        "D": "A 1.5°C warming would cause a total loss of coral reefs."
+      },
+      "answer": "B",
+      "explanation": "Box 8.1 on page 180 states, 'Although 1.5°C of warming would still likely lead to 70-90% reduction in average coral cover, it would prevent the total loss of coral reefs projected with warming of 2°C.'"
+    },
+    {
+      "question": "The Net Zero Asset Owner Alliance is a coalition of which types of institutions?",
+      "options": {
+        "A": "Asset managers and investment consultants.",
+        "B": "Corporates and small businesses.",
+        "C": "Pension funds and insurers.",
+        "D": "Rating agencies and data providers."
+      },
+      "answer": "C",
+      "explanation": "Page 182 describes the Net Zero Asset Owner Alliance as 'A coalition of 74 pension funds and insurers...'"
+    },
+    {
+      "question": "For a country's net-zero pledge to be credible, it must be supported by:",
+      "options": {
+        "A": "A single, long-term target year.",
+        "B": "Vague promises of future action.",
+        "C": "Comprehensive planning underpinned by scientifically robust pathways and clear interim targets.",
+        "D": "A focus on purchasing international carbon offsets."
+      },
+      "answer": "C",
+      "explanation": "Page 192 states that one of the key quality criteria for a national commitment is 'comprehensive planning underpinned by scientifically robust pathways and clear interim targets.'"
+    },
+    {
+      "question": "According to the text, what is one of the main reasons for the low number of companies with defined net-zero pathways?",
+      "options": {
+        "A": "A lack of interest from investors.",
+        "B": "The simplicity of the task makes it a low priority.",
+        "C": "The complexity of understanding what net zero implies for their operations and the challenge of developing a realistic pathway.",
+        "D": "Strong regulatory pressure has already solved the problem."
+      },
+      "answer": "C",
+      "explanation": "Page 194 suggests, 'part of the answer probably lies in the complexity of understanding what net zero implies for their operations, and the challenge of developing a realistic pathway towards that target.'"
+    },
+    {
+      "question": "The guidance developed by GFANZ and the UK Transition Plan Taskforce points to the need for metrics and targets that track:",
+      "options": {
+        "A": "Only GHG emissions reduction targets.",
+        "B": "Only financial performance metrics.",
+        "C": "Only operational efficiency metrics.",
+        "D": "GHG emissions reduction targets, but also other operational or financial metrics used as key performance indicators (KPIs)."
+      },
+      "answer": "D",
+      "explanation": "Page 195 states the guidance points to the need for metrics and targets including 'GHG emissions reduction targets, but also other operational or financial metrics which are used as key performance indicators (KPIs) of progress.'"
+    },
+    {
+      "question": "What is the primary function of portfolio alignment tools for financial institutions?",
+      "options": {
+        "A": "To calculate the ESG rating of a company.",
+        "B": "To assess whether a company is on a net zero path by 2050 or if it is ahead of or behind a benchmark schedule.",
+        "C": "To provide a simple pass/fail grade on a company's environmental policy.",
+        "D": "To measure a company's historical emissions from 20 years ago."
+      },
+      "answer": "B",
+      "explanation": "Page 196 explains that typical ESG ratings lack the depth 'to assess whether a company is on a net zero path by 2050, or whether it is ahead or behind a benchmark schedule. To answer these questions, portfolio alignment tools are needed.'"
+    },
+    {
+      "question": "According to the Sustainable Finance Taxonomy for fossil fuel producers, 'Decommissioning “high carbon” assets' is categorized as an activity that could:",
+      "options": {
+        "A": "Increase emissions and deviate away from alignment.",
+        "B": "Stabilize or prevent further emissions (neutral or incremental effect).",
+        "C": "Reduce emissions and transition the portfolio (positive effect).",
+        "D": "Have an unknown effect on alignment."
+      },
+      "answer": "B",
+      "explanation": "Table 8.6 on page 199 places 'Decommissioning “high carbon” assets' in the middle column, under 'Financing activities that could stabilize or prevent further emissions (neutral or incremental effect on alignment).'"
+    },
+    {
+      "question": "The US Securities and Exchange Commission (SEC) published a proposal in March 2022 to make climate-related reporting mandatory. This proposal was largely built on whose recommendations?",
+      "options": {
+        "A": "The GRI's recommendations.",
+        "B": "The EU's CSRD.",
+        "C": "The TCFD's recommendations.",
+        "D": "The ISSB's recommendations."
+      },
+      "answer": "C",
+      "explanation": "Page 201 states, 'in March 2022 the US Securities and Exchange Commission (SEC) has published a proposal to make climate-related reporting mandatory for its registrants. The proposed rules were largely built on the TCFD’s recommendations.'"
+    },
+    {
+      "question": "Which two organizations are identified as key leaders in the emerging area of the regulatory landscape governing net-zero disclosures?",
+      "options": {
+        "A": "The World Bank and IMF.",
+        "B": "The GHG Protocol and the IPCC.",
+        "C": "The TCFD and ISSB.",
+        "D": "UNEP FI and GFANZ."
+      },
+      "answer": "C",
+      "explanation": "The conclusion on page 202 summarizes, 'Finally, the chapter provided an overview of the regulatory landscape governing net-zero disclosures and identified the TCFD and ISSB as key leaders in this emerging area.'"
+    },
+    {
+      "question": "What does the 'SME Climate Hub' provide for businesses?",
+      "options": {
+        "A": "A certification scheme for large corporations.",
+        "B": "A pledge for technology companies to reach net zero by 2040.",
+        "C": "Tools, resources, and frameworks for businesses with fewer than 500 employees to commit to reaching net zero.",
+        "D": "A collaborative forum for institutional investors."
+      },
+      "answer": "C",
+      "explanation": "Table 8.1 on page 182 describes the SME Climate Hub as 'A hub that provides the tools, resources, and frameworks that allow businesses with fewer than 500 employees to commit to reaching net zero by 2050 or sooner.'"
+    },
+    {
+      "question": "What is the key criticism of production-based emissions accounting at the national level?",
+      "options": {
+        "A": "It is too difficult to calculate accurately.",
+        "B": "It places a disproportionate burden on developing countries and allows developed economies to ignore the emissions intensity of their consumption.",
+        "C": "It is not recognized by any international bodies.",
+        "D": "It overestimates the emissions of all countries."
+      },
+      "answer": "B",
+      "explanation": "Page 185 states the criticism: 'production-based emissions accounting places a disproportionate share of the transition burden on developing countries and allows developed economies to shirk from addressing the emissions intensity of domestic consumption.'"
+    },
+    {
+      "question": "According to the SBTi's guidance, when are adjusting portfolio holdings and divesting recommended for financial institutions?",
+      "options": {
+        "A": "As the primary and first strategy to achieve targets.",
+        "B": "Only as complementary strategies, when engagement with investee companies does not lead to desired improvements.",
+        "C": "They are never recommended under any circumstances.",
+        "D": "Only for portfolios that are already 100% aligned."
+      },
+      "answer": "B",
+      "explanation": "Box 8.2 on page 189 advises, 'Adjusting portfolio holdings and divesting from companies with low ambition are solely recommended as complementary strategies, where engagement does not lead to the desired improvements.'"
+    },
+    {
+      "question": "How can developing a transition plan help an organization manage 'technology risk'?",
+      "options": {
+        "A": "By helping to prepare for anticipated regulatory changes.",
+        "B": "By identifying which technologies will be key in the climate transition and developing strategies for harnessing them.",
+        "C": "By assessing how demand and supply changes will affect resource prices.",
+        "D": "By grasping how climate awareness could change how the organization is perceived by the public."
+      },
+      "answer": "B",
+      "explanation": "Page 192 links transition plans to managing the four key risks. For technology risk, it can 'identify which technologies will be key in the climate transition, and develop strategies for harnessing them(technology risk).'"
+    }
+  ]
+}

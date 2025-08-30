@@ -1,0 +1,1005 @@
+{
+  "C1": [
+    {
+      "question": "What is the primary difference between weather and climate?",
+      "options": {
+        "A": "Weather refers to long-term patterns, while climate is the exact state of the atmosphere at a specific time.",
+        "B": "Weather is the exact state of the atmosphere at a particular location and time, while climate refers to long-term patterns or statistics.",
+        "C": "Weather and climate are interchangeable terms for atmospheric conditions.",
+        "D": "Climate is measured over a period of 1 year, while weather is measured daily."
+      },
+      "answer": "B",
+      "explanation": "Page 2 defines weather as 'the exact state of the atmosphere at a particular location and time' and climate as 'the long-term patterns or statistics of the weather,' typically over 30 years or more."
+    },
+    {
+      "question": "According to Figure 1.1a, approximately how much has the global average surface temperature increased from the 1850-1900 average to the modern era?",
+      "options": {
+        "A": "0.5°C",
+        "B": "1.2°C",
+        "C": "1.8°C",
+        "D": "2.0°C"
+      },
+      "answer": "B",
+      "explanation": "Page 4 states, 'The surface thermometer record shows that the Earth has warmed by 1.2°C over this time (calculated as the difference between the 1850-1900 average and the 2013-2022 average).'"
+    },
+    {
+      "question": "What are the two key contributing factors to the observed rise in sea level?",
+      "options": {
+        "A": "Increased rainfall and melting of floating ice.",
+        "B": "Melting of grounded ice and thermal expansion of ocean water.",
+        "C": "Thermal expansion of ocean water and decreased evaporation.",
+        "D": "Melting of floating sea ice and increased river runoff."
+      },
+      "answer": "B",
+      "explanation": "Page 4 explains that the two key contributors are 'the melting of grounded ice' and the fact that 'water expands when it warms' (thermal expansion). It also clarifies that melting floating ice does not raise sea level."
+    },
+    {
+      "question": "Which method is used to estimate climate conditions over the past tens of millions of years?",
+      "options": {
+        "A": "Tree rings",
+        "B": "Ice cores",
+        "C": "Corals",
+        "D": "Ocean sediment cores"
+      },
+      "answer": "D",
+      "explanation": "Page 5 lists different proxies, stating that 'Ocean sediment cores: Analyzing the composition of the mud at the bottom of the ocean provides information about the climate covering the past tens of millions of years.'"
+    },
+    {
+      "question": "The warming over the past century is approximately how many times faster than the average rate of warming coming out of the last ice age?",
+      "options": {
+        "A": "5 times faster",
+        "B": "10 times faster",
+        "C": "16 times faster",
+        "D": "50 times faster"
+      },
+      "answer": "C",
+      "explanation": "Page 5 notes that the modern warming of approximately 1°C in a century is 'around 16 times faster than the average rate of warming coming out of the last ice age (roughly 6°C in 10,000 years).'"
+    },
+    {
+      "question": "What is the most important rule of the Earth's climate system, according to the text?",
+      "options": {
+        "A": "Albedo effect",
+        "B": "Greenhouse effect",
+        "C": "Energy balance",
+        "D": "Radiative forcing"
+      },
+      "answer": "C",
+      "explanation": "Page 7 states, 'This is the most important rule of the Earth's climate: energy balance. The energy reaching the Earth from the Sun must be equal to the energy the Earth radiates back to space...'"
+    },
+    {
+      "question": "Which gas is described as the most important greenhouse gas in the atmosphere, meaning it traps the most heat?",
+      "options": {
+        "A": "Carbon dioxide (CO2)",
+        "B": "Methane (CH4)",
+        "C": "Water vapor (H2O)",
+        "D": "Nitrous oxide (N2O)"
+      },
+      "answer": "C",
+      "explanation": "Page 7 explicitly states, 'Water vapor is the most important greenhouse gas in the atmosphere—meaning it traps the most heat...'"
+    },
+    {
+      "question": "The Keeling Curve, shown in Figure 1.4, plots the atmospheric concentration of which greenhouse gas?",
+      "options": {
+        "A": "Methane",
+        "B": "Ozone",
+        "C": "Carbon dioxide",
+        "D": "Water vapor"
+      },
+      "answer": "C",
+      "explanation": "Page 7 describes Figure 1.4 as 'The record of annual average atmospheric carbon dioxide since the middle of the twentieth century,' which is often referred to as the Keeling Curve."
+    },
+    {
+      "question": "What is Global Warming Potential (GWP)?",
+      "options": {
+        "A": "The total amount of heat a greenhouse gas can trap over its lifetime.",
+        "B": "The heat-trapping power of a greenhouse gas relative to carbon dioxide.",
+        "C": "The potential for a gas to increase global temperatures by 1°C.",
+        "D": "The time a greenhouse gas remains in the atmosphere."
+      },
+      "answer": "B",
+      "explanation": "Page 8 defines GWP as the 'heat-trapping power relative to carbon dioxide.' For example, methane's GWP of 28 means it traps as much heat as 28 kilograms of CO2."
+    },
+    {
+      "question": "What is the net effect of aerosols on the climate system?",
+      "options": {
+        "A": "A strong warming effect by trapping heat.",
+        "B": "A net cooling effect by reflecting sunlight.",
+        "C": "No significant effect on the climate.",
+        "D": "They primarily destroy ozone, causing warming."
+      },
+      "answer": "B",
+      "explanation": "Page 9 explains that aerosols 'reflect incoming solar radiation back to space, so their net effect is to cool the climate.' This partially offsets the warming from greenhouse gases."
+    },
+    {
+      "question": "What is the main role of water vapor in climate change?",
+      "options": {
+        "A": "It is the primary driver of initial warming.",
+        "B": "It has a net cooling effect that counteracts CO2.",
+        "C": "It amplifies warming caused by other gases like CO2 through a feedback loop.",
+        "D": "Human emissions of water vapor are the main cause of its increase."
+      },
+      "answer": "C",
+      "explanation": "Page 10 clarifies that water vapor's main role is to 'amplify changes caused by things like increasing carbon dioxide through a process referred to as the water vapor feedback.'"
+    },
+    {
+      "question": "Which of the following is NOT a plausible natural cause for the rapid warming observed over the last century?",
+      "options": {
+        "A": "Orbital variations (Milankovitch cycles)",
+        "B": "Changes in the Sun's output",
+        "C": "Unforced variability like El Niño",
+        "D": "Tectonic processes"
+      },
+      "answer": "D",
+      "explanation": "Page 10 explains that tectonic processes are 'exceedingly slow' and occur over millions of years, so they 'cannot be responsible for modern warming because it is simply too slow.' The other options are discussed and dismissed as primary causes for other reasons."
+    },
+    {
+      "question": "What was the conclusion of the IPCC's Sixth Assessment Report (AR6) regarding the cause of modern warming?",
+      "options": {
+        "A": "It is likely that human influence has warmed the climate.",
+        "B": "Natural cycles are the primary cause of modern warming.",
+        "C": "It is unequivocal that human influence has warmed the atmosphere, ocean, and land.",
+        "D": "The cause of modern warming is still uncertain."
+      },
+      "answer": "C",
+      "explanation": "Page 11 directly quotes the IPCC AR6 conclusion: 'It is unequivocal that human influence has warmed the atmosphere, ocean, and land.'"
+    },
+    {
+      "question": "In the context of Shared Socioeconomic Pathways (SSPs), which scenario describes a world emphasizing sustainability and a shift to renewable energy, leading to the lowest temperature increases?",
+      "options": {
+        "A": "SSP1",
+        "B": "SSP2",
+        "C": "SSP3",
+        "D": "SSP5"
+      },
+      "answer": "A",
+      "explanation": "Page 12 describes SSP1 as 'a sustainable world where the world's economies gradually shift towards a more environmentally friendly path,' which leads to low emissions and temperature increases of around 2°C."
+    },
+    {
+      "question": "Which SSP scenario results in the highest temperature increases due to a focus on fossil-fuel-driven economic growth?",
+      "options": {
+        "A": "SSP1",
+        "B": "SSP2",
+        "C": "SSP3",
+        "D": "SSP5"
+      },
+      "answer": "D",
+      "explanation": "Page 12 explains that SSP5 'emphasizes economic growth rather than sustainability' with very high fossil fuel use, leading to the highest temperature increases of 5.5°C/10°F."
+    },
+    {
+      "question": "How does the warming experienced by most humans compare to the global average warming figure?",
+      "options": {
+        "A": "It is lower, because oceans warm more than land.",
+        "B": "It is larger, because continents warm more than oceans and most people live on land in the Northern Hemisphere.",
+        "C": "It is exactly the same as the global average.",
+        "D": "It is smaller, because the Southern Hemisphere is warming faster."
+      },
+      "answer": "B",
+      "explanation": "Page 14 states, 'continents to warm more than oceans and to have more warming in the northern hemisphere... this means that the average temperature increase experienced by humans will be larger than the global average warming.'"
+    },
+    {
+      "question": "What is the general pattern of precipitation change in a warming world?",
+      "options": {
+        "A": "All regions will experience a uniform increase in rainfall.",
+        "B": "All regions will become drier.",
+        "C": "Wet regions tend to get wetter, and dry regions tend to get drier.",
+        "D": "Precipitation patterns are not expected to change."
+      },
+      "answer": "C",
+      "explanation": "Page 15 describes the pattern as 'wet gets wetter, dry gets drier,' meaning regions that get a lot of rain will get more, while dry regions will become drier."
+    },
+    {
+      "question": "What is ocean acidification?",
+      "options": {
+        "A": "The process of oceans becoming more alkaline due to pollution.",
+        "B": "The decrease in the pH of the oceans, caused by the uptake of atmospheric CO2.",
+        "C": "The warming of the oceans, which makes them acidic.",
+        "D": "The result of acid rain falling over the oceans."
+      },
+      "answer": "B",
+      "explanation": "Page 15 explains that about a quarter of CO2 emissions ends up in the oceans, where it is converted to carbonic acid. This process makes the oceans 'become more acidic.'"
+    },
+    {
+      "question": "What is the 'albedo effect' in the context of polar amplification?",
+      "options": {
+        "A": "Darker ocean water absorbs more solar radiation than reflective ice, leading to further warming and melting.",
+        "B": "Greenhouse gases are more concentrated at the poles, increasing their warming effect.",
+        "C": "Ice releases heat as it melts, warming the surrounding atmosphere.",
+        "D": "Ocean currents carry warm water to the poles, causing ice to melt."
+      },
+      "answer": "A",
+      "explanation": "Page 16 describes the albedo effect: 'Ice is more reflective... than the darker ocean or land. Thus, previously ice-covered areas absorb more solar radiation, heating up the atmosphere, which in turn, melts more ice...'"
+    },
+    {
+      "question": "A 'climate tipping point' refers to a situation where...",
+      "options": {
+        "A": "Global average temperature passes a 2°C threshold.",
+        "B": "The climate system undergoes a large and rapid shift to an entirely new state.",
+        "C": "Policy responses to climate change finally become effective.",
+        "D": "The economic cost of climate change exceeds global GDP."
+      },
+      "answer": "B",
+      "explanation": "Page 17 defines a climate tipping point as a scenario where 'the climate system will undergo a large and rapid shift to an entirely new climate state.'"
+    },
+    {
+      "question": "Which of the following is an example of climate change adaptation?",
+      "options": {
+        "A": "Switching from coal power plants to solar farms.",
+        "B": "Building seawalls to protect coastal communities from rising sea levels.",
+        "C": "Injecting aerosols into the stratosphere to cool the planet.",
+        "D": "Implementing a carbon tax to reduce emissions."
+      },
+      "answer": "B",
+      "explanation": "Page 17 defines adaptation as 'responding to the negative impacts of climate change.' Building seawalls is given as a direct example of an adaptive response to sea level rise."
+    },
+    {
+      "question": "What is maladaptation?",
+      "options": {
+        "A": "A failed attempt at mitigating climate change.",
+        "B": "An intended adaptation action that actually increases climate vulnerability.",
+        "C": "The inability of a community to adapt to climate change.",
+        "D": "A policy that addresses both adaptation and mitigation."
+      },
+      "answer": "B",
+      "explanation": "Page 18 defines maladaptation as 'an intended adaptation action that actually increases climate vulnerability.' An example given is building a levee that pushes flooding downstream to another community."
+    },
+    {
+      "question": "Which fossil fuel has the highest carbon intensity (produces the most CO2 per unit of energy)?",
+      "options": {
+        "A": "Natural Gas",
+        "B": "Oil (Motor Gasoline)",
+        "C": "Propane",
+        "D": "Coal"
+      },
+      "answer": "D",
+      "explanation": "Page 19 and Table 1.2 clearly state, 'The highest carbon intensity fuel is coal, followed by oil, and lastly natural gas.' The table shows coal having a CO2 factor of ~100 kg/MMBtu, higher than the others."
+    },
+    {
+      "question": "What is the primary issue with relying heavily on wind and solar energy in a power grid?",
+      "options": {
+        "A": "They are too expensive to build.",
+        "B": "They take up too much land.",
+        "C": "Their power generation is intermittent.",
+        "D": "They produce greenhouse gases during operation."
+      },
+      "answer": "C",
+      "explanation": "Page 20 highlights the primary issue with wind and solar as intermittency: 'the Sun shines only during the daytime... and the wind speed varies with meteorological conditions.'"
+    },
+    {
+      "question": "Which of the following is a 'dispatchable' carbon-safe energy source?",
+      "options": {
+        "A": "Solar power",
+        "B": "Wind power",
+        "C": "Nuclear power",
+        "D": "Energy efficiency"
+      },
+      "answer": "C",
+      "explanation": "Page 20 defines dispatchable sources as being able to generate energy regardless of weather. Nuclear energy is listed as a significant source of dispatchable, climate-safe energy."
+    },
+    {
+      "question": "Geoengineering efforts are broadly divided into which two categories?",
+      "options": {
+        "A": "Mitigation and Adaptation",
+        "B": "Solar Radiation Management and Carbon Dioxide Removal",
+        "C": "Renewable Energy and Nuclear Energy",
+        "D": "Ocean Fertilization and Afforestation"
+      },
+      "answer": "B",
+      "explanation": "Page 22 divides geoengineering into two main categories: 'solar radiation management' (reducing absorbed solar energy) and 'carbon dioxide removal' (removing CO2 from the atmosphere)."
+    },
+    {
+      "question": "What is the primary goal of the 2015 Paris Agreement?",
+      "options": {
+        "A": "To completely phase out fossil fuels by 2050.",
+        "B": "To hold the increase in global average temperatures to 'well below 2°C above pre-industrial levels' and pursue efforts to limit it to 1.5°C.",
+        "C": "To create a global fund to pay for climate damages in developing nations.",
+        "D": "To mandate that all countries adopt a carbon tax."
+      },
+      "answer": "B",
+      "explanation": "Page 23 states the aim of the Paris Agreement is 'holding the increase in global average temperatures to \"well below 2°C above pre-industrial levels\" while \"pursuing efforts to limit the temperature increase to 1.5°C above pre-industrial levels.\""
+    },
+    {
+      "question": "What does the concept of a 'carbon budget' refer to?",
+      "options": {
+        "A": "The annual budget a country allocates to climate policies.",
+        "B": "The total cumulative amount of CO2 that can be emitted to stay below a certain temperature threshold.",
+        "C": "A tax placed on carbon emissions.",
+        "D": "The amount of carbon a forest can sequester in a year."
+      },
+      "answer": "B",
+      "explanation": "Page 23 explains that peak warming is determined by 'total cumulative emissions of carbon dioxide.' The carbon budget is the remaining amount we can emit to stay under a temperature target like 2°C."
+    },
+    {
+      "question": "What is meant by the term 'negative emissions'?",
+      "options": {
+        "A": "A situation where a country's economy shrinks, reducing emissions.",
+        "B": "Policies that are ineffective at reducing emissions.",
+        "C": "Humans pulling more carbon dioxide out of the atmosphere than they are releasing.",
+        "D": "The cooling effect produced by aerosols."
+      },
+      "answer": "C",
+      "explanation": "Page 24 explains that to meet temperature targets, emissions must become negative, which 'means that humans are pulling more carbon dioxide out of the atmosphere than they are releasing.'"
+    },
+    {
+      "question": "How does the distribution of modern warming vary geographically?",
+      "options": {
+        "A": "It is uniform across the entire planet.",
+        "B": "The tropics are warming faster than the poles.",
+        "C": "Land has warmed more than the ocean, and the northern hemisphere has warmed more than the southern.",
+        "D": "The southern hemisphere has warmed more than the northern hemisphere."
+      },
+      "answer": "C",
+      "explanation": "Page 4 states, 'The warming is not uniform—land warmed more than the ocean and the northern hemisphere warmed more than the tropics or the southern hemisphere.'"
+    },
+    {
+      "question": "Which of the following is NOT a greenhouse gas?",
+      "options": {
+        "A": "Methane (CH4)",
+        "B": "Carbon Dioxide (CO2)",
+        "C": "Water Vapor (H2O)",
+        "D": "Oxygen (O2)"
+      },
+      "answer": "D",
+      "explanation": "Page 7 lists the major components of the atmosphere that do not produce a greenhouse effect as molecular nitrogen (N2) and oxygen (O2). The other options are all listed as important greenhouse gases."
+    },
+    {
+      "question": "What percentage of the heat trapped by greenhouse gases goes into heating the oceans?",
+      "options": {
+        "A": "About 25%",
+        "B": "About 50%",
+        "C": "About 75%",
+        "D": "About 93%"
+      },
+      "answer": "D",
+      "explanation": "Page 4 states, 'About 93% of the heat trapped by greenhouse gases goes into heating the oceans...'"
+    },
+    {
+      "question": "The cycles between ice ages and warmer interglacial periods, as seen in Figure 1.3b, occur over approximately how many years?",
+      "options": {
+        "A": "1,000 years",
+        "B": "10,000 years",
+        "C": "100,000 years",
+        "D": "1,000,000 years"
+      },
+      "answer": "C",
+      "explanation": "Page 5 says that the cycles between ice ages and interglacials 'take approximately 100,000 years to complete.'"
+    },
+    {
+      "question": "In the 1820s, which scientist first recognized that gases in the atmosphere trap heat, leading to what we now call the greenhouse effect?",
+      "options": {
+        "A": "Svante Arrhenius",
+        "B": "Guy Callendar",
+        "C": "Charles D. Keeling",
+        "D": "Joseph Fourier"
+      },
+      "answer": "D",
+      "explanation": "Page 7 mentions that 'In the 1820s, Joseph Fourier recognized that these gases reduced the amount of energy the Earth radiated to space...'"
+    },
+    {
+      "question": "By the early 2020s, humans had increased atmospheric carbon dioxide by about what percentage relative to pre-industrial levels (late 1700s)?",
+      "options": {
+        "A": "10%",
+        "B": "25%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "answer": "C",
+      "explanation": "Page 8 states that pre-industrial levels were about 280 ppm. By the early 2020s, this increased to about 417 ppm (mentioned on page 7), which is an increase of approximately 50%."
+    },
+    {
+      "question": "Which of the following best describes radiative forcing?",
+      "options": {
+        "A": "The force of the sun's radiation hitting the Earth.",
+        "B": "The difference between incoming solar energy absorbed and outgoing infrared energy emitted by the Earth.",
+        "C": "The process by which greenhouse gases are forced into the atmosphere.",
+        "D": "The speed at which the planet is warming."
+      },
+      "answer": "B",
+      "explanation": "Page 9 defines radiative forcing as the measure that 'quantifies the difference between the incoming energy (sunlight) absorbed by the Earth and the outgoing energy (infrared radiation) emitted by the Earth back to space.'"
+    },
+    {
+      "question": "Which statement about the Earth's orbital variations (Milankovitch cycles) is correct regarding modern warming?",
+      "options": {
+        "A": "They are the primary cause of modern warming.",
+        "B": "They change rapidly and explain the warming of the last century.",
+        "C": "They are responsible for the ice ages but could not cause modern warming because the orbit doesn't change much over a century.",
+        "D": "They have no effect on Earth's climate."
+      },
+      "answer": "C",
+      "explanation": "Page 11 explains that these variations are responsible for the ice ages 'but could not be the cause of modern warming because the orbit does not change much over a century.'"
+    },
+    {
+      "question": "What is a major negative impact of ocean acidification on marine ecosystems?",
+      "options": {
+        "A": "It causes sea levels to rise faster.",
+        "B": "It makes it harder for calcifying species like corals and molluscs to build their shells and skeletons.",
+        "C": "It increases the frequency of harmful algal blooms.",
+        "D": "It depletes the oxygen content of the water."
+      },
+      "answer": "B",
+      "explanation": "Page 15 states that decreasing the ocean's pH 'makes it harder for calcifying species (e.g., corals, molluscs, crustaceans) to build and maintain their shells and skeletons.'"
+    },
+    {
+      "question": "What is Carbon Capture, Utilization, and Storage (CCUS)?",
+      "options": {
+        "A": "A process of capturing CO2 directly from the free atmosphere.",
+        "B": "A method to increase the carbon content of soils for agriculture.",
+        "C": "A process where CO2 from burning fossil fuels is captured and not vented to the atmosphere.",
+        "D": "A natural process where forests and oceans capture carbon."
+      },
+      "answer": "C",
+      "explanation": "Page 21 defines CCUS as 'a process by which fossil fuels are burned in such a way that the carbon dioxide generated is not vented to the atmosphere' but is instead captured for use or storage."
+    },
+    {
+      "question": "What is one of the main challenges associated with a global-scale bioenergy source?",
+      "options": {
+        "A": "It releases more CO2 than fossil fuels.",
+        "B": "The technology is not yet proven.",
+        "C": "It would require enormous amounts of land, potentially competing with food production and forests.",
+        "D": "It can only be used in tropical regions."
+      },
+      "answer": "C",
+      "explanation": "Page 21 notes that a global-scale bioenergy source 'will require enormous amounts of land,' which is problematic as it can lead to clearing forests and other impacts."
+    },
+    {
+      "question": "Which of the following is an example of a 'natural climate solution'?",
+      "options": {
+        "A": "Direct air capture of CO2 using chemical processes.",
+        "B": "Injecting sulfur into the stratosphere.",
+        "C": "Forest conservation and reforestation.",
+        "D": "Building more nuclear power plants."
+      },
+      "answer": "C",
+      "explanation": "Page 23 lists 'Forest conservation and reforestation' as the first example of a natural climate solution, which involves using natural systems to sequester carbon."
+    },
+    {
+      "question": "In Table 1.1, what is the approximate atmospheric lifetime of Methane (CH4)?",
+      "options": {
+        "A": "500 years",
+        "B": "109 years",
+        "C": "11.8 years",
+        "D": "Weeks to months"
+      },
+      "answer": "C",
+      "explanation": "The table on Page 9 lists the atmospheric lifetime of Methane as 11.8 years."
+    },
+    {
+      "question": "The total human contribution to radiative forcing, as shown in Figure 1.5, is a net...",
+      "options": {
+        "A": "Positive (heating) change.",
+        "B": "Negative (cooling) change.",
+        "C": "Neutral or zero change.",
+        "D": "An unknown change that cannot be quantified."
+      },
+      "answer": "A",
+      "explanation": "Page 9 and Figure 1.5 on Page 10 show that while aerosols have a cooling effect, the warming from CO2 and other greenhouse gases is much larger, resulting in a 'net human contribution... [that] is positive.'"
+    },
+    {
+      "question": "The global average temperature difference between an ice age and an interglacial period is about:",
+      "options": {
+        "A": "1°C",
+        "B": "6°C",
+        "C": "12°C",
+        "D": "20°C"
+      },
+      "answer": "B",
+      "explanation": "Page 5 states, 'First, the global average temperature difference between an ice age and an interglacial is about 6°C...'"
+    },
+    {
+      "question": "Which of these proxy methods provides climate data for the last millennium in regions where trees grow?",
+      "options": {
+        "A": "Ice cores",
+        "B": "Ocean sediment cores",
+        "C": "Corals",
+        "D": "Tree rings"
+      },
+      "answer": "D",
+      "explanation": "Page 5 specifies that 'Tree rings: These measurements can reveal climate variations in regions where trees grow and experience seasons for the last millennium.'"
+    },
+    {
+      "question": "In the 'weather dice' analogy, what does climate change represent?",
+      "options": {
+        "A": "A single roll of the die.",
+        "B": "The statistics from many rolls of the die.",
+        "C": "The dice themselves are changing.",
+        "D": "The person rolling the die."
+      },
+      "answer": "C",
+      "explanation": "Page 2 explains, 'If we go back to our weather dice analogy, climate change means that the dice are changing. As the climate warms... we would find that hot temperatures now appear on 4 of the 6 sides of the temperature die.'"
+    },
+    {
+      "question": "How do scientists confirm that the increase in atmospheric CO2 is from burning fossil fuels?",
+      "options": {
+        "A": "By measuring the heat content of the ocean.",
+        "B": "By observing that the increase tracks human emissions and analyzing the isotopic composition of carbon.",
+        "C": "By sampling air directly above power plants.",
+        "D": "By using computer models that exclude natural sources."
+      },
+      "answer": "B",
+      "explanation": "Page 8 provides two key pieces of evidence: the increase in CO2 'track[s] human emissions so closely' and the 'chemical analysis of the atmosphere shows that the carbon dioxide... has an isotopic composition that is consistent with carbon dioxide from fossil fuels.'"
+    },
+    {
+      "question": "Why is ozone in the lower atmosphere (troposphere) a concern for climate change?",
+      "options": {
+        "A": "It is destroying the protective ozone layer.",
+        "B": "It is a powerful greenhouse gas that contributes to trapping heat.",
+        "C": "It directly causes ocean acidification.",
+        "D": "It has a strong cooling effect that masks global warming."
+      },
+      "answer": "B",
+      "explanation": "Page 8 explains that while stratospheric ozone protects from UV radiation, 'ozone is also a powerful greenhouse gas that contributes to trapping heat in the atmosphere,' and increases in the lower atmosphere contribute to warming."
+    },
+    {
+      "question": "Which of the following describes the SSP3 scenario?",
+      "options": {
+        "A": "A sustainable world with low emissions.",
+        "B": "A 'middle of the road' world following current trends.",
+        "C": "A world of regional rivalry with slow economic growth and high fossil fuel dependence.",
+        "D": "A world of rapid, fossil-fuel-driven economic growth."
+      },
+      "answer": "C",
+      "explanation": "Page 12 characterizes SSP3 as a world where 'economic inequality gets worse, leading to increasing conflict between regions,' with slow technology adoption and dependence on fossil fuels."
+    },
+    {
+      "question": "Why does a shift from snow to rain for winter precipitation impact freshwater supplies?",
+      "options": {
+        "A": "Rain contains more pollutants than snow.",
+        "B": "Rain runs off immediately instead of being stored as snowpack that melts in the spring and summer.",
+        "C": "Rain causes more erosion than snow.",
+        "D": "Total precipitation is reduced when it falls as rain."
+      },
+      "answer": "B",
+      "explanation": "Page 15 explains the importance: 'When snow falls in winter, the water does not run off until the snow melts in spring. Rain, on the other hand, runs off immediately... This will increase the availability of water in winter and spring and decreasing it in summer.'"
+    },
+    {
+      "question": "Extreme-event attribution science aims to...",
+      "options": {
+        "A": "Predict exactly when and where the next extreme event will occur.",
+        "B": "Prove that every extreme weather event is caused solely by climate change.",
+        "C": "Quantify the contribution of climate change to the frequency and intensity of extreme events.",
+        "D": "Develop new technologies to prevent extreme weather."
+      },
+      "answer": "C",
+      "explanation": "Page 16 introduces this new branch of science, stating it 'has begun to give us the capability to quantify the contribution of climate change to extreme events.'"
+    },
+    {
+      "question": "The primary reason the Arctic is warming faster than other areas of Earth is called:",
+      "options": {
+        "A": "Ocean acidification",
+        "B": "The greenhouse effect",
+        "C": "Polar amplification",
+        "D": "Unforced variability"
+      },
+      "answer": "C",
+      "explanation": "Page 16 directly states, 'This is the primary reason the Artic is warming faster than other areas of Earth... This polar amplification leads to average Arctic temperature change 3-4 times that of the rest of the Northern Hemisphere.'"
+    },
+    {
+      "question": "Building sea walls or other coastal defenses can sometimes be an example of maladaptation because:",
+      "options": {
+        "A": "They are too expensive for most communities.",
+        "B": "They can lead to increased erosion and damage to neighboring areas.",
+        "C": "They are ineffective against storm surges.",
+        "D": "They can be a source of greenhouse gas emissions."
+      },
+      "answer": "B",
+      "explanation": "Page 18 lists this as an example of maladaptation: 'Building sea walls or other coastal defense structures can sometimes lead to increased erosion and damage to neighboring areas, thus creating new vulnerabilities...'"
+    },
+    {
+      "question": "One of the main impediments to building new traditional nuclear power plants is that they...",
+      "options": {
+        "A": "Release large amounts of CO2 during operation.",
+        "B": "Cannot produce enough electricity for a modern city.",
+        "C": "Are expensive to build and face opposition due to environmental risks.",
+        "D": "Are an intermittent energy source."
+      },
+      "answer": "C",
+      "explanation": "Page 20 notes, 'Nuclear power plants are expensive to build, and this is one of the primary reasons that few new nuclear power plants have been built... Opposition... also arises because of the environmental risks.'"
+    },
+    {
+      "question": "What is a potential downside of hydrogen energy?",
+      "options": {
+        "A": "It produces greenhouse gases when used.",
+        "B": "It has a very low energy per unit mass.",
+        "C": "It is difficult to store and carries a significant explosion risk.",
+        "D": "It can only be produced using fossil fuels."
+      },
+      "answer": "C",
+      "explanation": "Page 22 points out the downsides: 'it is difficult to store, and it carries a significant explosion risk, as passengers of the Hindenburg found out.'"
+    },
+    {
+      "question": "The most frequently discussed method of solar radiation management is:",
+      "options": {
+        "A": "Placing giant mirrors in orbit.",
+        "B": "Making clouds more reflective.",
+        "C": "Injecting sulfur into the stratosphere.",
+        "D": "Painting rooftops white globally."
+      },
+      "answer": "C",
+      "explanation": "Page 22 states, 'The most frequently discussed way to do this is to inject sulfur into the stratosphere,' which forms droplets that reflect sunlight back to space."
+    },
+    {
+      "question": "What is BECCS?",
+      "options": {
+        "A": "A type of battery energy storage system.",
+        "B": "Bioenergy with carbon capture and sequestration.",
+        "C": "A computer model for simulating climate change.",
+        "D": "A policy to reduce emissions from transportation."
+      },
+      "answer": "B",
+      "explanation": "Page 22 defines BECCS as 'bioenergy with carbon capture and sequestration.' In this process, plants are grown (removing CO2), then burned for power, and the resulting CO2 is captured and stored."
+    },
+    {
+      "question": "To stay under the 1.5°C warming threshold, when do net emissions need to reach zero according to the text?",
+      "options": {
+        "A": "2030",
+        "B": "2050",
+        "C": "2080",
+        "D": "2100"
+      },
+      "answer": "B",
+      "explanation": "Page 24, referring to Figure 1.7, states, 'For the 1.5°C threshold, net emissions need to... reach zero in 2050.'"
+    },
+    {
+      "question": "What happens to the Earth's energy when the mass of greenhouse gases in the atmosphere increases?",
+      "options": {
+        "A": "The atmosphere traps less heat, leading to cooling.",
+        "B": "The atmosphere traps more heat, leading to higher temperatures.",
+        "C": "There is no change in the amount of heat trapped.",
+        "D": "More solar energy is reflected back to space."
+      },
+      "answer": "B",
+      "explanation": "Page 7 explains, 'As the mass of greenhouse gases in our atmosphere increases, the atmosphere traps more heat, leading to higher temperatures.'"
+    },
+    {
+      "question": "According to Table 1.1, which category of greenhouse gases has the highest Global Warming Potential (GWP)?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Methane",
+        "C": "Nitrous Oxide",
+        "D": "Halocarbons"
+      },
+      "answer": "D",
+      "explanation": "The table on page 9 shows Halocarbons having GWPs in the '100s to 1000s,' which is significantly higher than Carbon dioxide (1), Methane (29), or Nitrous Oxide (273)."
+    },
+    {
+      "question": "Which statement best summarizes the confidence of the scientific community in the warming of the climate system?",
+      "options": {
+        "A": "It is likely, meaning a confidence of 66%.",
+        "B": "It is a 50/50 chance.",
+        "C": "It is unequivocal, meaning beyond doubt.",
+        "D": "It is extremely likely, meaning 95% confidence."
+      },
+      "answer": "C",
+      "explanation": "Page 4 states that the IPCC has 'described the confidence in the warming of the climate system since the early twentieth century as unequivocal, meaning beyond doubt.'"
+    },
+    {
+      "question": "What is the primary source of energy for the Earth's climate?",
+      "options": {
+        "A": "Geothermal heat from the Earth's core",
+        "B": "Sunlight",
+        "C": "Burning of fossil fuels",
+        "D": "Nuclear fission in the Earth's crust"
+      },
+      "answer": "B",
+      "explanation": "Page 6 clearly states, 'The source of energy for the Earth's climate is sunlight...'"
+    },
+    {
+      "question": "The increase in the fraction of rainfall coming during the heaviest downpours leads to what two seemingly contradictory outcomes?",
+      "options": {
+        "A": "More sunny days and more cloudy days.",
+        "B": "Warmer winters and cooler summers.",
+        "C": "An increased likelihood of both flood events and drought conditions.",
+        "D": "Better crop yields and more famine."
+      },
+      "answer": "C",
+      "explanation": "Page 15 describes the 'surprising result that both wet and dry extremes will grow more likely in the future: When it rains, it's more likely to flood, and when it's not raining, it's more likely to create drought conditions.'"
+    },
+    {
+      "question": "A rapid disintegration of the West Antarctic or Greenland ice sheets is an example of a potential:",
+      "options": {
+        "A": "Negative feedback loop",
+        "B": "Climate tipping point",
+        "C": "Maladaptation",
+        "D": "Geoengineering strategy"
+      },
+      "answer": "B",
+      "explanation": "Page 17 lists 'a rapid disintegration of the West Antarctic or Greenland ice sheets' as a possible place where an abrupt change, or climate tipping point, could occur."
+    },
+    {
+      "question": "Which of these is NOT an example of a non-human mechanism that can contribute to climate change?",
+      "options": {
+        "A": "Tectonic processes",
+        "B": "Orbital variations",
+        "C": "Changes in solar output",
+        "D": "Emissions of aerosols from industrial practices"
+      },
+      "answer": "D",
+      "explanation": "Page 9 identifies industrial practices as a human source of aerosols. Pages 10-11 list tectonic processes, solar output, and orbital variations as natural (non-human) processes that can affect climate."
+    },
+    {
+      "question": "According to the text, approximately what percentage of the world's population lives on land in the northern hemisphere?",
+      "options": {
+        "A": "50%",
+        "B": "65%",
+        "C": "85%",
+        "D": "95%"
+      },
+      "answer": "C",
+      "explanation": "Page 4 notes the importance of uneven warming because 'about 85% of the world's population lives on land in the northern hemisphere...'"
+    },
+    {
+      "question": "The Holocene is the name for the period of the last:",
+      "options": {
+        "A": "1,000 years",
+        "B": "11,000 years",
+        "C": "100,000 years",
+        "D": "70 million years"
+      },
+      "answer": "B",
+      "explanation": "Page 5 refers to Figure 1.3c showing 'the last 11,000 years, since the end of the last ice age, a period known as the Holocene.'"
+    },
+    {
+      "question": "The concentration of CO2 in the atmosphere in 2022 was approximately 417 parts per million (ppm). What does this mean?",
+      "options": {
+        "A": "For every 417 molecules of air, one is CO2.",
+        "B": "41.7% of the atmosphere is CO2.",
+        "C": "In every million molecules of air, about 417 are CO2.",
+        "D": "The mass of CO2 is 417 times that of oxygen."
+      },
+      "answer": "C",
+      "explanation": "Page 7 explains that 417 ppm means 'that, in every million molecules of air, about 417 molecules are CO2.'"
+    },
+    {
+      "question": "For the past 50 years, the increase of CO2 in the atmosphere each year averages what percentage of what humans released?",
+      "options": {
+        "A": "100%",
+        "B": "75%",
+        "C": "44%",
+        "D": "21%"
+      },
+      "answer": "C",
+      "explanation": "Page 8 states that 'the increase in carbon dioxide in the atmosphere each year averages 44% of what humans released into the atmosphere in that year.'"
+    },
+    {
+      "question": "What is the primary purpose of a Nationally Determined Contribution (NDC) under the Paris Agreement?",
+      "options": {
+        "A": "It is a legally binding emissions target enforced by the UN.",
+        "B": "It is a payment from a developed country to a developing country.",
+        "C": "It is a promise of emissions reductions that a country intends to achieve.",
+        "D": "It is a scientific report on a country's climate."
+      },
+      "answer": "C",
+      "explanation": "Page 23 defines an NDC as 'a promise of global emissions reductions that the country intends to achieve.'"
+    },
+    {
+      "question": "Which of these is a significant challenge for the transition to a clean-energy system?",
+      "options": {
+        "A": "The lack of available land for solar panels.",
+        "B": "The risk of shutting down fossil fuel sources too soon, before reliable climate-safe sources can replace them.",
+        "C": "Renewable energy is still more expensive than fossil fuels in all applications.",
+        "D": "The world has already run out of materials like cobalt for batteries."
+      },
+      "answer": "B",
+      "explanation": "Page 22 highlights one of the biggest risks: 'that our existing fossil fuel energy sources are shutdown too soon, before climate-safe energy sources are able to provide the 24-hour-per-day reliable power that everyone expects.'"
+    },
+    {
+      "question": "According to the text, the current trajectory of emissions under the Paris Agreement commitments puts the world on track for how much warming by 2100?",
+      "options": {
+        "A": "Below 1.5°C",
+        "B": "Exactly 2.0°C",
+        "C": "2.5-3°C",
+        "D": "Over 4.0°C"
+      },
+      "answer": "C",
+      "explanation": "Page 23 states, 'commitments under the Paris Agreement put us on track for 2.5-3°C of warming in 2100...'"
+    },
+    {
+      "question": "The best estimate is that humans are responsible for approximately what percentage of the observed warming of the climate system?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "answer": "D",
+      "explanation": "Page 12 quotes the IPCC's best estimate for human-caused warming as 1.07°C, while the observed warming is about 1.1°C. The text concludes, 'this means that the best estimate is that humans are responsible for 100% of the observed warming of the climate system.'"
+    },
+    {
+      "question": "Which of the following would be an example of mitigation?",
+      "options": {
+        "A": "Building a seawall to protect from sea level rise.",
+        "B": "Adding sulfur to the stratosphere to cool the planet.",
+        "C": "Expanding forested areas to improve water quality.",
+        "D": "Phasing out coal power plants."
+      },
+      "answer": "D",
+      "explanation": "Page 17 defines mitigation as 'actions that reduce emissions of carbon dioxide and other greenhouse gases, thereby preventing the climate from changing.' Phasing out coal power is a direct way to reduce emissions."
+    },
+    {
+      "question": "Why do scientists look for multiple, independent confirmations of important scientific conclusions, like global warming?",
+      "options": {
+        "A": "To ensure they get paid by different funding agencies.",
+        "B": "Because any single sample of data may contain unrecognized biases or errors.",
+        "C": "Because climate science is a new field and the methods are not yet reliable.",
+        "D": "To publish more papers in scientific journals."
+      },
+      "answer": "B",
+      "explanation": "Page 4 explains that 'any sample of data... may contain biases or other data issues that the scientific community has not yet recognized. For this reason, scientists look for... multiple independent confirmations of important scientific conclusions.'"
+    },
+    {
+      "question": "Which two processes have contributed about equally to sea level rise over the past century?",
+      "options": {
+        "A": "Melting glaciers and melting icebergs.",
+        "B": "Thermal expansion and groundwater depletion.",
+        "C": "Melting of grounded ice and thermal expansion of seawater.",
+        "D": "Increased precipitation and river runoff."
+      },
+      "answer": "C",
+      "explanation": "Page 4 states that the melting of grounded ice and thermal expansion 'have contributed about equally to sea level rise over the past century.'"
+    },
+    {
+      "question": "The period 200 to 300 years ago, which was the bottom of a long-term cooling trend, is known as the:",
+      "options": {
+        "A": "Mid-Holocene",
+        "B": "Last Ice Age",
+        "C": "Little Ice Age",
+        "D": "Industrial Revolution"
+      },
+      "answer": "C",
+      "explanation": "Page 5 mentions a long-term decline in temperature 'that bottomed out in a period 200 to 300 years ago, known as the Little Ice Age.'"
+    },
+    {
+      "question": "What happens to most of the carbon that is removed from the atmosphere by natural processes each year?",
+      "options": {
+        "A": "It is all absorbed by the oceans.",
+        "B": "It is all absorbed by the land biosphere.",
+        "C": "It is broken down by sunlight in the upper atmosphere.",
+        "D": "About half is absorbed by the ocean, and half is absorbed by the land biosphere."
+      },
+      "answer": "D",
+      "explanation": "Page 8 explains that of the 56% of human emissions removed from the atmosphere, 'about half is absorbed into the ocean... The other half is absorbed by the land biosphere...'"
+    },
+    {
+      "question": "What is the primary role of an enhanced transmission system in a renewable-heavy electricity grid?",
+      "options": {
+        "A": "To increase the price of electricity.",
+        "B": "To allow the transfer of energy from regions with excess renewable power to regions where demand is high.",
+        "C": "To connect fossil fuel power plants more efficiently.",
+        "D": "To reduce the total amount of electricity consumed."
+      },
+      "answer": "B",
+      "explanation": "Page 21 states that an enhanced transmission system 'will also help reduce the impact of intermittency of solar and wind energy by allowing the transfer of energy from regions with excess renewable energy to regions where demand exceeds supply.'"
+    },
+    {
+      "question": "Which of these is NOT an example of a policy response to climate change discussed in the text?",
+      "options": {
+        "A": "Adaptation",
+        "B": "Mitigation",
+        "C": "Geoengineering",
+        "D": "Litigation"
+      },
+      "answer": "D",
+      "explanation": "Page 17 introduces the three broad categories of responses as 'adaptation, mitigation, and geoengineering.' Litigation is not discussed as one of these primary categories."
+    },
+    {
+      "question": "What does a 'positive feedback' do in the climate system?",
+      "options": {
+        "A": "It slows down a change, promoting stability.",
+        "B": "It has a beneficial effect on the climate.",
+        "C": "It accelerates or speeds up a change, such as warming.",
+        "D": "It generates a positive electrical charge in the atmosphere."
+      },
+      "answer": "C",
+      "explanation": "Page 16 defines a feedback loop as something that 'either speeds up or slows down a change in a system.' A positive feedback 'accelerates a change, in this case, warming.'"
+    },
+    {
+      "question": "About 50 million years ago, the Earth was much warmer than today. What was a key feature of the planet during this time?",
+      "options": {
+        "A": "The continents were all joined together.",
+        "B": "There was no permanent ice on the planet.",
+        "C": "The atmosphere contained no carbon dioxide.",
+        "D": "An ice age was just beginning."
+      },
+      "answer": "B",
+      "explanation": "Page 5 describes the climate 50 million years ago: 'the Earth was much warmer than it is today—so much so, in fact, that there was no permanent ice on the planet.'"
+    },
+    {
+      "question": "Which of the following is considered a dispatchable renewable energy source?",
+      "options": {
+        "A": "Solar panels",
+        "B": "Wind turbines",
+        "C": "Hydroelectric power",
+        "D": "Tidal power"
+      },
+      "answer": "C",
+      "explanation": "Page 20 lists hydroelectric power as 'the most widespread dispatchable renewable energy source in the world today,' because it can be modulated to generate power when needed."
+    },
+    {
+      "question": "Why would injecting sulfur into the stratosphere cool the planet?",
+      "options": {
+        "A": "It absorbs infrared radiation, preventing it from reaching the surface.",
+        "B": "It reacts with greenhouse gases and neutralizes them.",
+        "C": "It forms droplets that reflect sunlight back to space.",
+        "D": "It creates clouds that produce cooling rain."
+      },
+      "answer": "C",
+      "explanation": "Page 22 explains that sulfur gas in the stratosphere 'reacts with ambient water vapor to form droplets that reflect sunlight back to space, thereby increasing the reflection of incoming solar energy... and cooling the planet.'"
+    },
+    {
+      "question": "According to Figure 1.1, which of the following has shown a consistent downward trend since the late 1970s?",
+      "options": {
+        "A": "Surface temperature",
+        "B": "Sea level",
+        "C": "Ocean heat content",
+        "D": "Arctic sea extent"
+      },
+      "answer": "D",
+      "explanation": "Figure 1.1c on page 3 shows a clear declining trend in Arctic sea extent (in millions of square kilometers) from around 1979 to 2020."
+    },
+    {
+      "question": "What is the primary difference between direct air capture and CCUS?",
+      "options": {
+        "A": "Direct air capture is natural, while CCUS is man-made.",
+        "B": "Direct air capture is cheaper than CCUS.",
+        "C": "Direct air capture removes CO2 from the free atmosphere, while CCUS captures it from a point source like a power plant's exhaust.",
+        "D": "Direct air capture stores CO2 in the ocean, while CCUS stores it underground."
+      },
+      "answer": "C",
+      "explanation": "Page 22 differentiates the two: 'CCUS removes carbon dioxide from the exhaust gas of a power plant, whereas air capture removes carbon from the free atmosphere.'"
+    },
+    {
+      "question": "Based on the text, what is a major equity and justice issue related to climate change adaptation?",
+      "options": {
+        "A": "Adaptation measures are only needed in wealthy countries.",
+        "B": "Wealthy countries are most responsible for climate change but also most capable of adapting, while poorer, less-responsible countries are most affected.",
+        "C": "Adaptation policies are designed to make existing inequalities worse.",
+        "D": "All countries have an equal ability to adapt to climate change."
+      },
+      "answer": "B",
+      "explanation": "Pages 18-19 describe the tension: 'the societies most responsible for climate change... are also the richest countries... most capable of dealing with the impacts. Those who will be most negatively affected are also the poorest countries, who have contributed the least to the climate problem.'"
+    },
+    {
+      "question": "What is one of the main governance challenges with solar radiation management?",
+      "options": {
+        "A": "It is too expensive for any single country to implement.",
+        "B": "It is ineffective at cooling the planet.",
+        "C": "It could change precipitation patterns, potentially causing droughts or floods and leading to international conflict.",
+        "D": "The technology requires international cooperation to even be developed."
+      },
+      "answer": "C",
+      "explanation": "Page 22 notes that solar radiation management is a 'governance nightmare' because it could 'change precipitation patterns, potentially causing droughts in some regions or floods in others' and instigate 'politically destabilizing conflicts.'"
+    },
+    {
+      "question": "What is the best estimate for peak warming for every trillion tonnes of CO2 emitted into the atmosphere?",
+      "options": {
+        "A": "0.1-0.2°C",
+        "B": "0.3-0.6°C",
+        "C": "0.8-1.0°C",
+        "D": "1.5-2.0°C"
+      },
+      "answer": "B",
+      "explanation": "Page 23 states, 'The scientific community's best estimate is that peak warming is 0.3-0.6°C for every trillion tonnes of carbon dioxide emitted into the atmosphere.'"
+    },
+    {
+      "question": "Which of the following is NOT an example of a shared socioeconomic pathway described in detail in the chapter?",
+      "options": {
+        "A": "SSP1 (Sustainability)",
+        "B": "SSP3 (Regional Rivalry)",
+        "C": "SSP4 (Inequality)",
+        "D": "SSP5 (Fossil-fueled Development)"
+      },
+      "answer": "C",
+      "explanation": "Page 12 introduces the SSPs and states, 'Furthermore, SSP4 is rarely used in the climate literature, and we will not consider it further in this chapter.'"
+    },
+    {
+      "question": "What fundamental trade-off exists for emission trajectories that aim to achieve the 1.5°C or 2°C targets?",
+      "options": {
+        "A": "The trade-off between reducing CO2 and reducing methane.",
+        "B": "The trade-off between economic growth and environmental protection.",
+        "C": "The trade-off between the speed of emissions reductions now and the amount of negative emissions needed later.",
+        "D": "The trade-off between adaptation and mitigation funding."
+      },
+      "answer": "C",
+      "explanation": "Page 24 explains, 'they all have a fundamental trade-off between the speed of emissions reductions right now and negative emissions later this century. If a trajectory reduces emissions more slowly... then we will need larger negative emissions later.'"
+    }
+  ]
+}

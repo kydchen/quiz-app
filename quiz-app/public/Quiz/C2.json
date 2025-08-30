@@ -1,0 +1,1060 @@
+{
+  "C2": [
+  {
+    "question": "According to the text, what is the most widely accepted definition of sustainable development?",
+    "options": {
+      "A": "Economic growth that does not consider environmental impact.",
+      "B": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "C": "A process that focuses exclusively on preserving biodiversity and natural systems.",
+      "D": "The measurement of environmental, social, and governance performance of firms."
+    },
+    "answer": "B",
+    "explanation": "The text states that the Brundtland Commission's 1987 definition, 'development that meets the needs of the present without compromising the ability of future generations to meet their own needs,' has become the most cited and widely accepted definition."
+  },
+  {
+    "question": "What are the three core elements that make up 'sustainability' as described in the text?",
+    "options": {
+      "A": "Corporate, Governmental, and Financial",
+      "B": "Past, Present, and Future",
+      "C": "Environmental, Social, and Economic",
+      "D": "Profit, People, and Policy"
+    },
+    "answer": "C",
+    "explanation": "The text defines sustainability through three elements: Environmental sustainability (maintaining ecological integrity), Social sustainability (ensuring basic necessities and human rights), and Economic sustainability (accessible and prosperous economic systems)."
+  },
+  {
+    "question": "What is the relationship between Sustainability and Environmental, Social, and Governance (ESG)?",
+    "options": {
+      "A": "They are unrelated concepts from different fields.",
+      "B": "ESG is a broad category, and sustainability is a way to measure it.",
+      "C": "Sustainability is the broadest category, and ESG is a framework within it used to measure the performance of firms.",
+      "D": "Sustainability is used by corporations, while ESG is used by governments."
+    },
+    "answer": "C",
+    "explanation": "The text clarifies that 'Sustainability is the broadest category of all.' It further explains that 'ESG... sits within sustainability' and is used as a set of standards by investors to gauge companies' performance."
+  },
+  {
+    "question": "In which decade did the modern concept of sustainability, as applicable to public policy and corporations, trace its roots?",
+    "options": {
+      "A": "1950s and 1960s",
+      "B": "1970s and 1980s",
+      "C": "1990s and 2000s",
+      "D": "1890s and 1900s"
+    },
+    "answer": "B",
+    "explanation": "The text states, 'the concept of sustainability as applicable to today's public policy and corporate arenas traces its roots to actions in the 1970s and 1980s,' citing the first major UN meeting on environmental issues in 1972 and the Brundtland Commission a decade later."
+  },
+  {
+    "question": "Which publication, commissioned by the Club of Rome in 1972, argued that there were limits to economic growth due to resource constraints?",
+    "options": {
+      "A": "The Brundtland Report",
+      "B": "The UN 2030 Agenda",
+      "C": "Our Common Future",
+      "D": "The Limits to Growth"
+    },
+    "answer": "D",
+    "explanation": "In the 'Historical Background' section, the text mentions that 1972 saw the publication of 'The Limits to Growth,' a report commissioned by the Club of Rome."
+  },
+  {
+    "question": "Which component of ESG deals with a company's leadership, board composition, and executive compensation?",
+    "options": {
+      "A": "Environmental",
+      "B": "Social",
+      "C": "Governance",
+      "D": "Economic"
+    },
+    "answer": "C",
+    "explanation": "The text defines the 'Governance' component of ESG as dealing with 'a company's leadership, including board composition, executive compensation, risk management, and other internal procedures.'"
+  },
+  {
+    "question": "How do governments typically refer to their policy actions, as opposed to the financial industry's use of the term 'ESG'?",
+    "options": {
+      "A": "They also use the term 'ESG'.",
+      "B": "They prefer the language of 'sustainable development' or topic-specific language like 'climate policy'.",
+      "C": "They use the term 'Corporate Social Responsibility' (CSR).",
+      "D": "They refer to their actions as 'national interest policies'."
+    },
+    "answer": "B",
+    "explanation": "The text notes that 'governments themselves rarely if ever use the language of “ESG” to refer to their own policy actions. They prefer the language of sustainable development or topic specific language, such as climate policy or social policy.'"
+  },
+  {
+    "question": "What is the primary purpose of the United Nations' Sustainable Development Goals (SDGs)?",
+    "options": {
+      "A": "To provide a binding legal framework for international trade.",
+      "B": "To serve as an important focal point and benchmark for policymakers and the private sector regarding sustainability.",
+      "C": "To create a global currency for carbon trading.",
+      "D": "To replace the UN General Assembly."
+    },
+    "answer": "B",
+    "explanation": "The text explains that the UN's 2030 Agenda, with the SDGs at its heart, has 'become an important reference point and benchmark for both policymakers and for the private sector.'"
+  },
+  {
+    "question": "How many Sustainable Development Goals (SDGs) were launched as part of the UN's 2030 Agenda?",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "17",
+      "D": "25"
+    },
+    "answer": "C",
+    "explanation": "The text clearly states, 'At its heart lie 17 Sustainable Development Goals (SDGs), which cover a much broader set of policies and areas than the MDGs.'"
+  },
+  {
+    "question": "What was the predecessor to the Sustainable Development Goals (SDGs)?",
+    "options": {
+      "A": "The Kyoto Protocol",
+      "B": "The Millennium Development Goals (MDGs)",
+      "C": "The Paris Agreement",
+      "D": "Agenda 21"
+    },
+    "answer": "B",
+    "explanation": "The text mentions that in 2000, the UN adopted the Millennium Development Goals (MDGs) and that the 2030 Agenda set out to 'build on the Millennium Development Goals and complete what they did not achieve.'"
+  },
+  {
+    "question": "A key difference between the MDGs and the SDGs is that the SDGs are:",
+    "options": {
+      "A": "Only applicable to developing countries.",
+      "B": "Legally binding for all UN member states.",
+      "C": "Designed in a bottom-up process and are universally applicable to all countries.",
+      "D": "Focused solely on environmental issues."
+    },
+    "answer": "C",
+    "explanation": "The text contrasts the two, stating MDGs were a 'top-down-process' for poorer countries, while 'The SDGs on the other hand, were designed in a bottom-up process and explicitly drafted to be universally applicable across all countries.'"
+  },
+  {
+    "question": "SDG 13, 'Climate Action,' is an example of which type of goal?",
+    "options": {
+      "A": "Economic goal",
+      "B": "Social goal",
+      "C": "Governance goal",
+      "D": "Environmental goal"
+    },
+    "answer": "D",
+    "explanation": "The text categorizes the SDGs and lists 'climate action (SDG 13)' as one of the environmental goals."
+  },
+  {
+    "question": "How many targets are the 17 SDGs subdivided into?",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "169",
+      "D": "232"
+    },
+    "answer": "C",
+    "explanation": "As stated in the text, 'The 17 goals are also subdivided into 169 targets, which provide specificity and enable accountability and the tracking of progress.'"
+  },
+  {
+    "question": "What are ecosystem services broadly defined as?",
+    "options": {
+      "A": "The cost of maintaining national parks.",
+      "B": "The benefits that ecosystems provide to humans.",
+      "C": "Financial services for environmental companies.",
+      "D": "The process of counting species in a given area."
+    },
+    "answer": "B",
+    "explanation": "The text defines ecosystem services as 'the benefits (directly quantifiable resources like timber production or less tangible services like spiritual values) ecosystems provide to humans.'"
+  },
+  {
+    "question": "Which category of ecosystem services includes the regulation of processes like carbon sequestration and pollination?",
+    "options": {
+      "A": "Provisioning services",
+      "B": "Supporting services",
+      "C": "Cultural services",
+      "D": "Regulating services"
+    },
+    "answer": "D",
+    "explanation": "The text explains that Regulating services 'involve the regulation of valuable natural processes such as carbon sequestration and pollination.'"
+  },
+  {
+    "question": "How is 'natural capital' different from 'ecosystem services'?",
+    "options": {
+      "A": "They are the same concept.",
+      "B": "Natural capital is the 'flow of benefits', while ecosystem services are the 'stock of assets'.",
+      "C": "Natural capital is the 'stock of assets' (e.g., a forest), while ecosystem services are the 'flow of benefits' from that stock (e.g., timber).",
+      "D": "Natural capital only includes non-living resources like minerals."
+    },
+    "answer": "C",
+    "explanation": "The text differentiates the two by explaining: 'think of natural capital as a stock of assets... and ecosystem services... as a “flow of benefits” that derive from natural capital.'"
+  },
+  {
+    "question": "What famous adage by economist Milton Friedman represents the historical view that a business's sole responsibility is to its shareholders?",
+    "options": {
+      "A": "'The business of business is business.'",
+      "B": "'There is one and only one social responsibility of business—to use its resources and engage in activities designed to increase its profits.'",
+      "C": "'A rising tide lifts all boats.'",
+      "D": "'Profit, People, Planet.'"
+    },
+    "answer": "B",
+    "explanation": "The text directly quotes Milton Friedman: 'there is one and only one social responsibility of business—to use its resources and engage in activities designed to increase its profits.'"
+  },
+  {
+    "question": "The concept of the 'triple bottom line' places which two factors on co-equal status with a company's financial performance?",
+    "options": {
+      "A": "Technological innovation and market share",
+      "B": "Legal compliance and political influence",
+      "C": "Environmental and social impact",
+      "D": "Employee satisfaction and customer loyalty"
+    },
+    "answer": "C",
+    "explanation": "The notion of the 'triple bottom line' is described as 'placing environmental and social impact “bottom lines” on co-equal status with the traditional bottom line—a company’s financial performance.'"
+  },
+  {
+    "question": "What is 'decoupling' in the context of greenwashing?",
+    "options": {
+      "A": "Separating financial reporting from sustainability reporting.",
+      "B": "Claiming to meet stakeholder expectations on sustainability without making actual changes in practice.",
+      "C": "Shifting the blame for environmental issues to the consumer.",
+      "D": "Under-reporting sustainability credentials to avoid scrutiny."
+    },
+    "answer": "B",
+    "explanation": "The text defines decoupling as 'when organisations claim to fulfill stakeholders’ expectations for action on sustainability, without actually making any changes in what they do in practice.'"
+  },
+  {
+    "question": "When a company spotlights small green features of its operations to distract from larger, more damaging activities, it is engaging in which type of greenwashing?",
+    "options": {
+      "A": "Greenshifting",
+      "B": "Greenhushing",
+      "C": "Greenlighting",
+      "D": "Greenrinsing"
+    },
+    "answer": "C",
+    "explanation": "This practice is defined as 'Greenlighting', which 'occurs when companies spotlight small green features of their operations or products in their communications to distract from larger environmentally damaging activities.'"
+  },
+  {
+    "question": "What does the term 'greenhushing' refer to?",
+    "options": {
+      "A": "Making false environmental claims.",
+      "B": "Shifting blame to consumers.",
+      "C": "Under-reporting or hiding sustainability credentials to avoid investor scrutiny.",
+      "D": "Regularly changing ESG targets before they are achieved."
+    },
+    "answer": "C",
+    "explanation": "The text defines 'Greenhushing' as the practice of 'under-reporting or hiding sustainability credentials by corporate management teams to avoid investor scrutiny.'"
+  },
+  {
+    "question": "What is 'greenwishing'?",
+    "options": {
+      "A": "A form of intentional mis-selling and making false claims.",
+      "B": "Well-intended efforts to tackle sustainability that are not impactful enough or are superficial.",
+      "C": "The act of hiding positive sustainability data.",
+      "D": "Investing only in companies with perfect ESG scores."
+    },
+    "answer": "B",
+    "explanation": "Greenwishing is described as 'well-intended efforts to tackle sustainability challenges, which may not make enough of a difference or encourage superficial changes when more structural ones are required.'"
+  },
+  {
+    "question": "A life-cycle assessment (LCA) is a 'cradle-to-grave' assessment of a product's what?",
+    "options": {
+      "A": "Financial profitability",
+      "B": "Social impact",
+      "C": "Market potential",
+      "D": "Environmental impacts"
+    },
+    "answer": "D",
+    "explanation": "An LCA is described as a '“cradle-to-grave” assessment of a product’s environmental impacts,' examining every stage from input extraction to disposal."
+  },
+  {
+    "question": "What are the four phases of an LCA as laid out in ISO 14040?",
+    "options": {
+      "A": "Planning, Execution, Reporting, Auditing",
+      "B": "Goal and scope definition, Inventory analysis, Impact assessment, Interpretation",
+      "C": "Design, Manufacturing, Sales, Disposal",
+      "D": "Funding, Research, Development, Marketing"
+    },
+    "answer": "B",
+    "explanation": "The text lists the four phases of an LCA according to ISO 14040: 1. Goal and scope definition, 2. Inventory analysis, 3. Impact assessment, and 4. Interpretation."
+  },
+  {
+    "question": "Which private-sector coalition, formed after the 1992 UN Rio Summit, consists of over 200 global firms and shares best practices on sustainability?",
+    "options": {
+      "A": "Principles for Responsible Investment (PRI)",
+      "B": "UN Global Compact (UNGC)",
+      "C": "Global Impact Investing Network (GIIN)",
+      "D": "World Business Council for Sustainable Development (WBCSD)"
+    },
+    "answer": "D",
+    "explanation": "According to Table 2.3 and the text, the WBCSD is an 'organization of over 200 global firms, formed in the wake of the 1992 Rio Summit' to research and share best practices."
+  },
+  {
+    "question": "The Principles for Responsible Investment (PRI) group was launched to play a key role for which group of stakeholders?",
+    "options": {
+      "A": "Governments",
+      "B": "Corporate CEOs",
+      "C": "Investors",
+      "D": "Consumers"
+    },
+    "answer": "C",
+    "explanation": "The text states that the PRI group, launched in 2006, 'has played a similar role to the WBCSD for investors,' providing principles for incorporating ESG issues."
+  },
+  {
+    "question": "What is the primary focus of the Global Reporting Initiative (GRI)?",
+    "options": {
+      "A": "Reporting on financially material sustainability issues for investors.",
+      "B": "Providing a framework for companies to report on all sustainability-related impacts, regardless of financial materiality.",
+      "C": "Mandating specific climate-related financial disclosures.",
+      "D": "Auditing corporate financial statements."
+    },
+    "answer": "B",
+    "explanation": "The text describes GRI as a framework that allows companies to 'report on all sustainability related impacts, regardless of whether these are financially material to investors or not.'"
+  },
+  {
+    "question": "In contrast to GRI, what is the focus of the Sustainability Accounting Standards Board (SASB)?",
+    "options": {
+      "A": "Reporting on all sustainability impacts on society.",
+      "B": "Reporting on sustainability issues that are financially material to investors.",
+      "C": "Creating universal standards for employee welfare.",
+      "D": "Lobbying governments for stricter environmental laws."
+    },
+    "answer": "B",
+    "explanation": "SASB is described as a framework which allows companies 'to specifically report on those sustainability issues which are financially material to investors.'"
+  },
+  {
+    "question": "In 2021, SASB was consolidated into which newly formed standards board?",
+    "options": {
+      "A": "Global Reporting Initiative (GRI)",
+      "B": "International Financial Reporting Standards Foundation (IFRS)",
+      "C": "International Sustainability Standards Board (ISSB)",
+      "D": "Taskforce on Climate-Related Financial Disclosures (TCFD)"
+    },
+    "answer": "C",
+    "explanation": "The text states: 'In 2021, SASB was one of several reporting frameworks to be consolidated into the newly formed International Sustainability Standards Board (ISSB).'"
+  },
+  {
+    "question": "What do 'nature-based solutions' aim to do?",
+    "options": {
+      "A": "Replace all natural ecosystems with man-made technological solutions.",
+      "B": "Protect, manage, or restore ecosystems to address societal challenges like climate change.",
+      "C": "Use genetically modified organisms to increase carbon dioxide absorption.",
+      "D": "Focus only on protecting endangered species without considering human challenges."
+    },
+    "answer": "B",
+    "explanation": "Nature-based solutions are defined in the case study as 'actions to protect, manage, or restore ecosystems that also address societal and human challenges,' such as addressing human-caused climate change."
+  },
+  {
+    "question": "The term ESG was first coined in a 2005 report by which organization?",
+    "options": {
+      "A": "The World Bank",
+      "B": "The UN Global Compact",
+      "C": "The Intergovernmental Panel on Climate Change (IPCC)",
+      "D": "The Club of Rome"
+    },
+    "answer": "B",
+    "explanation": "According to Section 2.2, 'The term ESG was coined in a 2005 report by the UN Global Compact, which was endorsed by a coterie of investment firms.'"
+  },
+  {
+    "question": "Which of the following is an example of a 'Social' metric in ESG analysis?",
+    "options": {
+      "A": "A company's carbon dioxide emissions.",
+      "B": "The composition of the company's board of directors.",
+      "C": "How a company treats its employees and manages relationships with suppliers.",
+      "D": "A company's impact on deforestation."
+    },
+    "answer": "C",
+    "explanation": "The text explains that 'Social metrics examine how a company treats its employees and manages relationships with suppliers and communities.'"
+  },
+  {
+    "question": "How is climate change positioned in relation to ESG?",
+    "options": {
+      "A": "It is exclusively a 'G' (Governance) issue.",
+      "B": "It is completely separate from ESG.",
+      "C": "It falls under the 'E' (Environmental) category but is also a cross-cutting issue affecting all stakeholders.",
+      "D": "It is only relevant for governments, not for corporate ESG ratings."
+    },
+    "answer": "C",
+    "explanation": "The text notes that while climate change-related issues 'do fall under the “E” (environmental) category, in reality climate is not exclusively an ESG issue' because its impacts 'affect all stakeholders.'"
+  },
+  {
+    "question": "Which UN body, introduced at the 1992 Earth Summit, is a major convening body for global climate decisions like the Paris Agreement?",
+    "options": {
+      "A": "United Nations Environment Programme (UNEP)",
+      "B": "Intergovernmental Panel on Climate Change (IPCC)",
+      "C": "United Nations Framework Convention on Climate Change (UNFCCC)",
+      "D": "World Health Organization (WHO)"
+    },
+    "answer": "C",
+    "explanation": "Section 2.3.1 states that the Earth Summit 'introduced the United Nations Framework Convention on Climate Change (UNFCCC), a major convening body for global climate decisions.'"
+  },
+  {
+    "question": "What was a notable shortcoming of the Millennium Development Goals (MDGs)?",
+    "options": {
+      "A": "They were too broad and universally applicable.",
+      "B": "They were legally binding and too strict.",
+      "C": "They never deeply involved or engaged private-sector stakeholders like corporations.",
+      "D": "They focused too much on high-income countries."
+    },
+    "answer": "C",
+    "explanation": "The text points out a flaw of the MDGs: 'the MDGs never deeply involved or engaged private-sector stakeholders such as corporations or financial institutions.'"
+  },
+  {
+    "question": "What is the primary goal of a circular economy?",
+    "options": {
+      "A": "To maximize the consumption of finite resources.",
+      "B": "To 'de-link' economic growth from the consumption of finite resources by designing out waste and pollution.",
+      "C": "To ensure all products are recycled at least once.",
+      "D": "To focus economic activity solely on the service sector."
+    },
+    "answer": "B",
+    "explanation": "A circular economy is described as one 'in which economic growth is “de-linked” from consumption of finite resources. Ultimately, waste and pollution are reduced and eliminated by design from products and economies.'"
+  },
+  {
+    "question": "The case study of the Brumadinho dam collapse in Brazil illustrates what type of risk for a company?",
+    "options": {
+      "A": "A purely financial risk unrelated to sustainability.",
+      "B": "How a failure in sustainability practices can lead to severe financial, reputational, and operational consequences.",
+      "C": "A political risk from changing government regulations.",
+      "D": "A temporary market fluctuation."
+    },
+    "answer": "B",
+    "explanation": "The Brumadinho dam example is used to show how sustainability issues are material risks. The collapse 'killed 270 people,' polluted the river, and caused the firm's share price to crash, risking its 'social license to operate.'"
+  },
+  {
+    "question": "The UN Global Compact (UNGC) encourages businesses to adopt sustainable practices based on ten principles in what four areas?",
+    "options": {
+      "A": "Finance, technology, marketing, and law",
+      "B": "Human rights, labor, environment, and anti-corruption",
+      "C": "Energy, water, waste, and transportation",
+      "D": "Healthcare, education, infrastructure, and innovation"
+    },
+    "answer": "B",
+    "explanation": "Table 2.3 describes the UNGC framework as being 'based around ten principles on human rights, labor, environment, and anti-corruption.'"
+  },
+  {
+    "question": "The ISSB's draft standard IFRS S2 focuses specifically on what disclosures?",
+    "options": {
+      "A": "General sustainability-related financial information.",
+      "B": "Social and human capital disclosures.",
+      "C": "Climate-related risks and opportunities.",
+      "D": "Biodiversity and ecosystem service disclosures."
+    },
+    "answer": "C",
+    "explanation": "The case study on the ISSB states that the '[draft] IFRS S2 Climate-related Disclosures... sets out more granular disclosure requirements specifically on the issue of climate-related risks and opportunities.'"
+  },
+  {
+    "question": "According to SASB's framework (Figure 2.4), which of the five main dimensions would 'GHG Emissions' fall under?",
+    "options": {
+      "A": "Social Capital",
+      "B": "Human Capital",
+      "C": "Leadership & Governance",
+      "D": "Environment"
+    },
+    "answer": "D",
+    "explanation": "Figure 2.4, 'SASB Dimensions and Key Issues,' clearly lists 'GHG Emissions' as a key issue under the 'Environment' dimension."
+  },
+  {
+    "question": "What is meant by 'SDG Materiality'?",
+    "options": {
+      "A": "The physical materials needed to achieve the SDGs.",
+      "B": "The idea that many SDGs, while non-financial in nature, can have material financial effects on companies and industries.",
+      "C": "A requirement that all companies must report on all 17 SDGs.",
+      "D": "A new brand of sustainable materials."
+    },
+    "answer": "B",
+    "explanation": "Section 2.5.1 discusses SDG Materiality, explaining that 'many of the SDGs do have material financial effects on particular companies or industries—that is, effects that can impact the financial bottom line.'"
+  },
+  {
+    "question": "What is Corporate Social Responsibility (CSR)?",
+    "options": {
+      "A": "A mandatory legal framework for corporate donations.",
+      "B": "The concept that a corporation has a broader obligation to society, often pursued through social or environmental activities.",
+      "C": "A synonym for financial performance.",
+      "D": "A marketing strategy focused on making a company look good."
+    },
+    "answer": "B",
+    "explanation": "The text explains CSR as a concept where companies 'undertake social or environmental activities for the wider benefit of society,' acknowledging a 'broader obligation to society.'"
+  },
+  {
+    "question": "What is an example of a 'Provisioning' ecosystem service?",
+    "options": {
+      "A": "The recreational value of a forest.",
+      "B": "Flood regulation by wetlands.",
+      "C": "The generation of resources like freshwater and food.",
+      "D": "Nutrient cycling in the soil."
+    },
+    "answer": "C",
+    "explanation": "Provisioning services are defined as those that 'generate resources, such as freshwater and food, for society that can often be traded in markets.' Table 2.1 also lists Freshwater, Timber, and Food as examples."
+  },
+  {
+    "question": "The Shell case study illustrates an evolution in corporate sustainability reporting from a focus on 'values' to a focus on what?",
+    "options": {
+      "A": "Firm-level commitments to specified initiatives and international goals.",
+      "B": "Purely philanthropic activities.",
+      "C": "Minimizing any mention of sustainability.",
+      "D": "Legal compliance only."
+    },
+    "answer": "A",
+    "explanation": "The case study shows that Shell's reporting changed from framing content as a 'choice between profits and principles' in 1997 to being 'much more focused on firm-level commitments to specified initiatives or international goals,' like its net-zero target by 2050."
+  },
+  {
+    "question": "What is 'Greenshifting'?",
+    "options": {
+      "A": "Highlighting minor positive environmental actions.",
+      "B": "Hiding in a crowd of companies to avoid detection.",
+      "C": "Shifting the blame for environmental issues to the consumer.",
+      "D": "Making misleading claims about sustainability."
+    },
+    "answer": "C",
+    "explanation": "The text defines Greenshifting as the practice where 'companies shift the blame for environmental issues to the consumer.'"
+  },
+  {
+    "question": "According to the World Wildlife Fund (WWF) criteria mentioned in the text, what is a key reason a simple tree-planting scheme might fail as a nature-based solution?",
+    "options": {
+      "A": "It is too expensive to plant trees.",
+      "B": "It does not produce a functional, biodiverse ecosystem and lacks long-term monitoring.",
+      "C": "Trees do not absorb enough carbon dioxide.",
+      "D": "Local stakeholders are always opposed to planting trees."
+    },
+    "answer": "B",
+    "explanation": "The case study explains that planting a single species in dense rows 'does not produce a functional, biodiverse ecosystem' and often lacks mechanisms 'to ensure the trees grow and stand for decades,' thus failing the WWF criteria."
+  },
+  {
+    "question": "Which of the following describes a 'Supporting' ecosystem service?",
+    "options": {
+      "A": "Timber from a forest.",
+      "B": "Spiritual enjoyment from a landscape.",
+      "C": "Fundamental conditions like species habitat and soil formation that enable all other services.",
+      "D": "Purification of polluted water by wetlands."
+    },
+    "answer": "C",
+    "explanation": "The text describes Supporting services, like species habitat and genetic diversity, as 'fundamental conditions that enable the existence of all other services.' Table 2.1 lists Habitat, Nutrient cycling, and Soil formation as examples."
+  },
+  {
+    "question": "The concept of 'divestment' in sustainable investing, such as leaving out shares of companies in alcohol or gambling, is an example of what?",
+    "options": {
+      "A": "Engagement",
+      "B": "Exclusion from investments",
+      "C": "Stewardship",
+      "D": "Monitoring"
+    },
+    "answer": "B",
+    "explanation": "The text provides examples of divestment and then states, 'These are two examples of divestment—that is, an exclusion from investments.'"
+  },
+  {
+    "question": "What does the financial coalition 'Principles for Responsible Banking (PRB)' aim to do?",
+    "options": {
+      "A": "Provide a framework for sustainable banking and demonstrate the industry's positive contribution to society.",
+      "B": "Offer insurance products for sustainable projects.",
+      "C": "Measure the impact of investments for asset owners.",
+      "D": "Focus exclusively on anti-corruption in the banking sector."
+    },
+    "answer": "A",
+    "explanation": "Table 2.3 describes the PRB's goal as providing 'the framework for a sustainable banking system and help the industry to demonstrate how it makes a positive contribution to society.'"
+  },
+  {
+    "question": "What is a primary driver for the increased focus on sustainability as a source of corporate risk?",
+    "options": {
+      "A": "It is a passing trend with no financial implications.",
+      "B": "Issues like resource overexploitation and social license to operate can cause direct financial impacts and losses.",
+      "C": "Companies have a surplus of funds to spend on non-essential activities.",
+      "D": "It is required by all international laws."
+    },
+    "answer": "B",
+    "explanation": "The text explains that sustainability issues are 'increasingly being viewed as potentially material sources of corporate risks that can directly or indirectly cause financial impacts and losses,' citing reputational risk and the risk of losing a 'social license to operate.'"
+  },
+  {
+    "question": "Which sustainability reporting framework was launched in 1997 in the wake of the Exxon Valdez oil spill?",
+    "options": {
+      "A": "Sustainability Accounting Standards Board (SASB)",
+      "B": "International Sustainability Standards Board (ISSB)",
+      "C": "Global Reporting Initiative (GRI)",
+      "D": "Taskforce on Climate-Related Financial Disclosures (TCFD)"
+    },
+    "answer": "C",
+    "explanation": "The text explicitly states, 'The most prominent framework in this field was developed by the Global Reporting Initiative (GRI) which, was launched in 1997 in the wake of the Exxon Valdez oil spill.'"
+  },
+  {
+    "question": "The practice of regularly changing ESG targets before they are achieved is known as:",
+    "options": {
+      "A": "Greenlighting",
+      "B": "Greenrinsing",
+      "C": "Greencrowding",
+      "D": "Greenlabelling"
+    },
+    "answer": "B",
+    "explanation": "The text defines 'Greenrinsing' as a situation that 'occurs when companies regularly change their ESG targets before they are achieved.'"
+  },
+  {
+    "question": "The modern application of sustainability now applies to which entities?",
+    "options": {
+      "A": "Only to country-level economic development.",
+      "B": "Only to corporate actions.",
+      "C": "Governments, corporations, financial institutions, and individuals.",
+      "D": "Only to non-profit organizations."
+    },
+    "answer": "C",
+    "explanation": "The 'Key Learning Points' section states that 'sustainability is now applied to governments, corporations, and financial institutions alike, and to actions by individuals.'"
+  },
+  {
+    "question": "Social sustainability is defined as ensuring a minimum standard of what for all people?",
+    "options": {
+      "A": "Luxury goods and services.",
+      "B": "Access to high-speed internet.",
+      "C": "Basic necessities and human rights.",
+      "D": "Employment in a specific industry."
+    },
+    "answer": "C",
+    "explanation": "The text's definition of Social sustainability states that 'a minimum standard of basic necessities and human rights is afforded to all people.'"
+  },
+  {
+    "question": "What does environmental sustainability mean regarding the consumption of natural resources?",
+    "options": {
+      "A": "Resources must not be consumed at all.",
+      "B": "Resources are consumed at a rate less than that at which they can be replenished.",
+      "C": "Resources should be consumed as quickly as possible to drive economic growth.",
+      "D": "Only renewable resources should be consumed."
+    },
+    "answer": "B",
+    "explanation": "The definition of environmental sustainability includes the principle that 'natural resources are consumed by humans at a rate less than that at which they can be replenished.'"
+  },
+  {
+    "question": "The evolution of corporate sustainability practices has shifted from being motivated by corporate social responsibility to considerations of what?",
+    "options": {
+      "A": "Political power",
+      "B": "Moral considerations only",
+      "C": "Financial materiality",
+      "D": "Branding exclusively"
+    },
+    "answer": "C",
+    "explanation": "One of the introductory points states, 'Corporate sustainability practices have evolved from being primarily motivated by corporate social responsibility... to considerations of financial materiality.'"
+  },
+  {
+    "question": "How are ESG scores and metrics primarily used by financial firms?",
+    "options": {
+      "A": "To set executive compensation.",
+      "B": "For marketing and public relations purposes only.",
+      "C": "For screening companies for inclusion in ESG investment funds and for insight into firm-level policies.",
+      "D": "To determine a company's tax rate."
+    },
+    "answer": "C",
+    "explanation": "The text mentions two important uses: 'their use in screening companies for inclusion in ESG investment funds' and 'for insight into banks’, insurers’, and investors’ firm-level ESG policies.'"
+  },
+  {
+    "question": "The text provides an example of banks and investment firms excluding which type of firm from their portfolios due to high emissions?",
+    "options": {
+      "A": "Technology firms",
+      "B": "Coal firms",
+      "C": "Agricultural firms",
+      "D": "Pharmaceutical firms"
+    },
+    "answer": "B",
+    "explanation": "The text states that coal-fired power plants are highly emissions-intensive, and 'Consequently, many banks have stopped financing them... and investment firms have excluded coal firms from portfolios.'"
+  },
+  {
+    "question": "According to the text, why have sustainability goals, despite a lack of strict laws, become an important focal point?",
+    "options": {
+      "A": "They offer significant tax advantages.",
+      "B": "They are simple and easy to achieve for any organization.",
+      "C": "They are voluntary and aspirational, with the UN's SDGs being a notable example that engages many stakeholders.",
+      "D": "They are mandated by the World Trade Organization."
+    },
+    "answer": "C",
+    "explanation": "Section 2.3 notes that 'Despite the relative lack of strict laws, sustainability goals have become an important focal point for many stakeholders,' highlighting the voluntary and aspirational nature of initiatives like the SDGs."
+  },
+  {
+    "question": "What is the name of the UN's plan, adopted in 1992 at the Earth Summit, for a global partnership on sustainable development?",
+    "options": {
+      "A": "The 2030 Agenda",
+      "B": "The Paris Agreement",
+      "C": "Agenda 21",
+      "D": "The Millennium Development Goals"
+    },
+    "answer": "C",
+    "explanation": "Section 2.3.1 states, 'In 1992, at the Earth Summit in Rio de Janeiro, 178 countries adopted Agenda 21, a plan for a global partnership on sustainable development.'"
+  },
+  {
+    "question": "What is a 'Cultural' ecosystem service?",
+    "options": {
+      "A": "The process of soil formation.",
+      "B": "The provision of timber for construction.",
+      "C": "The non-material benefits and enjoyment humans derive from ecosystems, such as recreation or spiritual value.",
+      "D": "The regulation of the global climate."
+    },
+    "answer": "C",
+    "explanation": "The text defines Cultural services as 'the non-material benefits and enjoyment humans derive from ecosystems.'"
+  },
+  {
+    "question": "The Millennium Ecosystem Assessment (MA) found that the majority of the world's 24 ecosystem services were in what state?",
+    "options": {
+      "A": "Improving",
+      "B": "Stable",
+      "C": "In decline",
+      "D": "Unknown"
+    },
+    "answer": "C",
+    "explanation": "The text states, 'The MA found that the majority of the world’s “24 ecosystem services”... are in decline.'"
+  },
+  {
+    "question": "What is the role of a Life-Cycle Assessment (LCA) in relation to green marketing claims?",
+    "options": {
+      "A": "LCAs are used to create misleading green marketing claims.",
+      "B": "LCAs have no relationship to marketing.",
+      "C": "Companies often conduct LCAs to substantiate green marketing claims.",
+      "D": "LCAs are only used for internal efficiency improvements."
+    },
+    "answer": "C",
+    "explanation": "Section 2.5.3 begins by stating, 'Companies often conduct lifecycle assessments (LCA) to substantiate green marketing claims.'"
+  },
+  {
+    "question": "Which of the 17 SDGs is specifically focused on ensuring 'Affordable and Clean Energy'?",
+    "options": {
+      "A": "Goal 3",
+      "B": "Goal 7",
+      "C": "Goal 12",
+      "D": "Goal 13"
+    },
+    "answer": "B",
+    "explanation": "The list of goals on page 37 and the detailed example on page 38 identify Goal 7 as 'Affordable and Clean Energy'."
+  },
+  {
+    "question": "Which SDG is dedicated to taking 'urgent action to combat climate change and its impacts'?",
+    "options": {
+      "A": "SDG 7",
+      "B": "SDG 11",
+      "C": "SDG 13",
+      "D": "SDG 15"
+    },
+    "answer": "C",
+    "explanation": "The list of goals clearly states that Goal 13 is 'Climate Action' with the description 'Take urgent action to combat climate change and its impacts'."
+  },
+  {
+    "question": "In the context of greenwashing, what is the 'sin of fibbing'?",
+    "options": {
+      "A": "Hiding unsustainable practices.",
+      "B": "Making false claims and statements.",
+      "C": "Using vague and irrelevant statements.",
+      "D": "Shifting blame to consumers."
+    },
+    "answer": "B",
+    "explanation": "The text includes 'the “sin of fibbing,” which is making false claims and statements' as a form of decoupling in greenwashing."
+  },
+  {
+    "question": "Why can an electric vehicle be an example of 'greenwishing'?",
+    "options": {
+      "A": "Because electric vehicles produce zero emissions.",
+      "B": "Because the grid electricity used to power the car may come from high-emission sources like coal-fired power plants.",
+      "C": "Because electric vehicles are too expensive.",
+      "D": "Because they are not a well-intended effort."
+    },
+    "answer": "B",
+    "explanation": "The text uses this as an example of greenwishing: 'buying an electric vehicle when the grid electricity used to power the car comes from coal-fired power stations.'"
+  },
+  {
+    "question": "Which organization provides the ENCORE tool to help financial institutions understand and assess natural capital risks?",
+    "options": {
+      "A": "Global Impact Investing Network (GIIN)",
+      "B": "Principles for Responsible Investment (PRI)",
+      "C": "Natural Capital Finance Alliance (NCFA)",
+      "D": "Business for Social Responsibility (BSR)"
+    },
+    "answer": "C",
+    "explanation": "Table 2.3 states that the 'Natural Capital Finance Alliance (NCFA) has a tool called ENCORE, which helps financial institutions to better understand, assess and integrate natural capital risks.'"
+  },
+  {
+    "question": "SASB standards provide guidance on materially relevant sustainability issues broken down for companies across how many industries?",
+    "options": {
+      "A": "10",
+      "B": "25",
+      "C": "50",
+      "D": "77"
+    },
+    "answer": "D",
+    "explanation": "The text explains that 'SASB standards provide guidance across a broad spectrum of sustainability issues, but break this down for companies by singling out the most materially relevant issues in each of 77 industries.'"
+  },
+  {
+    "question": "The ISSB's development of new standards explicitly integrated the recommendations of which other framework?",
+    "options": {
+      "A": "GRI",
+      "B": "The UN SDGs",
+      "C": "The TCFD (Taskforce on Climate-Related Financial Disclosures)",
+      "D": "The Kyoto Protocol"
+    },
+    "answer": "C",
+    "explanation": "In the case study about the ISSB, it is noted that 'In drafting the standard, the ISSB explicitly integrated the recommendations of the TCFD.'"
+  },
+  {
+    "question": "Under SASB's dimensions, 'Employee Health & Safety' is a key issue within which category?",
+    "options": {
+      "A": "Social Capital",
+      "B": "Human Capital",
+      "C": "Leadership & Governance",
+      "D": "Environment"
+    },
+    "answer": "B",
+    "explanation": "Figure 2.4 shows that 'Employee Health & Safety' is a key issue under the 'Human Capital' dimension."
+  },
+  {
+    "question": "Which of these is NOT one of the 17 Sustainable Development Goals?",
+    "options": {
+      "A": "No Poverty",
+      "B": "Zero Hunger",
+      "C": "Space Exploration",
+      "D": "Climate Action"
+    },
+    "answer": "C",
+    "explanation": "Based on the full list of 17 SDGs provided in the text (page 37), 'Space Exploration' is not included. The others are Goal 1, Goal 2, and Goal 13, respectively."
+  },
+  {
+    "question": "What is the primary subject of SDG 14?",
+    "options": {
+      "A": "Life on Land",
+      "B": "Life Below Water",
+      "C": "Sustainable Cities and Communities",
+      "D": "Peace, Justice and Strong Institutions"
+    },
+    "answer": "B",
+    "explanation": "The SDG list identifies Goal 14 as 'Life Below Water', with the aim to 'Conserve and sustainably use the oceans, seas, and marine resources for sustainable development.'"
+  },
+  {
+    "question": "The process of using shareholder pressure for social or environmental good through 'engagement', 'stewardship', and 'monitoring' traces its roots to what concept?",
+    "options": {
+      "A": "The triple bottom line",
+      "B": "Corporate social responsibility in the 1990s and early 2000s",
+      "C": "The Brundtland Commission's report",
+      "D": "The creation of the ESG acronym"
+    },
+    "answer": "B",
+    "explanation": "The text states that this phenomenon traces 'to the notion of corporate social responsibility in the 1990s and early 2000s.'"
+  },
+  {
+    "question": "A key target under SDG 7 (Affordable and Clean Energy) is to substantially increase the share of what in the global energy mix by 2030?",
+    "options": {
+      "A": "Natural gas",
+      "B": "Nuclear energy",
+      "C": "Renewable energy",
+      "D": "Clean coal technology"
+    },
+    "answer": "C",
+    "explanation": "Target 7.2 under SDG 7 is 'By 2030, increase substantially the share of renewable energy in the global energy mix.'"
+  },
+  {
+    "question": "According to the text, what is 'attention deflection' as a form of greenwashing?",
+    "options": {
+      "A": "Making false claims.",
+      "B": "Claiming to meet expectations without making changes.",
+      "C": "Hiding unsustainable practices from stakeholders and making selective or vague disclosures.",
+      "D": "Changing ESG targets frequently."
+    },
+    "answer": "C",
+    "explanation": "Attention deflection is defined as when organizations 'hide unsustainable practices from stakeholder attention, prepare selective and inaccurate disclosures... and use vague and irrelevant statements.'"
+  },
+  {
+    "question": "What is the focus of SDG 8?",
+    "options": {
+      "A": "Quality Education",
+      "B": "Gender Equality",
+      "C": "Clean Water and Sanitation",
+      "D": "Decent Work and Economic Growth"
+    },
+    "answer": "D",
+    "explanation": "The list of SDGs on page 37 shows that Goal 8 is 'Decent Work and Economic Growth'."
+  },
+  {
+    "question": "Which of these is a target of SDG 4, Quality Education?",
+    "options": {
+      "A": "Ensuring all universities are free.",
+      "B": "Mandating a single global curriculum.",
+      "C": "Ensuring free and equitable access for all children to primary and secondary education.",
+      "D": "Replacing teachers with AI."
+    },
+    "answer": "C",
+    "explanation": "Section 2.3.3 highlights examples of targets, and for Goal 4, it includes 'ensuring the free and equitable access of all children to primary and secondary education.'"
+  },
+  {
+    "question": "The concept of natural capital includes abiotic resources. What does 'abiotic' mean?",
+    "options": {
+      "A": "Living, such as plants and animals.",
+      "B": "Non-living, such as geology and minerals.",
+      "C": "Related to the ocean.",
+      "D": "Sustainable and renewable."
+    },
+    "answer": "B",
+    "explanation": "The text explains that natural capital includes 'abiotic' resources and contrasts them with 'biotic' resources, clarifying that abiotic means non-living elements like geology and minerals."
+  },
+  {
+    "question": "In Table 2.2, which key sectors are linked to SDG 15, 'Life on land'?",
+    "options": {
+      "A": "Healthcare and Education",
+      "B": "Venture capital and Construction",
+      "C": "Agriculture and Mining",
+      "D": "Utilities and Industrials"
+    },
+    "answer": "C",
+    "explanation": "Table 2.2, 'Linking the SDGs to Material Concerns for Corporations,' lists Agriculture and Mining as the key sectors associated with Goal 15 due to material concerns like deforestation and habitat destruction."
+  },
+  {
+    "question": "The Business Roundtable, a US business advocacy group, is included in the list of sustainability initiatives for redefining the purpose of business in 2019 as what?",
+    "options": {
+      "A": "Maximizing shareholder value above all else.",
+      "B": "Promoting an economy that serves all Americans and all stakeholders.",
+      "C": "Focusing solely on environmental protection.",
+      "D": "Advocating for deregulation."
+    },
+    "answer": "B",
+    "explanation": "Table 2.3 notes the Business Roundtable is included for 'redefining the purpose of business in 2019 as promoting “an economy that serves all Americans and serves all stakeholders.”'"
+  },
+  {
+    "question": "The Global Impact Investing Network (GIIN) is dedicated to increasing the scale and effectiveness of what?",
+    "options": {
+      "A": "Traditional philanthropy",
+      "B": "Impact investing",
+      "C": "ESG screening",
+      "D": "Corporate sustainability reporting"
+    },
+    "answer": "B",
+    "explanation": "Table 2.3 describes GIIN as a 'nonprofit organization dedicated to increasing the scale and effectiveness of impact investing.'"
+  },
+  {
+    "question": "What is the name of the impact accounting system provided by GIIN for investors?",
+    "options": {
+      "A": "ENCORE",
+      "B": "SASB",
+      "C": "IRIS+",
+      "D": "GRI"
+    },
+    "answer": "C",
+    "explanation": "The description for GIIN in Table 2.3 mentions that 'Some of its resources include the IRIS+, an impact accounting system for investors to measure, manage, and optimize their impact.'"
+  },
+  {
+    "question": "According to the Delta Blue Carbon case study, what is a key benefit of well-designed nature-based solutions beyond climate mitigation?",
+    "options": {
+      "A": "They are always cheaper than technological solutions.",
+      "B": "They can provide significant co-benefits like habitat restoration and improved water quality.",
+      "C": "They do not require any long-term management.",
+      "D": "They guarantee immediate financial returns for investors."
+    },
+    "answer": "B",
+    "explanation": "The case study highlights that well-designed nature-based solutions 'can provide significant and cost-effective benefits beyond climate mitigation,' citing the project's success in 'habitat restoration and improvements across key ecosystem services such as water quality improvement.'"
+  },
+  {
+    "question": "Which material concern for corporations is linked to SDG 10, 'Reduce inequalities'?",
+    "options": {
+      "A": "Energy pricing",
+      "B": "Executive pay",
+      "C": "Emissions intensity",
+      "D": "Food wastage"
+    },
+    "answer": "B",
+    "explanation": "In Table 2.2, 'Executive pay' is listed as the example material concern for Goal 10, 'Reduce inequalities'."
+  },
+  {
+    "question": "What does SDG 5, 'Gender Equality,' address in a corporate context?",
+    "options": {
+      "A": "Recyclability and durability of products.",
+      "B": "Fair wages in supply chains.",
+      "C": "Board representation and employment and hiring practices.",
+      "D": "Avoidance of water pollution."
+    },
+    "answer": "C",
+    "explanation": "Table 2.2 links SDG 5 to the material concerns of 'Board representation; Employment and hiring practices'."
+  },
+  {
+    "question": "According to the text, a prominent recent greenwashing investigation launched by BaFin and the SEC targeted which asset management arm?",
+    "options": {
+      "A": "BlackRock",
+      "B": "Vanguard",
+      "C": "State Street",
+      "D": "DWS"
+    },
+    "answer": "D",
+    "explanation": "The text mentions 'A prominent recent greenwashing investigation launched by financial regulators targeted DWS, formerly Deutsche Bank’s asset management arm.'"
+  },
+  {
+    "question": "Which of these actions is NOT one of the six commitments investors make by joining the Principles for Responsible Investment (PRI)?",
+    "options": {
+      "A": "Incorporating ESG in investments and decisions.",
+      "B": "Being active owners.",
+      "C": "Mandating specific ESG scores for all investments.",
+      "D": "Reporting activities and progress toward implementing the Principles."
+    },
+    "answer": "C",
+    "explanation": "The list of six PRI commitments on page 45 includes incorporating ESG, being active owners, seeking disclosure, promoting the principles, collaborating, and reporting. It does not mention mandating specific scores."
+  },
+  {
+    "question": "In the context of the private sector, how are the SDGs increasingly being used?",
+    "options": {
+      "A": "As a replacement for financial accounting.",
+      "B": "To define entity-level sustainability aims and monitor progress.",
+      "C": "Solely for philanthropic and charitable activities.",
+      "D": "As a strict, legally binding code of conduct."
+    },
+    "answer": "B",
+    "explanation": "Section 2.3.2 notes that 'The SDGs... are also increasingly being used by the private sector to define entity-level sustainability aims and monitor progress.'"
+  },
+  {
+    "question": "What is the primary aim of the Principles for Sustainable Insurance (PSI)?",
+    "options": {
+      "A": "To lower insurance premiums for all customers.",
+      "B": "To guide better management of ESG issues and strengthen the insurance industry's contribution to a sustainable society.",
+      "C": "To create a global insurance monopoly.",
+      "D": "To lobby against climate change regulations."
+    },
+    "answer": "B",
+    "explanation": "Table 2.3 describes the PSI as 'designed to guide better management of ESG issues and strengthen the insurance industry’s contribution to building a resilient, inclusive, and sustainable society.'"
+  },
+  {
+    "question": "The text argues that ESG has faced increasing political criticism, especially in which country?",
+    "options": {
+      "A": "Germany",
+      "B": "Japan",
+      "C": "The United States",
+      "D": "Australia"
+    },
+    "answer": "C",
+    "explanation": "Section 2.2 explicitly states, 'It is important to note that ESG has faced increasing political criticism recently, especially in the United States.'"
+  },
+  {
+    "question": "What does 'Greencrowding' involve?",
+    "options": {
+      "A": "Shifting blame to consumers.",
+      "B": "Hiding in a crowd of other companies to evade detection and relying on safety in numbers.",
+      "C": "Under-reporting green credentials.",
+      "D": "Making misleading sustainability claims."
+    },
+    "answer": "B",
+    "explanation": "The text defines Greencrowding as a practice that 'involves hiding in a crowd to evade detection and relying on safety in numbers.'"
+  },
+  {
+    "question": "According to the text, corporate actions to set climate goals can be motivated by ESG-related pressure from investors as well as what other factors?",
+    "options": {
+      "A": "Tax incentives only.",
+      "B": "Bottom-up consumer pressure or government policy.",
+      "C": "The personal beliefs of the CEO only.",
+      "D": "A desire to increase carbon emissions."
+    },
+    "answer": "B",
+    "explanation": "The text explains that corporate climate goals 'can be motivated by bottom-up consumer pressure or government policy just as much as by ESG-related pressure from investors or lenders.'"
+  },
+  {
+    "question": "In the 'Mapping Overlapping Definitions' graphic (Figure 2.1), where are 'Corporate climate goals' primarily situated?",
+    "options": {
+      "A": "Within 'Sustainable consumption'",
+      "B": "Within 'Sustainable business practices' and overlapping with 'ESG'",
+      "C": "Solely within 'Sustainable development (countries)'",
+      "D": "Outside of the main 'SUSTAINABILITY' circle"
+    },
+    "answer": "B",
+    "explanation": "Figure 2.1 places the 'Corporate climate goals' oval inside the 'Sustainable business practices (companies)' circle, with a significant overlap into the central 'ESG' circle."
+  },
+  {
+    "question": "What does the text identify as a major reason for the development of the Brundtland Commission, a decade after the Club of Rome report?",
+    "options": {
+      "A": "The Club of Rome report had successfully shaped public policy.",
+      "B": "'The Limits to Growth' report and the first UN meeting on the environment had NOT significantly shaped public policy.",
+      "C": "A global economic boom made sustainability a low priority.",
+      "D": "The UN requested a follow-up report immediately."
+    },
+    "answer": "B",
+    "explanation": "The text notes that 'neither of these [the 1972 UN meeting and 'The Limits to Growth' report] significantly shaped public policy, leading to the creation of the Brundtland Commission a decade later.'"
+  },
+  {
+    "question": "Unlike the Club of Rome report, what did the Brundtland Commission's final report proclaim about sustainable development and economic growth?",
+    "options": {
+      "A": "That they were fundamentally incompatible.",
+      "B": "That sustainable development was only possible by stopping all economic growth.",
+      "C": "That sustainable development was compatible with economic growth.",
+      "D": "That economic growth was the only goal and sustainability was irrelevant."
+    },
+    "answer": "C",
+    "explanation": "The text explicitly contrasts the two reports: 'Unlike the Club of Rome report, the Commission’s final report... proclaimed sustainable development to be compatible with economic growth.'"
+  }
+]
+}

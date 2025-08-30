@@ -1,0 +1,1038 @@
+{
+  "C9": [
+    {
+      "question": "What is the primary difference between climate risk measurement and climate risk assessment as described in the text?",
+      "options": {
+        "A": "Measurement is qualitative, while assessment is quantitative.",
+        "B": "Measurement is about quantifying climate impacts, while assessment is about understanding the nature of these impacts.",
+        "C": "Measurement focuses only on physical risks, while assessment focuses only on transition risks.",
+        "D": "Measurement is performed by corporations, while assessment is done by regulators."
+      },
+      "answer": "B",
+      "explanation": "Chapter 9.1 states, 'Climate risk measurement is about quantifying these impacts, while climate risk assessment is about understanding the nature of these impacts and how they might affect different sectors and systems.'"
+    },
+    {
+      "question": "Which standard, IFRS S1 or IFRS S2, sets out the specific requirements for disclosing information about an entity's climate-related risks and opportunities?",
+      "options": {
+        "A": "IFRS S1",
+        "B": "IFRS S2",
+        "C": "Both S1 and S2 cover this equally.",
+        "D": "Neither, this is covered by the TCFD."
+      },
+      "answer": "B",
+      "explanation": "The text specifies that 'IFRS S2, or Climate-related Disclosures, sets out the requirements for disclosing information about an entity's climate-related risks and opportunities.' IFRS S1 sets out the general requirements."
+    },
+    {
+      "question": "The ISSB standards build upon and consolidate the recommendations of which pre-existing framework?",
+      "options": {
+        "A": "The Network for Greening the Financial System (NGFS)",
+        "B": "The United Nations Environment Programme Finance Initiative (UNEP FI)",
+        "C": "The Task Force on Climate-related Financial Disclosures (TCFD)",
+        "D": "The International Organization for Standardization (ISO)"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'The ISSB has built upon and consolidated the TCFD recommendations into its standards. Companies that apply the ISSB standards will meet the TCFD recommendations...'"
+    },
+    {
+      "question": "What is the LEAP framework, developed by the TNFD, designed for?",
+      "options": {
+        "A": "Assessing only financial risks from climate change.",
+        "B": "A systematic framework for organizations to pinpoint and evaluate nature-related challenges.",
+        "C": "A mandatory reporting standard for greenhouse gas emissions.",
+        "D": "A tool for measuring the carbon footprint of investment portfolios."
+      },
+      "answer": "B",
+      "explanation": "As mentioned in the Learning Objectives and later in the chapter, the LEAP framework is associated with the TNFD and is a methodology to 'Locate, Evaluate, Assess, Prepare' for nature-related risks."
+    },
+    {
+      "question": "According to the text, besides climate change itself, what other factors determine the vulnerability and exposure of populations and systems to climate risks?",
+      "options": {
+        "A": "Geographical location only.",
+        "B": "Historical weather patterns.",
+        "C": "Socioeconomic factors.",
+        "D": "International political agreements."
+      },
+      "answer": "C",
+      "explanation": "Page 2 states, 'Whereas climate change directly determines hazards, vulnerability and exposure depend on socioeconomic factors.'"
+    },
+    {
+      "question": "In the insurance industry, what methods are urged for enhancing the comprehension of climate risk exposures, even without direct regulatory mandates?",
+      "options": {
+        "A": "Annual shareholder surveys.",
+        "B": "Stress testing and scenario analysis.",
+        "C": "Marketing and brand analysis.",
+        "D": "Internal audits of financial statements only."
+      },
+      "answer": "B",
+      "explanation": "Page 3 mentions, 'Methods like stress testing and scenario analysis are employed to enhance the comprehension of climate risk exposures, and to offer indicative loss projections.'"
+    },
+    {
+      "question": "Which international organization is noted for having developed a comprehensive overview of more than 40 climate risk assessment methodologies?",
+      "options": {
+        "A": "The World Bank",
+        "B": "The International Monetary Fund (IMF)",
+        "C": "The Network for Greening the Financial System (NGFS)",
+        "D": "UNEP FI (United Nations Environment Programme Finance Initiative)"
+      },
+      "answer": "D",
+      "explanation": "On page 4, the text reads, 'The regulatory landscape is also shaped by the work of international organizations such as UNEP FI which has developed a comprehensive overview of more than 40 climate risk assessment methodologies.'"
+    },
+    {
+      "question": "According to the taxonomy of risks in Box 9.1, 'Natural Capital Risks' are categorized alongside which other two major risk categories?",
+      "options": {
+        "A": "Operational Risks and Market Risks",
+        "B": "Traditional Risks and Climate Risks",
+        "C": "Legal Risks and Reputational Risks",
+        "D": "Systemic Risks and Idiosyncratic Risks"
+      },
+      "answer": "B",
+      "explanation": "The diagram in Box 9.1 on page 5 shows that 'Credit Risks' are broken down into 'Traditional Risks', 'Climate Risks', and 'Natural Capital Risks'."
+    },
+    {
+      "question": "What is a key methodology used by the Network for Greening the Financial System (NGFS) to explore risks under different possible future conditions?",
+      "options": {
+        "A": "Financial auditing",
+        "B": "Historical data analysis",
+        "C": "Scenario analysis",
+        "D": "Stakeholder surveys"
+      },
+      "answer": "C",
+      "explanation": "Page 5 states, 'As discussed in chapter 7, one key methodology the NGFS uses is scenario analysis, a flexible 'what-if' framework that explores the risks that could materialize under different possible future conditions.'"
+    },
+    {
+      "question": "What is the primary objective of the International Sustainability Standards Board (ISSB)?",
+      "options": {
+        "A": "To enforce environmental laws globally.",
+        "B": "To create a global baseline of sustainability disclosures to inform investment decisions.",
+        "C": "To provide funding for green technology projects.",
+        "D": "To lobby governments for stricter climate policies."
+      },
+      "answer": "B",
+      "explanation": "Page 6 explains that the ISSB 'aims to create a global baseline of sustainability disclosures to further inform economic and investment decisions.'"
+    },
+    {
+      "question": "What is the main distinction between the focus of the TCFD and the NGFS?",
+      "options": {
+        "A": "TCFD focuses on financial supervisors, while NGFS focuses on corporations.",
+        "B": "TCFD develops voluntary disclosure guidelines, while NGFS concentrates on integrating risk management into the financial sector.",
+        "C": "TCFD is mandatory, while NGFS is voluntary.",
+        "D": "TCFD focuses on nature risk, while NGFS focuses on climate risk."
+      },
+      "answer": "B",
+      "explanation": "Page 7 clarifies, 'The TCFD develops voluntary guidelines for climate-related financial disclosures... Conversely, the NGFS... concentrates on integrating climate and environmental risk management into the financial sector...'"
+    },
+    {
+      "question": "What significant event concerning the TCFD occurred in October 2023?",
+      "options": {
+        "A": "It released its first set of mandatory standards.",
+        "B": "It merged with the ISSB.",
+        "C": "It fulfilled its remit and was disbanded.",
+        "D": "It expanded its focus to include nature risks."
+      },
+      "answer": "C",
+      "explanation": "Page 8 states, 'Concurrent with the release of its 2023 status report on October 12, 2023, the TCFD has fulfilled its remit and disbanded.'"
+    },
+    {
+      "question": "Starting in 2024, which organization took over the responsibility of monitoring companies' progress on climate-related disclosures from the TCFD?",
+      "options": {
+        "A": "The Financial Stability Board (FSB)",
+        "B": "The IFRS Foundation",
+        "C": "The United Nations (UN)",
+        "D": "The World Economic Forum (WEF)"
+      },
+      "answer": "B",
+      "explanation": "Page 8 explains, 'The FSB has asked the IFRS Foundation to take over the monitoring of the progress of companies' climate-related disclosures... starting in 2024... the IFRS Foundation will take over the TCFD's monitoring responsibilities.'"
+    },
+    {
+      "question": "A key way the ISSB standards go beyond the TCFD recommendations is by requiring what?",
+      "options": {
+        "A": "A qualitative description of climate risks.",
+        "B": "Reporting on Scope 1 and 2 emissions only.",
+        "C": "Scope 3 emissions reporting.",
+        "D": "A list of board members responsible for climate strategy."
+      },
+      "answer": "C",
+      "explanation": "On page 8, the text notes a key difference: '...IFRS S2 requires Scope 3 emissions reporting.'"
+    },
+    {
+      "question": "According to the comparison table, which set of standards is based on the principle of 'double materiality' (financial and impact)?",
+      "options": {
+        "A": "ISSB IFRS S1 + S2",
+        "B": "US SEC Rule",
+        "C": "EU CSRD/ESRS",
+        "D": "TCFD Recommendations"
+      },
+      "answer": "C",
+      "explanation": "The table on page 11 clearly states that the EU CSRD/ESRS framework uses 'Double materiality (both financial and impact)' for disclosure."
+    },
+    {
+      "question": "What guidance does the international standard ISO 14091:2021 provide?",
+      "options": {
+        "A": "A framework for calculating a company's carbon footprint.",
+        "B": "Requirements for energy management systems.",
+        "C": "Guidelines for assessing risks related to the potential impacts of climate change.",
+        "D": "Standards for sustainable event management."
+      },
+      "answer": "C",
+      "explanation": "Page 11 states that 'ISO 14091:2021 provides guidelines for assessing the risks related to the potential impacts of climate change.'"
+    },
+    {
+      "question": "What is the first step in the BSR's Climate Risk Integration Framework?",
+      "options": {
+        "A": "Governance",
+        "B": "Integrate climate risks into ERM",
+        "C": "Prioritize risks",
+        "D": "Identify climate risks"
+      },
+      "answer": "D",
+      "explanation": "Box 9.2 on page 12 lists the first key step as: 'Identify climate risks. The framework guides companies in conducting a climate risk assessment...'"
+    },
+    {
+      "question": "The guidance on climate risk assessment for the aviation sector is provided by which international organization?",
+      "options": {
+        "A": "The International Air Transport Association (IATA)",
+        "B": "The International Civil Aviation Organization (ICAO)",
+        "C": "The United Nations Environment Programme (UNEP)",
+        "D": "The European Union Aviation Safety Agency (EASA)"
+      },
+      "answer": "B",
+      "explanation": "Page 13 states, 'The International Civil Aviation Organization (ICAO) provides guidance on climate risk assessment and adaptation planning for the aviation sector.'"
+    },
+    {
+      "question": "How often is the UK's Third Climate Change Risk Assessment (CCRA3) and its subsequent versions conducted?",
+      "options": {
+        "A": "Every year",
+        "B": "Every two years",
+        "C": "Every five years",
+        "D": "Every ten years"
+      },
+      "answer": "C",
+      "explanation": "Table 9.4 on page 14 mentions that the UK's assessment 'is conducted every five years under the Climate Change Act of 2008.'"
+    },
+    {
+      "question": "Which U.S. Executive Order specifically addresses 'Climate-Related Financial Risk'?",
+      "options": {
+        "A": "EO 13990",
+        "B": "EO 14008",
+        "C": "EO 14030",
+        "D": "EO 14057"
+      },
+      "answer": "C",
+      "explanation": "The table on page 15 lists several executive orders, identifying EO 14030 as the 'Executive Order on Climate-Related Financial Risk'."
+    },
+    {
+      "question": "What is 'Climate Credit Analytics', as mentioned in the text?",
+      "options": {
+        "A": "A government subsidy program for green investments.",
+        "B": "A credit rating system for countries based on their climate policies.",
+        "C": "An approach by S&P Global and Oliver Wyman to measure the effect of physical and transition risk on corporates.",
+        "D": "A type of cryptocurrency used to trade carbon credits."
+      },
+      "answer": "C",
+      "explanation": "Page 16 describes 'Climate Credit Analytics' as an approach developed by S&P Global Market Intelligence in collaboration with Oliver Wyman, which 'captures the effect of both physical and transition risk on corporates.'"
+    },
+    {
+      "question": "According to the 'Historical event databases' table, EM-DAT is a database for what kind of information?",
+      "options": {
+        "A": "Real-time earthquake monitoring.",
+        "B": "Global flood patterns.",
+        "C": "International disaster data.",
+        "D": "Volcanic activity reports."
+      },
+      "answer": "C",
+      "explanation": "The table on page 17 lists 'EM-DAT International Disaster Database, CRED' under the 'Historical event databases' category."
+    },
+    {
+      "question": "The TCFD advises organizations to assess the resilience of their strategies against various climate scenarios, including what specific benchmark?",
+      "options": {
+        "A": "A business-as-usual scenario",
+        "B": "A 4°C or higher scenario",
+        "C": "A 2°C or lower scenario",
+        "D": "A historical worst-case scenario"
+      },
+      "answer": "C",
+      "explanation": "Page 18 states, 'The TCFD advises organizations to assess the resilience of their strategies, considering various climate scenarios, including a 2°C or lower scenario.'"
+    },
+    {
+      "question": "The four pillars of Governance, Strategy, Risk Management, and Metrics and Targets are central to which framework?",
+      "options": {
+        "A": "NGFS",
+        "B": "ISSB",
+        "C": "TCFD",
+        "D": "UNEP FI"
+      },
+      "answer": "C",
+      "explanation": "The diagram on page 19, which is reprinted from a TCFD implementation document, clearly illustrates these four pillars as the core structure of the TCFD recommendations."
+    },
+    {
+      "question": "Under the ISSB's recommendations for scenario analysis, is adherence to the Paris Agreement or a specific 1.5°C scenario mandated?",
+      "options": {
+        "A": "Yes, a 1.5°C scenario is strictly required for all reporting entities.",
+        "B": "Yes, but only if the company operates within the European Union.",
+        "C": "No, these scenarios are not explicitly hardcoded into the requirements, and entities have flexibility.",
+        "D": "No, scenario analysis itself is not required by the ISSB."
+      },
+      "answer": "C",
+      "explanation": "Page 20 clarifies, 'Adherence to the Paris Agreement or a specific 1.5 C scenario is not mandated, as these are not explicitly hardcoded into the requirements. Entities have flexibility in their choice of scenarios.'"
+    },
+    {
+      "question": "How does the ISSB differentiate between scenario analysis and resilience assessment in its practical support guidance?",
+      "options": {
+        "A": "Scenario analysis is for long-term risks, and resilience assessment is for short-term risks.",
+        "B": "Scenario analysis is a 'what-if' analysis, and resilience assessment is a 'so-what' analysis.",
+        "C": "Scenario analysis is quantitative, and resilience assessment is qualitative.",
+        "D": "There is no difference; the terms are used interchangeably."
+      },
+      "answer": "B",
+      "explanation": "Box 9.4 on page 21 explains, 'The ISSB differentiates between scenario analysis (a 'what-if' analysis) and resilience assessment (a 'so-what' analysis)...'"
+    },
+    {
+      "question": "What was the key finding of the Hong Kong Monetary Authority's (HKMA) 2021 pilot climate risk stress test?",
+      "options": {
+        "A": "The banking sector was found to be completely immune to climate risks.",
+        "B": "Under extreme scenarios, climate risks could cause significant adverse impacts, but the sector remained resilient.",
+        "C": "Transition risks were negligible for the Hong Kong banking sector.",
+        "D": "The test was inconclusive due to a lack of data."
+      },
+      "answer": "B",
+      "explanation": "Page 22 summarizes the results: 'The results of the pilot test indicated that under extreme scenarios, climate risks could cause significant adverse impacts on the banking sector, but overall, the sector remained resilient to climate-related risks.'"
+    },
+    {
+      "question": "In the Bank of England's Climate Biennial Exploratory Scenario (CBES), what was the primary purpose of the exercise?",
+      "options": {
+        "A": "To set new capital requirements for banks and insurers immediately.",
+        "B": "To punish firms with poor climate risk management.",
+        "C": "To enhance the Bank's understanding of the financial stability implications of climate change.",
+        "D": "To replace all other forms of financial stress testing."
+      },
+      "answer": "C",
+      "explanation": "Page 24 states, 'The exercise was not used to set capital requirements, but to enhance the Bank's understanding of the financial stability implications of climate change.'"
+    },
+    {
+      "question": "In AXA's approach to climate stress testing, what are the three different pathways considered in their scenario development?",
+      "options": {
+        "A": "High, Medium, and Low Carbon Pathways",
+        "B": "Optimistic, Pessimistic, and Neutral Pathways",
+        "C": "Early Action, Late Action, and No Additional Action",
+        "D": "Regulatory, Technological, and Market-led Pathways"
+      },
+      "answer": "C",
+      "explanation": "The case study on page 25 mentions, 'The scenarios include different pathways such as Early Action, Late Action, and No Additional Action, reflecting varying degrees of global efforts to mitigate climate change.'"
+    },
+    {
+      "question": "The PACTA tool, mentioned in the table of assessment tools, is used to analyze what?",
+      "options": {
+        "A": "The physical risk exposure of individual assets.",
+        "B": "The alignment of investment portfolios with decarbonization pathways.",
+        "C": "The creditworthiness of companies based on their carbon emissions.",
+        "D": "The water risk in a company's supply chain."
+      },
+      "answer": "B",
+      "explanation": "The table on page 27 describes PACTA as a tool that 'Analyzes alignment of portfolios with decarbonization pathways, tracking expenditures over a five-year horizon.'"
+    },
+    {
+      "question": "According to the NGFS framework, what is the first step in conducting a physical risk assessment?",
+      "options": {
+        "A": "Generate climate scenarios",
+        "B": "Estimate the impacts",
+        "C": "Define needs and objectives",
+        "D": "Identify available data and resources"
+      },
+      "answer": "C",
+      "explanation": "Page 28 lists the six key steps according to NGFS, with the first being: '1. Define needs and objectives'."
+    },
+    {
+      "question": "Assessing the risks associated with the societal and economic shift to a low-carbon economy is known as what?",
+      "options": {
+        "A": "Physical risk assessment",
+        "B": "Acute risk assessment",
+        "C": "Chronic risk assessment",
+        "D": "Transition risk assessment"
+      },
+      "answer": "D",
+      "explanation": "This is the core definition of transition risk. Page 4 defines it as risks 'associated with the societal and economic shift to a low-carbon economy', and page 29 begins the section on 'Transition Risk Assessment'."
+    },
+    {
+      "question": "What is the primary focus of a nature risk assessment?",
+      "options": {
+        "A": "Only the risks from natural disasters like earthquakes and volcanoes.",
+        "B": "The risks associated with the loss of natural assets, such as biodiversity loss and resource degradation.",
+        "C": "The risks to human health from environmental pollution.",
+        "D": "The risks of transitioning to renewable energy sources."
+      },
+      "answer": "B",
+      "explanation": "Page 31 defines nature risk as 'the risks associated with the loss of natural assets. These risks can directly affect businesses and economies...'"
+    },
+    {
+      "question": "The S&P Global Sustainable1 Nature & Biodiversity Risk dataset is aligned with the framework of which organization?",
+      "options": {
+        "A": "TCFD",
+        "B": "NGFS",
+        "C": "TNFD",
+        "D": "GRI"
+      },
+      "answer": "C",
+      "explanation": "Page 31 states, 'This dataset is aligned with TNFD and includes a number of new nature-related risk metrics.'"
+    },
+    {
+      "question": "In the S&P dataset's 'Dependency score' for nature risk, what does a score of 0 represent?",
+      "options": {
+        "A": "Very high dependency",
+        "B": "Average dependency",
+        "C": "No dependency risk",
+        "D": "Data is unavailable"
+      },
+      "answer": "C",
+      "explanation": "Page 32 explains the scale: '...a scale from 0 to 1.0, where 0 represents no dependency risk and 1.0 represents very high dependency.'"
+    },
+    {
+      "question": "What are KBAs, which are mapped in the S&P Global Sustainable1 dataset?",
+      "options": {
+        "A": "Known Business Assets",
+        "B": "Key Biodiversity Areas",
+        "C": "Kinetic Buffer Zones",
+        "D": "Knowledge-Based Assessments"
+      },
+      "answer": "B",
+      "explanation": "The map and its key on page 32 clearly define KBAs as 'Key Biodiversity Areas', which are 'sites contributing significantly to the global persistence of biodiversity.'"
+    },
+    {
+      "question": "How can the loss of natural assets like forests amplify climate risk?",
+      "options": {
+        "A": "By increasing the Earth's reflectivity (albedo).",
+        "B": "By reducing the planet's capacity to absorb carbon dioxide.",
+        "C": "By disrupting ocean currents.",
+        "D": "By causing more frequent volcanic eruptions."
+      },
+      "answer": "B",
+      "explanation": "Page 33 explains the interaction: '...the loss of natural assets like forests can exacerbate climate change by reducing the planet's capacity to absorb carbon dioxide, a greenhouse gas.'"
+    },
+    {
+      "question": "In the table of 'Biodiversity's Effects on Businesses', potential boycotts and damage to brand image fall under which risk type?",
+      "options": {
+        "A": "Ecological",
+        "B": "Liability",
+        "C": "Market",
+        "D": "Reputational"
+      },
+      "answer": "D",
+      "explanation": "Table 9.8 on page 35 lists 'potential boycotts or divestments' and 'Brand image and trust' as impacts under the 'Reputational' risk type."
+    },
+    {
+      "question": "What makes assessing biodiversity more challenging than measuring climate change impacts like greenhouse gas emissions?",
+      "options": {
+        "A": "Biodiversity data is classified by governments.",
+        "B": "There is no single unit of comparison for biodiversity, unlike tonnes of CO2 equivalent for climate change.",
+        "C": "Biodiversity loss only affects developing countries.",
+        "D": "Climate change is no longer considered a significant risk."
+      },
+      "answer": "B",
+      "explanation": "Page 36 states, '...nature risk is in many ways a more-difficult problem to address than climate change because it has no single unit of comparison, unlike greenhouse gas emissions for climate change.'"
+    },
+    {
+      "question": "According to the timeline of initiatives, when were the final recommendations from the TNFD released?",
+      "options": {
+        "A": "July 2020",
+        "B": "March 2022",
+        "C": "September 2023",
+        "D": "January 2024"
+      },
+      "answer": "C",
+      "explanation": "The timeline graphic (Figure 9.3) on page 36 clearly marks 'September 2023: Final TNFD recommendations to be released'."
+    },
+    {
+      "question": "What is the purpose of the Partnership for Biodiversity Accounting Financials (PBAF)?",
+      "options": {
+        "A": "To provide a global carbon tax framework.",
+        "B": "To offer a standard for financial institutions to measure their impact on biodiversity.",
+        "C": "To create a stock market for trading biodiversity credits.",
+        "D": "To fund research into endangered species."
+      },
+      "answer": "B",
+      "explanation": "Page 37 describes PBAF as 'an international partnership of banks, asset managers, and investors. They offer a new and free standard for financial institutions to measure the impact of loans and investments on biodiversity.'"
+    },
+    {
+      "question": "In the four-step biodiversity footprint process from PBAF, what is the second step after 'Understand the investment'?",
+      "options": {
+        "A": "Interpret the results",
+        "B": "Assess impact drivers",
+        "C": "Assess environmental inputs and outputs",
+        "D": "Take action"
+      },
+      "answer": "C",
+      "explanation": "The diagram on page 38 shows the four steps in order: Step 1 is 'Understand the investment', and Step 2 is 'Assess environmental inputs and outputs'."
+    },
+    {
+      "question": "The ENCORE tool helps organizations understand their relationship with nature. What does ENCORE stand for?",
+      "options": {
+        "A": "Environmental Network for Corporate Responsibility",
+        "B": "Exploring Natural Capital Opportunities, Risks and Exposure",
+        "C": "Energy and Conservation Online Reporting Engine",
+        "D": "The document does not state what ENCORE stands for, but it is a tool to access nature-related data."
+      },
+      "answer": "D",
+      "explanation": "The text lists ENCORE as a tool on page 39 and in the PBAF diagram on page 38, but it does not expand the acronym. It is a tool from WCMC-UNEP for assessing nature-related dependencies and impacts."
+    },
+    {
+      "question": "What are the four pillars of the TNFD's disclosure framework?",
+      "options": {
+        "A": "Locate, Evaluate, Assess, Prepare",
+        "B": "Physical, Transition, Acute, Chronic",
+        "C": "Governance, Strategy, Risk & Impact Management, and Metrics & Targets",
+        "D": "Finance, Operations, Marketing, and Human Resources"
+      },
+      "answer": "C",
+      "explanation": "Page 40 states, 'The TNFD's disclosure framework consists of four pillars: Governance, Strategy, Risk & Impact Management, and Metrics & Targets.' These are analogous to the TCFD's pillars."
+    },
+    {
+      "question": "The LEAP methodology was developed by the TNFD. What does the 'L' in LEAP stand for?",
+      "options": {
+        "A": "Leverage",
+        "B": "Locate",
+        "C": "Liability",
+        "D": "Legislate"
+      },
+      "answer": "B",
+      "explanation": "Page 41 introduces the LEAP methodology and defines the acronym as 'Locate, Evaluate, Assess, Prepare'."
+    },
+    {
+      "question": "What is 'blended finance' in the context of financing biodiversity and ecosystem projects?",
+      "options": {
+        "A": "A mix of stocks and bonds in an investment portfolio.",
+        "B": "Strategically using public or philanthropic funds to mobilize private capital.",
+        "C": "Financing that combines loans from multiple different banks.",
+        "D": "A new type of cryptocurrency for environmental projects."
+      },
+      "answer": "B",
+      "explanation": "Page 42 defines blended finance as involving 'strategically using public or philanthropic funds to mobilize private capital for sustainable development and conservation outcomes.'"
+    },
+    {
+      "question": "What is a primary challenge in financing biodiversity projects that is mentioned in the text?",
+      "options": {
+        "A": "A complete lack of investor interest.",
+        "B": "An overabundance of standardized tools, leading to confusion.",
+        "C": "Government regulations preventing private investment.",
+        "D": "Problems with data availability, completeness, and standardization."
+      },
+      "answer": "D",
+      "explanation": "On page 42, the text lists challenges, starting with: 'Data availability and standardization: Biodiversity data often have problems with availability, completeness, accessibility, consistency, and standardization.'"
+    },
+    {
+      "question": "A Water Risk Assessment (WRA) typically includes a two-way evaluation. What are the two main risks assessed?",
+      "options": {
+        "A": "Flood risk and drought risk",
+        "B": "Physical risk and transition risk",
+        "C": "Location (physical) risk and regulatory risk",
+        "D": "Operational risk and financial risk"
+      },
+      "answer": "C",
+      "explanation": "Page 45 explains that WRAs typically include an evaluation of 'Location or physical risk' and 'Regulatory risk'."
+    },
+    {
+      "question": "The World Resources Institute (WRI) and the World Wildlife Fund (WWF) provide well-known tools for assessing water-related hazards. Which tool is mentioned from WRI?",
+      "options": {
+        "A": "The Water Footprint Calculator",
+        "B": "The Aqueduct Water Risk Atlas",
+        "C": "The Global Water Security Map",
+        "D": "The River Basin Health Index"
+      },
+      "answer": "B",
+      "explanation": "Page 46 mentions tools from reputable organizations, 'including the WRI's Aqueduct Water Risk Atlas and the WWF's Water Risk Filter.'"
+    },
+    {
+      "question": "What does a high level of 'baseline water stress' indicate?",
+      "options": {
+        "A": "The water in the region is heavily polluted.",
+        "B": "Significant portions of available renewable water supplies are being withdrawn.",
+        "C": "The region is prone to frequent flooding.",
+        "D": "The local government has very strict water regulations."
+      },
+      "answer": "B",
+      "explanation": "Page 47 defines baseline water stress: 'Baseline water stress levels indicate the ratio of water withdrawals to available renewable water supplies. High levels of water stress suggest that significant portions of available water are being used...'"
+    },
+    {
+      "question": "The OECD identifies four major risks related to water. Which of the following is NOT one of them?",
+      "options": {
+        "A": "Too much water (flooding)",
+        "B": "Too little water (drought)",
+        "C": "Too expensive water (affordability)",
+        "D": "Too polluted water"
+      },
+      "answer": "C",
+      "explanation": "On page 47, the text lists the four major risks from the OECD as: 'too much water (flooding), too little water (drought), too polluted water, and disruption to freshwater systems.'"
+    },
+    {
+      "question": "The text states that the recommendations of the TCFD are...",
+      "options": {
+        "A": "Mandatory for all listed companies globally.",
+        "B": "Voluntary guidelines for climate-related financial disclosures.",
+        "C": "Legally binding in the European Union only.",
+        "D": "Focused exclusively on the energy sector."
+      },
+      "answer": "B",
+      "explanation": "Page 7 describes the TCFD's work as developing 'voluntary guidelines for climate-related financial disclosures'."
+    },
+    {
+      "question": "The ISSB was established in 2021 and operates under the oversight of which foundation?",
+      "options": {
+        "A": "The Rockefeller Foundation",
+        "B": "The Bill & Melinda Gates Foundation",
+        "C": "The IFRS Foundation",
+        "D": "The World Wildlife Fund Foundation"
+      },
+      "answer": "C",
+      "explanation": "Page 6 states, 'Established in 2021, the ISSB operates under the oversight of the IFRS Foundation...'"
+    },
+    {
+      "question": "According to the table comparing international standards, what is the 'Initial filing year' for climate risks under the proposed US SEC Rule?",
+      "options": {
+        "A": "2023",
+        "B": "2024",
+        "C": "2025",
+        "D": "2026"
+      },
+      "answer": "C",
+      "explanation": "The table on page 10 specifies the initial filing year for the US SEC Rule as '2025 for climate risks'."
+    },
+    {
+      "question": "What are the two main types of physical climate risks, as outlined in Chapters 3, 6, and 9?",
+      "options": {
+        "A": "Direct and indirect",
+        "B": "Systemic and unsystematic",
+        "C": "Foreseeable and unforeseeable",
+        "D": "Acute and chronic"
+      },
+      "answer": "D",
+      "explanation": "Page 28 explicitly states, 'Physical climate risks are generally categorized into two main types: acute and chronic, as outlined in Chapters 3 and 6.'"
+    },
+    {
+      "question": "What is the key objective of climate stress tests conducted by regulators?",
+      "options": {
+        "A": "To generate revenue through fines on non-compliant institutions.",
+        "B": "To evaluate how well financial institutions can cope with financial and economic shocks from climate change.",
+        "C": "To rank financial institutions based on their green investments.",
+        "D": "To provide a marketing tool for sustainable finance products."
+      },
+      "answer": "B",
+      "explanation": "Page 21 defines stress tests as 'assessments led by regulators to evaluate how well financial institutions can cope with financial and economic shocks that may arise from climate change.'"
+    },
+    {
+      "question": "In the Bank of England's CBES, what was a feature of 'good practice' for modeling large holdings?",
+      "options": {
+        "A": "Using a generic model for all sectors to ensure consistency.",
+        "B": "Only modeling the physical risks and ignoring transition risks.",
+        "C": "Explicitly linking bond and equity valuation on the same counterparty.",
+        "D": "Assuming that market prices would not change until the risks materialized."
+      },
+      "answer": "C",
+      "explanation": "Figure 9.2 on page 24 lists as an example of good practice: 'For large holdings: explicitly linking bond and equity valuation on the same counterparty, or including a reconciliation to check the consistency of results.'"
+    },
+    {
+      "question": "What does the 'Ecosystem footprint' metric in the S&P Nature & Biodiversity Risk dataset calculate?",
+      "options": {
+        "A": "The total land area owned by a company.",
+        "B": "The financial cost of a company's impact on nature.",
+        "C": "The equivalent impact on the most globally significant Key Biodiversity Areas (KBAs).",
+        "D": "The number of endangered species living near a company's operations."
+      },
+      "answer": "C",
+      "explanation": "Page 32 defines the ecosystem footprint as a metric that 'combines land area affected by the company, ecosystem integrity degradation, and ecosystem significance to calculate the equivalent impact on the most globally significant Key Biodiversity Areas (KBAs).'"
+    },
+    {
+      "question": "According to Table 9.8, depreciation of asset values and loss of investment opportunities due to policy or market changes fall under which category of biodiversity risk?",
+      "options": {
+        "A": "Ecological",
+        "B": "Financial",
+        "C": "Reputational",
+        "D": "Liability"
+      },
+      "answer": "B",
+      "explanation": "The table on page 35 lists 'depreciation of asset values; loss of investment opportunities' as potential business impacts under the 'Financial' risk type."
+    },
+    {
+      "question": "What is the SBTN (Science-Based Targets Network) primarily focused on developing?",
+      "options": {
+        "A": "A new accounting standard for biodiversity.",
+        "B": "Guidance on setting science-based targets (SBTs) for nature.",
+        "C": "A database of corporate environmental fines.",
+        "D": "A political lobbying group for climate action."
+      },
+      "answer": "B",
+      "explanation": "Page 37 describes the SBTN's work: 'This network... is developing guidance on setting science-based targets (SBTs) for nature.'"
+    },
+    {
+      "question": "The TNFD framework is to nature and biodiversity as the TCFD framework is to what?",
+      "options": {
+        "A": "Water risk",
+        "B": "Social and governance issues",
+        "C": "Climate change",
+        "D": "Corporate taxation"
+      },
+      "answer": "C",
+      "explanation": "Page 40 concludes its description of the frameworks by stating they are complementary: 'TNFD on nature and biodiversity, and TCFD on climate change.'"
+    },
+    {
+      "question": "In the LEAP methodology, what do 'Dependencies & impacts' refer to?",
+      "options": {
+        "A": "A company's reliance on financial markets and its impact on shareholders.",
+        "B": "How organizations rely on nature and the effects their operations have on the environment.",
+        "C": "A company's dependence on its supply chain and its impact on local employment.",
+        "D": "Dependencies on government subsidies and the impact of their removal."
+      },
+      "answer": "B",
+      "explanation": "Page 41 defines this key concept: 'Dependencies & impacts: How organizations rely on nature (dependencies) and the effects their operations have on the environment (impacts)...'"
+    },
+    {
+      "question": "Which of these is NOT listed as a key challenge in financing biodiversity and ecosystem projects?",
+      "options": {
+        "A": "Data availability and standardization",
+        "B": "Complexity of biodiversity loss",
+        "C": "Funding gaps",
+        "D": "Excessive and overly strict global regulations"
+      },
+      "answer": "D",
+      "explanation": "The document lists data issues, complexity, lack of standard tools, and funding gaps as challenges on pages 42-43. It mentions uncertainties in regulations but not that they are excessively strict."
+    },
+    {
+      "question": "In a Water Risk Assessment, what does 'reputational risk' refer to?",
+      "options": {
+        "A": "The risk of being fined by regulators for water pollution.",
+        "B": "The risk of physical damage to facilities from floods.",
+        "C": "The potential negative impact on a company's reputation due to its water-management practices.",
+        "D": "The risk of running out of water for operations."
+      },
+      "answer": "C",
+      "explanation": "Page 45 adds this dimension to WRAs: 'In addition, WRAs also consider reputational risk, which involves the potential negative impact on a company's reputation due to its water-management practices.'"
+    },
+    {
+      "question": "What is the goal of the U.S. Government's Global Water Strategy 2022-2027?",
+      "options": {
+        "A": "To privatize water resources in developing nations.",
+        "B": "To reduce water-related conflict and incorporate humanitarian considerations into water security investments.",
+        "C": "To develop new water purification technologies for commercial use.",
+        "D": "To build desalination plants along all U.S. coastlines."
+      },
+      "answer": "B",
+      "explanation": "Page 48 outlines the strategy's goal as a 'whole-of-government approach to reducing water-related conflict and incorporating humanitarian and fragility considerations into water security and sanitation partnerships and investments.'"
+    },
+    {
+      "question": "What is the UNEP FI's Climate Risk Landscape report designed to provide?",
+      "options": {
+        "A": "A ranking of countries by their climate vulnerability.",
+        "B": "Insights into the changing regulatory landscape and methodological tools.",
+        "C": "Daily weather forecasts for financial institutions.",
+        "D": "A list of companies that are failing to manage climate risk."
+      },
+      "answer": "B",
+      "explanation": "Page 4 says, 'The UNEP FI's Climate Risk Landscape report provides insights into the changing regulatory landscape and potential developments, as well as key guidelines and methodological tools.'"
+    },
+    {
+      "question": "The case study on Climate Risk Assessment in the Insurance Industry notes a growing movement for regulators to factor climate risks into what?",
+      "options": {
+        "A": "Their marketing and advertising guidelines.",
+        "B": "Their hiring practices for new employees.",
+        "C": "Their supervisory and regulatory practices.",
+        "D": "The physical location of their offices."
+      },
+      "answer": "C",
+      "explanation": "Page 3 mentions, 'There's a growing movement in which insurance regulators factor climate-related risks into their supervisory and regulatory practices...'"
+    },
+    {
+      "question": "Which framework's recommendations were established in 2017 and fulfilled their remit in 2023?",
+      "options": {
+        "A": "ISSB",
+        "B": "TCFD",
+        "C": "EU CSRD",
+        "D": "TNFD"
+      },
+      "answer": "B",
+      "explanation": "The table on page 10 provides the 'Years of implementation', stating 'The TCFD recommendations were established in 2017, with the TCFD disbanded in 2023 after fulfilling its remit'."
+    },
+    {
+      "question": "Who developed the European Union's CSRD/ESRS standards?",
+      "options": {
+        "A": "The European Central Bank",
+        "B": "The International Financial Reporting Standards Foundation (IFRS)",
+        "C": "The European Financial Reporting Advisory Group (EFRAG)",
+        "D": "The United States Securities and Exchange Commission (SEC)"
+      },
+      "answer": "C",
+      "explanation": "In Table 9.3 on page 10, the 'Developed by' row for EU CSRD/ESRS clearly states 'European Financial Reporting Advisory Group (EFRAG)'."
+    },
+    {
+      "question": "What is a key difference between the 'For whom' of the EU CSRD and the initial scope of the US SEC Rule?",
+      "options": {
+        "A": "The EU rule applies to no US companies, while the US rule applies to all EU companies.",
+        "B": "The EU CSRD applies to a very large number of EU and some non-EU entities, while the US rule initially targets only large accelerated listed entities.",
+        "C": "The EU rule is only for public sector entities, while the US rule is only for private companies.",
+        "D": "The EU rule is voluntary, while the US rule is mandatory."
+      },
+      "answer": "B",
+      "explanation": "The table on page 11 shows the EU CSRD applies to 'ultimately nearly all sizable EU entities and certain non-EU entities' (>50,000 filers), while the US SEC Rule applies 'Initially, only large accelerated listed entities' (<10,000 filers)."
+    },
+    {
+      "question": "Under which international reporting standard is the disclosure of executive compensation linked to climate-related issues required?",
+      "options": {
+        "A": "US SEC Rule",
+        "B": "Both ISSB IFRS S1+S2 and EU CSRD/ESRS",
+        "C": "Only under the TCFD recommendations",
+        "D": "None of the above"
+      },
+      "answer": "B",
+      "explanation": "The comparison table on page 11 shows that both ISSB IFRS S1+S2 and EU CSRD/ESRS 'Requires disclosure of executive compensation linked to climate-related issues', while the US SEC Rule does not."
+    },
+    {
+      "question": "Which framework includes guidance for specific biomes and additional guidance for the financial sector?",
+      "options": {
+        "A": "ISSB",
+        "B": "TCFD",
+        "C": "NGFS",
+        "D": "TNFD"
+      },
+      "answer": "D",
+      "explanation": "Figure 9.1 on page 9, the architecture of the TNFD, shows a box for 'Additional guidance for certain sectors and biomes' and notes 'Additional guidance is provided for the financial sector'."
+    },
+    {
+      "question": "What is the INFORM Index for Risk Management used for?",
+      "options": {
+        "A": "Providing real-time alerts for multiple hazards.",
+        "B": "A global risk information atlas published by UNISDR.",
+        "C": "Monitoring weekly volcanic activity.",
+        "D": "A database of historical disasters."
+      },
+      "answer": "B",
+      "explanation": "The table on page 17 lists the 'INFORM Index for Risk Management' under the category of 'Global risk information', providing a link to its publication."
+    },
+    {
+      "question": "According to the steps for TCFD scenario analysis, what should be done after 'Identifying and defining the range of scenarios'?",
+      "options": {
+        "A": "Integrate scenario analysis into strategic planning.",
+        "B": "Assess materiality of climate-related risks.",
+        "C": "Evaluating business impacts.",
+        "D": "Identifying potential responses."
+      },
+      "answer": "C",
+      "explanation": "Page 18 lists the steps in order: '...3. Identifying and defining the range of scenarios; 4. Evaluating business impacts; 5. Identifying potential responses.'"
+    },
+    {
+      "question": "The ISSB explicitly aims to provide practical support to preparers by making use of materials developed by which organization?",
+      "options": {
+        "A": "The World Bank",
+        "B": "The TCFD",
+        "C": "The EPA",
+        "D": "The NGFS"
+      },
+      "answer": "B",
+      "explanation": "On page 21, the text notes, '...the ISSB explicitly aims to provide practical support to preparers, including making use of materials developed by the TCFD to guide companies in scenario analysis.'"
+    },
+    {
+      "question": "In the HKMA Climate Risk Stress Test, credit and market risk exposures to corporates in high-emitting industries are categorized as what type of risk?",
+      "options": {
+        "A": "Physical risk",
+        "B": "Transition risk",
+        "C": "Operational risk",
+        "D": "Liquidity risk"
+      },
+      "answer": "B",
+      "explanation": "Table 9.6 on page 23 clearly categorizes these exposures under 'Transition risk'."
+    },
+    {
+      "question": "What is the purpose of a GHG inventory in the 'Assess Risks' phase of a transition risk assessment?",
+      "options": {
+        "A": "To identify historical extreme weather events.",
+        "B": "To determine the organization's Scope 1, 2, and 3 emissions.",
+        "C": "To benchmark against industry best practices.",
+        "D": "To develop a transition and adaptation plan."
+      },
+      "answer": "B",
+      "explanation": "Page 30 lists 'Conduct a GHG inventory to determine the organization's Scope 1, 2, and 3 emissions' as a key step in assessing risks."
+    },
+    {
+      "question": "What is one of the key metrics output by the S&P Global Sustainable1 Nature & Biodiversity Risk dataset?",
+      "options": {
+        "A": "Carbon credit score",
+        "B": "Water quality index",
+        "C": "Dependency score",
+        "D": "ESG rating"
+      },
+      "answer": "C",
+      "explanation": "Page 32 lists several key metrics, the first being the 'Dependency score', which 'describes the level of risk associated with a company's reliance on the 21 different ecosystem services.'"
+    },
+    {
+      "question": "What is an example of a nature risk occurring independently of climate change?",
+      "options": {
+        "A": "Coral bleaching due to warming ocean temperatures.",
+        "B": "Increased wildfire risk due to prolonged drought.",
+        "C": "Biodiversity loss due to overfishing.",
+        "D": "Sea-level rise impacting coastal ecosystems."
+      },
+      "answer": "C",
+      "explanation": "Page 33 gives examples, stating '...damage to natural assets contributing to nature risk can also occur independently of climate change... For instance, human activities such as deforestation, overfishing, and pollution...'"
+    },
+    {
+      "question": "What is the first mandatory reporting period under the EU's Corporate Social Responsibility Directive (CSRD) for companies already under NFRD?",
+      "options": {
+        "A": "FY 2022",
+        "B": "FY 2023",
+        "C": "FY 2024",
+        "D": "FY 2025"
+      },
+      "answer": "C",
+      "explanation": "The timeline on page 36 shows a milestone for 'January 2024: First mandatory reporting period under the EU's Corporate Social Responsibility Directive (for companies under NFRD)'."
+    },
+    {
+      "question": "The tool 'Trase', from Global Canopy and Stockholm Environment Institute, is used for what purpose related to nature risk?",
+      "options": {
+        "A": "To measure the biodiversity footprint of a company.",
+        "B": "To assess nature-related dependencies and impacts.",
+        "C": "The text lists it as a tool but does not specify its exact purpose.",
+        "D": "To calculate the value of natural capital."
+      },
+      "answer": "C",
+      "explanation": "On page 39, 'Trase' is listed as a data and tool source, along with its developers, but its specific function is not detailed in the provided text."
+    },
+    {
+      "question": "According to the latest TNFD disclosure announcement, how many companies and financial institutions initially pledged to adopt the guidelines?",
+      "options": {
+        "A": "50",
+        "B": "120",
+        "C": "320",
+        "D": "500"
+      },
+      "answer": "C",
+      "explanation": "Box 9.11 on page 40 states, 'The TNFD has announced that 320 companies and financial institutions have pledged to adopt nature-related corporate reporting guidelines...'"
+    },
+    {
+      "question": "What is a 'Threshold' in the context of the LEAP methodology's key concepts?",
+      "options": {
+        "A": "The minimum level of financial investment required for a project.",
+        "B": "The critical point where an environmental condition leads to significant or irreversible changes.",
+        "C": "A baseline reference condition for an ecosystem.",
+        "D": "The maximum acceptable level of GHG emissions for a facility."
+      },
+      "answer": "B",
+      "explanation": "Page 41 defines 'Threshold' as 'The critical point where an environmental condition leads to significant or irreversible changes, vital for assessing risks'."
+    },
+    {
+      "question": "How might climate change affect agriculture, according to the text?",
+      "options": {
+        "A": "It will universally increase crop yields for all major grains.",
+        "B": "It could significantly impact crop yields through changes in temperature, precipitation, and extreme weather.",
+        "C": "It will have no noticeable effect on global food production.",
+        "D": "It will only affect farming in tropical regions."
+      },
+      "answer": "B",
+      "explanation": "Page 44 explains, 'Changes in temperature, atmospheric carbon dioxide, and the frequency and intensity of extreme weather could significantly impact crop yields.'"
+    },
+    {
+      "question": "What is the primary role of a Water Risk Assessment (WRA)?",
+      "options": {
+        "A": "To set global prices for water resources.",
+        "B": "To identify, manage, and mitigate water-related impacts from issues like water stress, pollution, and climate change.",
+        "C": "To lobby for the deregulation of water usage.",
+        "D": "To exclusively monitor the water quality of oceans."
+      },
+      "answer": "B",
+      "explanation": "Page 45 defines WRA as 'a critical tool used to identify, manage, and mitigate water-related impacts from issues such as local water stress, pollution, and climate change.'"
+    },
+    {
+      "question": "Determining water quantity and quality availability involves conducting what type of analysis at the site level?",
+      "options": {
+        "A": "A financial cost-benefit analysis",
+        "B": "A stakeholder opinion survey",
+        "C": "A site water-balance analysis",
+        "D": "A marketing trend analysis"
+      },
+      "answer": "C",
+      "explanation": "Page 47 states, 'Determining the availability of water quantity and quality involves conducting a site water-balance analysis, which tracks the source of water and its discharges at the site level.'"
+    },
+    {
+      "question": "Which financing mechanism for water system improvements involves raising upfront capital through municipal bonds?",
+      "options": {
+        "A": "Cash financing",
+        "B": "Debt financing",
+        "C": "Blended financing",
+        "D": "Equity financing"
+      },
+      "answer": "B",
+      "explanation": "Page 48 describes traditional financing methods, stating 'debt financing... raises upfront capital through municipal bonds.'"
+    },
+    {
+      "question": "What is the purpose of the U.S. EPA's Water Finance Clearinghouse?",
+      "options": {
+        "A": "It fines companies for water pollution.",
+        "B": "It provides a database of water quality data.",
+        "C": "It links water operators with sources of finance.",
+        "D": "It sets the national standards for drinking water."
+      },
+      "answer": "C",
+      "explanation": "Page 49 mentions this development: 'the U.S. EPA’s Water Finance Clearinghouse is a significant development that links water operators with sources of finance.'"
+    },
+    {
+      "question": "What kind of risk is represented by shifts in consumer preferences and demand due to biodiversity concerns?",
+      "options": {
+        "A": "Market Risk",
+        "B": "Liability Risk",
+        "C": "Ecological Risk",
+        "D": "Financial Risk"
+      },
+      "answer": "A",
+      "explanation": "Table 9.8 on page 35 describes Market risk as involving 'Changes in consumer preferences and requirements' leading to 'Shifts in demand'."
+    },
+    {
+      "question": "What kind of scenarios does the NGFS develop to provide a foundation for analysis across many institutions?",
+      "options": {
+        "A": "A set of secret scenarios for central banks only.",
+        "B": "A common set of scenarios to create consistency and comparability.",
+        "C": "Scenarios that only focus on a business-as-usual future.",
+        "D": "Scenarios that are mandated by international law."
+      },
+      "answer": "B",
+      "explanation": "Page 6 states, 'The NGFS has developed a common set of scenarios to provide a foundation for analysis across many institutions, creating consistency and comparability of results.'"
+    },
+    {
+      "question": "Who is the primary audience for the guidance on climate-related financial disclosures developed by the TCFD?",
+      "options": {
+        "A": "Governments and international regulators.",
+        "B": "Non-profit environmental organizations.",
+        "C": "Companies, to inform stakeholders about their climate risk.",
+        "D": "The general public and media."
+      },
+      "answer": "C",
+      "explanation": "Page 7 describes the TCFD's work as developing guidelines 'enabling companies to inform stakeholders about their climate risk exposure and management strategies.'"
+    },
+    {
+      "question": "The integration of climate risks into an insurer's Own Risk and Solvency Evaluations (ORSAs) is an example of incorporating risk into what broader system?",
+      "options": {
+        "A": "Marketing and Communications",
+        "B": "Human Resources",
+        "C": "Enterprise Risk Management (ERM)",
+        "D": "Customer Relationship Management (CRM)"
+      },
+      "answer": "C",
+      "explanation": "Page 3 discusses requiring insurers 'to integrate climate risks into their enterprise risk management (ERM) systems' and mentions ORSAs in this context."
+    },
+    {
+      "question": "In its 2023-2024 CRST, the HKMA introduced an expanded set of metrics with more granularity in all of the following areas EXCEPT:",
+      "options": {
+        "A": "Risk factors",
+        "B": "Business sectors",
+        "C": "Executive compensation",
+        "D": "Geographic locations"
+      },
+      "answer": "C",
+      "explanation": "Page 23 states the expanded metrics have 'sufficient granularity in terms of risk factors, business sectors, and geographic locations.' Executive compensation is not mentioned in this specific context."
+    },
+    {
+      "question": "Which of the following is a tool for real-time monitoring of earthquakes?",
+      "options": {
+        "A": "EU JRC GLOFAS",
+        "B": "Dartmouth Flood Observatory",
+        "C": "Global Forest Watch",
+        "D": "USGS Latest Earthquakes"
+      },
+      "answer": "D",
+      "explanation": "The table on page 17 lists 'USGS Latest Earthquakes' under the 'Earthquakes' sub-category for 'Real-time event information'."
+    }
+  ]
+}

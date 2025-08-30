@@ -1,0 +1,983 @@
+{
+  "C4": [
+    {
+      "question": "What was the first global agreement that established the United Nations Framework Convention on Climate Change (UNFCCC)?",
+      "options": {
+        "A": "The Kyoto Protocol",
+        "B": "The Paris Agreement",
+        "C": "The Rio Summit (or Earth Summit) of 1992",
+        "D": "The Copenhagen Accord"
+      },
+      "answer": "C",
+      "explanation": "The text states that the first global agreement on climate established the United Nations Framework Convention on Climate Change (UNFCCC) in 1992 at the Rio Summit."
+    },
+    {
+      "question": "Which international agreement was the first to take the form of a legally binding treaty with specific emissions reduction targets for high-income countries?",
+      "options": {
+        "A": "The Paris Agreement",
+        "B": "The UNFCCC",
+        "C": "The Copenhagen Accord",
+        "D": "The Kyoto Protocol"
+      },
+      "answer": "D",
+      "explanation": "The Kyoto Protocol of 1997 was the first global compact on emissions reductions that took the form of a legally binding treaty, requiring high-income countries to reduce emissions."
+    },
+    {
+      "question": "What is the primary goal of the Paris Agreement regarding global temperature rise?",
+      "options": {
+        "A": "To limit the rise to exactly 2°C above pre-industrial levels.",
+        "B": "To keep the rise 'well below 2°C' and to pursue efforts to limit it to 1.5°C.",
+        "C": "To halt any further temperature increase by 2030.",
+        "D": "To mandate a 5% emissions reduction from 1990 levels for all countries."
+      },
+      "answer": "B",
+      "explanation": "The Paris Agreement is based on an aspiration to keep the global temperature rise 'well below 2°C above pre-industrial levels' and to 'pursuing efforts' to limit the rise to 1.5°C."
+    },
+    {
+      "question": "How does the approach of the Paris Agreement differ from the Kyoto Protocol?",
+      "options": {
+        "A": "The Paris Agreement has stricter legal penalties for non-compliance.",
+        "B": "The Paris Agreement focuses only on developed countries, like the Kyoto Protocol.",
+        "C": "The Paris Agreement uses a system of voluntary, non-binding national plans (NDCs) and peer pressure, unlike Kyoto's legally binding targets for a subset of countries.",
+        "D": "The Paris Agreement abolished the UNFCCC, while the Kyoto Protocol operated under it."
+      },
+      "answer": "C",
+      "explanation": "The text explains that the Paris Agreement took a different direction from Kyoto, relying on non-binding plans (NDCs) submitted by all countries and using the mechanism of peer pressure, rather than legally binding targets for only high-income nations."
+    },
+    {
+      "question": "In the context of climate policy, what does NDC stand for?",
+      "options": {
+        "A": "National Decarbonization Committee",
+        "B": "Nationally Determined Contribution",
+        "C": "New Diplomatic Consensus",
+        "D": "Non-negotiable Decarbonization Commitment"
+      },
+      "answer": "B",
+      "explanation": "NDCs, or Nationally Determined Contributions, are the national plans submitted by each country under the Paris Agreement outlining their efforts to reduce emissions."
+    },
+    {
+      "question": "According to the provided text and charts, which country is responsible for the largest share of CUMULATIVE CO2 emissions from 1751-2017?",
+      "options": {
+        "A": "China",
+        "B": "The European Union (EU-28)",
+        "C": "The United States",
+        "D": "Russia"
+      },
+      "answer": "C",
+      "explanation": "Figure 4.2 shows that the United States is responsible for the largest share of global cumulative emissions, accounting for 25%."
+    },
+    {
+      "question": "Based on the text, which country is currently the largest annual emitter of CO2?",
+      "options": {
+        "A": "The United States",
+        "B": "India",
+        "C": "The European Union",
+        "D": "China"
+      },
+      "answer": "D",
+      "explanation": "Box 4.1 states, 'In terms of current annual emissions, China's by far outpace any other country's...'"
+    },
+    {
+      "question": "The GHG Protocol defines three 'scopes' for emissions accounting. What are Scope 1 emissions?",
+      "options": {
+        "A": "Indirect emissions from the generation of purchased electricity.",
+        "B": "Direct emissions from sources that are owned or controlled by the reporting company.",
+        "C": "All indirect emissions that occur in the value chain of the reporting company.",
+        "D": "Emissions from employee travel and commuting."
+      },
+      "answer": "B",
+      "explanation": "Scope 1 emissions are defined as direct emissions from sources that are owned or controlled by the company, such as emissions from company facilities or vehicles."
+    },
+    {
+      "question": "What is the definition of Scope 2 emissions?",
+      "options": {
+        "A": "Direct emissions from company-owned vehicles.",
+        "B": "Emissions from the disposal of the company's products.",
+        "C": "Indirect emissions from the generation of purchased energy (like electricity, steam, heating, and cooling).",
+        "D": "Emissions from the production of purchased raw materials."
+      },
+      "answer": "C",
+      "explanation": "Scope 2 emissions are indirect emissions that come from the generation of purchased energy that the company consumes."
+    },
+    {
+      "question": "Scope 3 emissions are best described as:",
+      "options": {
+        "A": "Direct emissions from a company's manufacturing process.",
+        "B": "Indirect emissions from purchased electricity only.",
+        "C": "All other indirect emissions (not included in Scope 2) that occur in a company's value chain, including both upstream and downstream activities.",
+        "D": "Emissions that the company has direct control over."
+      },
+      "answer": "C",
+      "explanation": "Scope 3 emissions are all indirect emissions that occur in the value chain, excluding purchased energy. This includes activities like purchased goods, transportation, and use of sold products."
+    },
+    {
+      "question": "For a bank, the emissions from the companies and projects it finances would primarily fall under which category?",
+      "options": {
+        "A": "Scope 1",
+        "B": "Scope 2",
+        "C": "Scope 3",
+        "D": "They are not accounted for."
+      },
+      "answer": "C",
+      "explanation": "The text provides an example that emissions financed through loans to polluting companies are a part of a bank's Scope 3 emissions, often representing the largest share of its overall emissions."
+    },
+    {
+      "question": "What are the two principal types of carbon pricing policies discussed in the text?",
+      "options": {
+        "A": "Feed-in tariffs and renewable portfolio standards",
+        "B": "Carbon taxes and emissions-trading (cap-and-trade) schemes",
+        "C": "Fuel efficiency standards and EV subsidies",
+        "D": "Green public procurement and building regulations"
+      },
+      "answer": "B",
+      "explanation": "The text explicitly states that 'Carbon pricing refers principally to two types of policies—carbon taxes and emissions-trading schemes, better known as cap-and-trade schemes.'"
+    },
+    {
+      "question": "What is 'carbon leakage'?",
+      "options": {
+        "A": "The physical escape of CO2 from storage facilities.",
+        "B": "The process where carbon-intensive industries relocate to jurisdictions with less stringent climate policies.",
+        "C": "A financial term for when carbon pricing revenues are not reinvested in green projects.",
+        "D": "The failure of a cap-and-trade scheme to reduce emissions."
+      },
+      "answer": "B",
+      "explanation": "Carbon leakage is a concern with carbon pricing, where industries move to regions with weaker policies, leading to a shift in emissions rather than an overall reduction."
+    },
+    {
+      "question": "What is a primary advantage of a carbon tax over a cap-and-trade system?",
+      "options": {
+        "A": "It guarantees a specific level of emissions reduction.",
+        "B": "It provides greater price certainty for businesses and investors.",
+        "C": "It is always more popular with the public.",
+        "D": "It creates a market for carbon permits."
+      },
+      "answer": "B",
+      "explanation": "The text notes that carbon taxes have practical advantages, including being generally easier to administer and providing greater price certainty with a stable price signal."
+    },
+    {
+      "question": "What is a 'feed-in tariff'?",
+      "options": {
+        "A": "A tax on imported food with a high carbon footprint.",
+        "B": "A subsidy for electric vehicle purchases.",
+        "C": "A guaranteed price per unit of electricity at which renewable energy producers can sell their electricity for a fixed period.",
+        "D": "A standard requiring a certain percentage of energy to come from renewable sources."
+      },
+      "answer": "C",
+      "explanation": "Feed-in tariffs offer a guaranteed price for electricity generated from renewable sources for a fixed period (usually 15-25 years), encouraging investment in the sector."
+    },
+    {
+      "question": "Which central bank is recognized as a forerunner in integrating climate risk into its supervisory practices?",
+      "options": {
+        "A": "The U.S. Federal Reserve",
+        "B": "The European Central Bank",
+        "C": "The Bank of Japan",
+        "D": "The Bank of England (BoE)"
+      },
+      "answer": "D",
+      "explanation": "The text identifies the Bank of England (BoE) as the first central bank to begin working on these issues in 2014, following the lead of its then-governor Mark Carney."
+    },
+    {
+      "question": "What is the Network for Greening the Financial System (NGFS)?",
+      "options": {
+        "A": "A private-sector coalition of asset managers.",
+        "B": "An NGO that protests against fossil fuel financing.",
+        "C": "A network of central banks and supervisors that promotes collaboration and sharing of expertise on climate risk.",
+        "D": "A UN agency that funds green projects."
+      },
+      "answer": "C",
+      "explanation": "The NGFS is a group of central banks and financial supervisors founded to help spread best practices and promote collaboration on integrating climate risk into the financial system."
+    },
+    {
+      "question": "In his 2015 speech, what did Bank of England Governor Mark Carney call the problem of climate change risks lying beyond the typical investment horizon?",
+      "options": {
+        "A": "The Financial Storm",
+        "B": "The Stranded Asset Crisis",
+        "C": "Tragedy of the Horizon",
+        "D": "The Green Swan"
+      },
+      "answer": "C",
+      "explanation": "The BoE's shift toward climate started with the 2015 speech 'Tragedy of the Horizon' by Mark Carney, which laid out how climate change affects financial stability."
+    },
+    {
+      "question": "What is 'greenwashing'?",
+      "options": {
+        "A": "A process for cleaning up industrial pollution using natural methods.",
+        "B": "Money laundering through investments in renewable energy.",
+        "C": "Marketing that portrays products or activities as producing positive environmental outcomes when this is not actually the case.",
+        "D": "The mandatory requirement for companies to publish their environmental data."
+      },
+      "answer": "C",
+      "explanation": "The text defines greenwashing as 'marketing that portrays products or activities as producing positive environmental outcomes, when this is not actually the case,' raising the specter of misleading advertising for sustainable products."
+    },
+    {
+      "question": "What is the primary purpose of a 'green taxonomy'?",
+      "options": {
+        "A": "To rank countries by their environmental performance.",
+        "B": "To create a classification system or list of economic activities considered environmentally sustainable.",
+        "C": "To create a new tax on polluting industries.",
+        "D": "To scientifically classify newly discovered plant species."
+      },
+      "answer": "B",
+      "explanation": "Green taxonomies are 'green lists' being created to define which economic activities are considered 'green' or 'sustainable', intended to inform policy, regulation, and investment decisions."
+    },
+    {
+      "question": "What does TCFD stand for?",
+      "options": {
+        "A": "Taskforce on Corporate Financial Duties",
+        "B": "Taxation of Carbon and Fossil Derivatives",
+        "C": "Task Force on Climate-related Financial Disclosures",
+        "D": "Transition to Clean and Fair Development"
+      },
+      "answer": "C",
+      "explanation": "TCFD stands for the Task Force on Climate-related Financial Disclosures, which was launched to develop consistent climate-related financial risk disclosures for companies."
+    },
+    {
+      "question": "What is the goal of the Climate Action 100+ initiative?",
+      "options": {
+        "A": "To provide financing for 100 new renewable energy projects.",
+        "B": "To get 100 countries to commit to the Paris Agreement.",
+        "C": "To pressure the world's 100 most heavily emitting public companies to reduce emissions and align with climate targets.",
+        "D": "To create a new stock market index of the top 100 green companies."
+      },
+      "answer": "C",
+      "explanation": "Climate Action 100+ is an investor coalition that targets the world's 100 most heavily emitting publicly listed companies, using shareholder engagement to pressure them to reduce emissions."
+    },
+    {
+      "question": "The Taskforce on Nature-related Financial Disclosures (TNFD) was created to address risks related to what?",
+      "options": {
+        "A": "Natural disasters like earthquakes and volcanoes.",
+        "B": "Habitat degradation and biodiversity loss.",
+        "C": "The transition away from natural gas.",
+        "D": "The financial risks of space exploration."
+      },
+      "answer": "B",
+      "explanation": "The TNFD is an initiative analogous to the TCFD, but it focuses on developing a risk management and disclosure framework for nature-related risks, such as habitat and biodiversity loss."
+    },
+    {
+      "question": "What is the 'collective action problem' in international climate policy?",
+      "options": {
+        "A": "The difficulty of getting scientists to agree on climate models.",
+        "B": "A problem caused by disincentives that discourage joint action, as countries are tempted to 'freeride' off the emissions cuts of others.",
+        "C": "The logistical challenge of organizing large international summits like the COPs.",
+        "D": "The inability of private companies to coordinate their sustainability efforts."
+      },
+      "answer": "B",
+      "explanation": "The text describes global emissions as a classic collective action problem where individual countries pay the full cost of their own emissions cuts but only receive a fraction of the global benefit, creating an incentive to let others act."
+    },
+    {
+      "question": "The principle of 'common but differentiated responsibilities' acknowledges that:",
+      "options": {
+        "A": "All countries must reduce emissions by the same amount.",
+        "B": "Developed and developing countries have different levels of responsibility in addressing climate change, largely due to historical emissions.",
+        "C": "Only the countries with the highest current emissions are responsible for climate action.",
+        "D": "Climate change is a shared problem, but the responsibility for fixing it is equal for everyone."
+      },
+      "answer": "B",
+      "explanation": "This core principle, particularly of the Kyoto Protocol, recognized that developed and developing nations have different responsibilities due to factors like historical emissions and economic capacity."
+    },
+    {
+      "question": "What are Just Energy Transition Partnerships (JETPs)?",
+      "options": {
+        "A": "A type of corporate merger in the renewable energy sector.",
+        "B": "Collaborations to support a climate transition in developing countries, aiming to ensure fairness for workers and communities.",
+        "C": "A legal framework for transferring oil and gas assets to new owners.",
+        "D": "A university program focused on energy law."
+      },
+      "answer": "B",
+      "explanation": "JETPs are formal collaborations among governments and other entities that aim to promote renewable energy and energy efficiency in developing economies while ensuring the transition away from fossil fuels is fair and just."
+    },
+    {
+      "question": "Which two countries were the first nations to formally launch JETPs, as mentioned in the case study?",
+      "options": {
+        "A": "India and China",
+        "B": "Brazil and Vietnam",
+        "C": "South Africa and Indonesia",
+        "D": "Germany and the UK"
+      },
+      "answer": "C",
+      "explanation": "The case study on JETPs states, 'South Africa and Indonesia were the first nations to formally launch JETPs, with support from donor governments.'"
+    },
+    {
+      "question": "What is the 'ratchet' mechanism established by the Paris Agreement?",
+      "options": {
+        "A": "A mechanism to penalize countries that miss their targets.",
+        "B": "A process where countries are expected to tighten their NDCs every five years.",
+        "C": "A tool for tightening the nuts and bolts on wind turbines.",
+        "D": "A fund to compensate developing nations for climate damages."
+      },
+      "answer": "B",
+      "explanation": "The Paris Agreement establishes a 'ratchet' mechanism, where countries are required to submit and then progressively strengthen their Nationally Determined Contributions (NDCs) every five years."
+    },
+    {
+      "question": "Which organization, co-founded by the World Resources Institute (WRI), established the most widely used standard for corporate GHG accounting?",
+      "options": {
+        "A": "The United Nations (UN)",
+        "B": "The Intergovernmental Panel on Climate Change (IPCC)",
+        "C": "The GHG Protocol",
+        "D": "The International Energy Agency (IEA)"
+      },
+      "answer": "C",
+      "explanation": "The GHG Protocol was established by the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) and is the world's most widely used GHG emissions accounting standard."
+    },
+    {
+      "question": "What is a major challenge associated with the accounting of Scope 3 emissions that the GHG Protocol recommends against doing?",
+      "options": {
+        "A": "Estimating their monetary value.",
+        "B": "Reporting them to the public.",
+        "C": "Aggregating them due to the potential for double counting.",
+        "D": "Reducing them through operational changes."
+      },
+      "answer": "C",
+      "explanation": "The text highlights the potential for double counting within Scope 3 emissions and notes that because of this, 'the GHG Protocol recommends that Scope 3 emissions should not be aggregated.'"
+    },
+    {
+      "question": "What type of policy requires commercial power producers to source a specific portion of their supply from sources like wind or solar power?",
+      "options": {
+        "A": "Feed-in Tariffs",
+        "B": "Carbon Taxes",
+        "C": "Renewable Portfolio Standards (RPSs)",
+        "D": "Fuel Efficiency Standards"
+      },
+      "answer": "C",
+      "explanation": "Renewable Portfolio Standards (RPSs) are quota-based regulations that mandate an increase in the supply of renewable electricity by requiring producers to source a certain percentage from renewables."
+    },
+    {
+      "question": "The 'Race to Zero' campaign, promoted by the UN High-Level Champions, aims to:",
+      "options": {
+        "A": "Eliminate all industrial emissions immediately.",
+        "B": "Mobilize businesses, cities, regions, and investors to commit to achieving net-zero carbon emissions by 2050.",
+        "C": "Create a new car race for electric vehicles only.",
+        "D": "Reduce corporate tax rates to zero for green companies."
+      },
+      "answer": "B",
+      "explanation": "The 'Race to Zero' campaign is a notable example of fostering engagement, promoting the mobilization of diverse stakeholders to commit to achieving net-zero carbon emissions by 2050."
+    },
+    {
+      "question": "The scientific body that provides regular assessments on climate change to the UN is the:",
+      "options": {
+        "A": "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)",
+        "B": "World Meteorological Organization (WMO)",
+        "C": "Network for Greening the Financial System (NGFS)",
+        "D": "Intergovernmental Panel on Climate Change (IPCC)"
+      },
+      "answer": "D",
+      "explanation": "The text identifies the IPCC as 'a UN-convened organization of scientists' and later as 'the UN scientific body that provides regular assessments of the scientific basis of climate change.'"
+    },
+    {
+      "question": "What is the equivalent scientific body to the IPCC, but for biodiversity and ecosystem services?",
+      "options": {
+        "A": "The TNFD",
+        "B": "The IPBES",
+        "C": "The UNFCCC",
+        "D": "The WMO"
+      },
+      "answer": "B",
+      "explanation": "The Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) is described as an independent intergovernmental body that provides similar assessments to the IPCC, but on biodiversity and nature."
+    },
+    {
+      "question": "What is a potential drawback of green taxonomies related to lobbying?",
+      "options": {
+        "A": "They are too technical for lobbyists to understand.",
+        "B": "The administrative process of creating them may be open to political influence, potentially weakening their credibility.",
+        "C": "They prevent any form of communication between government and industry.",
+        "D": "Lobbying always makes the taxonomy stronger and more scientifically robust."
+      },
+      "answer": "B",
+      "explanation": "One of the potential drawbacks listed is 'Lobbying,' where the text gives the example of natural gas power plants being classified as green investments in the EU following lobbying, potentially undermining the taxonomy's credibility."
+    },
+    {
+      "question": "The oversight of specific financial institutions for financial soundness is known as:",
+      "options": {
+        "A": "Macroprudential supervision",
+        "B": "Monetary policy",
+        "C": "Microprudential supervision",
+        "D": "Fiscal policy"
+      },
+      "answer": "C",
+      "explanation": "The text defines microprudential supervision as 'the oversight of specific financial institutions (usually banks and insurers) for financial soundness.'"
+    },
+    {
+      "question": "The use of system-wide stress tests to examine the stability of the broader financial system is an example of:",
+      "options": {
+        "A": "Microprudential supervision",
+        "B": "Consumer protection policy",
+        "C": "Macroprudential supervision",
+        "D": "Corporate governance"
+      },
+      "answer": "C",
+      "explanation": "Macroprudential supervision examines the stability of the broader financial system. The text states that for macroprudential policy, which looks at system-wide risks, stress tests have become one of the most important tools."
+    },
+    {
+      "question": "The Bank of England's dedicated climate risk stress test, launched in 2021, is called the:",
+      "options": {
+        "A": "Climate Change Adaptation Report (CCAR)",
+        "B": "Systemic Risk Assessment (SRA)",
+        "C": "Biennial Exploratory Scenario (BES)",
+        "D": "Green Finance Initiative (GFI)"
+      },
+      "answer": "C",
+      "explanation": "The case study on the Bank of England explains that for macroprudential measures, the Bank launched a dedicated climate risk stress test called the Biennial Exploratory Scenario (BES)."
+    },
+    {
+      "question": "The Glasgow Financial Alliance for Net Zero (GFANZ) is best described as:",
+      "options": {
+        "A": "A single asset manager focused on green bonds.",
+        "B": "A government regulator for the City of Glasgow.",
+        "C": "A coalition of various net-zero and Paris-aligned financial groupings, spanning the entire financial system.",
+        "D": "An activist group protesting financial institutions."
+      },
+      "answer": "C",
+      "explanation": "GFANZ was formed to consolidate many of the net-zero financial groupings, with the idea that 'a coalition spanning the entire financial system could better help bring broad-reaching change.'"
+    },
+    {
+      "question": "According to the World Economic Forum, more than half of the world's economic output is moderately or highly dependent on:",
+      "options": {
+        "A": "Fossil fuels",
+        "B": "Financial innovation",
+        "C": "Nature",
+        "D": "Digital technologies"
+      },
+      "answer": "C",
+      "explanation": "The text cites the World Economic Forum, stating that 'more than half the world's economic output—US$44tn of economic value generation—is moderately or highly dependent on nature.'"
+    },
+    {
+      "question": "Why do cumulative emissions matter more for climate change than annual emissions?",
+      "options": {
+        "A": "They are easier to calculate accurately.",
+        "B": "They reflect the total stock of CO2 in the atmosphere, which is what affects the climate.",
+        "C": "They are the only metric used in the Paris Agreement.",
+        "D": "They penalize developing countries more than developed countries."
+      },
+      "answer": "B",
+      "explanation": "Box 4.1 explains, 'cumulative emissions matter more because cumulative emissions reflect the stock of CO2 in the atmosphere—and it is the total stock, not the annual flow, that affects the changes in climate.'"
+    },
+    {
+      "question": "The 'clean development mechanism' (CDM) under the Kyoto Protocol allowed:",
+      "options": {
+        "A": "Countries to develop new, cleaner fossil fuel technologies.",
+        "B": "An Annex 1 (developed) country to get credit for an emissions reduction project in a non-Annex 1 (developing) country.",
+        "C": "Developing countries to ignore their environmental responsibilities.",
+        "D": "The UN to clean up industrial sites in developed nations."
+      },
+      "answer": "B",
+      "explanation": "The CDM was a mechanism that attempted to spread emissions cuts to developing economies by allowing an Annex 1 country to receive credit for conducting an emissions reduction project in a non-Annex 1 country."
+    },
+    {
+      "question": "Which of these is an example of a subnational climate policy initiative?",
+      "options": {
+        "A": "The Kyoto Protocol",
+        "B": "The Paris Agreement",
+        "C": "The Regional Greenhouse Gas Initiative (RGGI) in the United States",
+        "D": "The United Nations Framework Convention on Climate Change (UNFCCC)"
+      },
+      "answer": "C",
+      "explanation": "The text gives the Regional Greenhouse Gas Initiative, which covers power plants across 12 American states, as an example of climate policy implemented at the subnational level."
+    },
+    {
+      "question": "For a company that manufactures and sells appliances, the electricity consumed by its products during their lifetime is an example of what type of emission?",
+      "options": {
+        "A": "Scope 1",
+        "B": "Scope 2",
+        "C": "Scope 3",
+        "D": "Not an emission"
+      },
+      "answer": "C",
+      "explanation": "This falls under the 'use of sold products' category, which is a downstream activity and a key component of Scope 3 emissions for many manufacturing companies."
+    },
+    {
+      "question": "The first World Climate Summit, which framed climate change as an issue for global politics, was organized in 1979 by which organization?",
+      "options": {
+        "A": "The United Nations (UN)",
+        "B": "The World Meteorological Organization (WMO)",
+        "C": "The European Union (EU)",
+        "D": "The G7"
+      },
+      "answer": "B",
+      "explanation": "The text traces the origins of international climate summits back to 1979, when the first World Climate Summit was organized by the World Meteorological Organization (WMO)."
+    },
+    {
+      "question": "A key criticism of the initial NDCs submitted under the Paris Agreement was that:",
+      "options": {
+        "A": "They were too complex to understand.",
+        "B": "They were legally binding and too strict.",
+        "C": "They only covered developed countries.",
+        "D": "Their combined effect was insufficient to meet the 'well below 2°C' goal."
+      },
+      "answer": "D",
+      "explanation": "The text notes a shortcoming of the Paris Agreement is that 'the combined NDCs submitted by countries are insufficient to achieve the goal of limiting global temperature rise to well below 2°C.'"
+    },
+    {
+      "question": "The US Inflation Reduction Act is mentioned as an example of a policy that uses what mechanism to stimulate clean energy investment?",
+      "options": {
+        "A": "Strict emissions caps",
+        "B": "Carbon taxes",
+        "C": "Tax incentives, grants, and loan programs",
+        "D": "International treaties"
+      },
+      "answer": "C",
+      "explanation": "The Inflation Reduction Act is described as incorporating 'over 20 new or modified tax incentives, along with tens of billions of dollars in grant and loan programs' to accelerate the clean energy transition."
+    },
+    {
+      "question": "What is the primary role of the Science-Based Targets initiative (SBTi)?",
+      "options": {
+        "A": "To conduct climate science research.",
+        "B": "To provide companies with a clearly defined pathway to reduce emissions in line with the Paris Agreement goals.",
+        "C": "To lobby governments for stronger climate policies.",
+        "D": "To fund university science departments."
+      },
+      "answer": "B",
+      "explanation": "Although not detailed, Table 4.2 describes the Science-Based Targets Initiative as an 'organization with sector-based targets for decarbonization,' which aligns with its real-world function of helping companies set emissions targets consistent with climate science."
+    },
+    {
+      "question": "The EU Taxonomy requires that for an activity to be considered sustainable, it must make a substantive contribution to one of six environmental objectives and also do what?",
+      "options": {
+        "A": "Be profitable within one year.",
+        "B": "Be approved by a public vote.",
+        "C": "Do no significant harm to the other five objectives.",
+        "D": "Only be located within the European Union."
+      },
+      "answer": "C",
+      "explanation": "The text explains the EU Taxonomy's criteria: activities must '(a) make a substantive contribution to one of six environmental objectives, (b) do no significant harm to the other five, and (c) meet minimum safeguards.'"
+    },
+    {
+      "question": "What are Sovereign Sustainability-Linked Bonds (SLBs)?",
+      "options": {
+        "A": "Bonds that can only be bought by governments.",
+        "B": "Bonds whose proceeds must be used for a specific green project.",
+        "C": "Debt instruments where the issuer's interest rate is tied to its progress in meeting defined sustainability targets.",
+        "D": "A type of foreign aid given to developing nations."
+      },
+      "answer": "C",
+      "explanation": "SLBs are a novel debt instrument where the bond's interest rate is directly tied to the issuing government's performance in meeting sustainability goals. Failure results in an increased interest rate."
+    },
+    {
+      "question": "According to the text, which continent accounts for the largest share of cumulative CO2 emissions (1751-2017) at 33%?",
+      "options": {
+        "A": "Asia",
+        "B": "North America",
+        "C": "Africa",
+        "D": "Europe"
+      },
+      "answer": "D",
+      "explanation": "Figure 4.2 explicitly shows 'Europe' with '514 billion tonnes CO2' and '33% global cumulative emissions.'"
+    },
+    {
+      "question": "Which early scientist proposed in 1896 that fossil-fuel combustion would result in global warming?",
+      "options": {
+        "A": "Gilbert Plass",
+        "B": "Guy Callendar",
+        "C": "Svante Arrhenius",
+        "D": "William Nordhaus"
+      },
+      "answer": "C",
+      "explanation": "The text credits 'Svante Arrhenius, a Swedish scientist,' for proposing in 1896 that burning fossil fuels would lead to an increase in atmospheric CO2 and result in global warming."
+    },
+    {
+      "question": "Which sector is highlighted as having seen the largest impact from specific policies like Renewable Portfolio Standards and feed-in tariffs?",
+      "options": {
+        "A": "Transportation",
+        "B": "Agriculture",
+        "C": "Power generation",
+        "D": "Construction"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'Perhaps the sector where specific policies have had the largest impact so far is in power generation,' before discussing policies like RPSs and feed-in tariffs."
+    },
+    {
+      "question": "The C40 is a global coalition of what type of entities dedicated to combating climate change?",
+      "options": {
+        "A": "Corporations",
+        "B": "Countries",
+        "C": "Cities",
+        "D": "Central Banks"
+      },
+      "answer": "C",
+      "explanation": "C40 is described as 'a global coalition of cities dedicated to combating climate change,' which started with 18 cities in 2005 and now has 97 members."
+    },
+    {
+      "question": "Economist William Nordhaus's original DICE model suggested an 'optimal' level of warming that was much higher than the current international consensus. What was this original level?",
+      "options": {
+        "A": "1.5°C",
+        "B": "2.0°C",
+        "C": "3.5°C",
+        "D": "5.0°C"
+      },
+      "answer": "C",
+      "explanation": "The text mentions, 'The original formulation of Nordhaus's dynamic integrated climate-economy (DICE) model from the early 1990s suggested that warming of 3.5°C would be optimal...'"
+    },
+    {
+      "question": "Which financial institution issued the world's first 'Climate awareness bond' in 2007, helping to launch the global green bond market?",
+      "options": {
+        "A": "The World Bank",
+        "B": "The International Finance Corporation (IFC)",
+        "C": "The European Investment Bank (EIB)",
+        "D": "J.P. Morgan"
+      },
+      "answer": "C",
+      "explanation": "The text notes that 'back in 2007, the EIB issued the world's first 'Climate awareness bond' dedicated to climate-related issues, which helped launch the global market in green bonds.'"
+    },
+    {
+      "question": "What is a 'transition taxonomy' designed to do?",
+      "options": {
+        "A": "Categorize only 'deep green' activities.",
+        "B": "Categorize all economic activities based on their alignment with climate goals, including 'brown' and 'transition' activities.",
+        "C": "Finance the transition of political power in developing countries.",
+        "D": "Classify the technologies needed to transition from one software system to another."
+      },
+      "answer": "B",
+      "explanation": "Transition taxonomies categorize all economic activities ('brown', 'green', and 'transition') based on their level of alignment with climate goals, evaluating their contribution to a sustainable economy."
+    },
+    {
+      "question": "According to the 2019 IPBES Global Assessment Report, what has happened to plastic pollution since 1980?",
+      "options": {
+        "A": "It has been cut in half.",
+        "B": "It has remained stable.",
+        "C": "It has doubled.",
+        "D": "It has increased tenfold."
+      },
+      "answer": "D",
+      "explanation": "One of the conclusions from the IPBES report listed in the text is that 'Plastic pollution has increased tenfold since 1980.'"
+    },
+    {
+      "question": "What is the primary function of the Institutional Investors Group on Climate Change (IIGCC)?",
+      "options": {
+        "A": "To regulate the insurance industry.",
+        "B": "To support and enable the investment community in driving progress toward a net-zero future through engagement and capital allocation.",
+        "C": "To provide government grants for climate research.",
+        "D": "To organize protests against high-emitting companies."
+      },
+      "answer": "B",
+      "explanation": "Table 4.2 describes the IIGCC's aim as supporting the investment community in 'driving significant and real progress by 2030 toward a net-zero and resilient future through capital allocation, stewardship, and successful engagement...'"
+    },
+    {
+      "question": "What kind of policy enforcement action stems from the regulatory tradition of 'consumer protection'?",
+      "options": {
+        "A": "Imposing capital requirements on banks.",
+        "B": "Setting national emissions targets.",
+        "C": "Combating mis-selling or misleadingly advertising products, such as in cases of greenwashing.",
+        "D": "Conducting climate stress tests on the financial system."
+      },
+      "answer": "C",
+      "explanation": "The text describes another type of policy enforcement that 'derives from the regulatory tradition of consumer protection, specifically combating mis-selling or misleadingly advertising products to consumers,' directly linking it to greenwashing."
+    },
+    {
+      "question": "Which of these is a key challenge for a cap-and-trade scheme?",
+      "options": {
+        "A": "Predicting the exact cost of carbon in advance.",
+        "B": "Volatile carbon pricing and the potential for permit oversupply.",
+        "C": "Difficulty in collecting the revenue.",
+        "D": "Lack of flexibility for participating companies."
+      },
+      "answer": "B",
+      "explanation": "The text points out that trading schemes can cause volatile carbon pricing and that shocks can lead to permit oversupply, which decreases the incentive to reduce emissions."
+    },
+    {
+      "question": "The Kyoto Protocol's target was a 5% reduction in emissions by 2008-2012 compared to what baseline year?",
+      "options": {
+        "A": "1980",
+        "B": "1990",
+        "C": "1997",
+        "D": "2000"
+      },
+      "answer": "B",
+      "explanation": "The text states that under the Kyoto Protocol, high-income countries agreed 'to reduce emissions by 5% from 1990 levels by 2008-2012.'"
+    },
+    {
+      "question": "The organization 'America's Pledge' was launched in response to what event?",
+      "options": {
+        "A": "The signing of the Kyoto Protocol.",
+        "B": "The creation of the Intergovernmental Panel on Climate Change (IPCC).",
+        "C": "The decision by the Trump administration to withdraw the United States from the Paris Agreement.",
+        "D": "The 2008 financial crisis."
+      },
+      "answer": "C",
+      "explanation": "The text explains that 'In the wake of the decision in 2017 by President Donald Trump's administration to withdraw the United States from the Paris Agreement, an organization called America's Pledge was launched by entities still committed to Paris.'"
+    },
+    {
+      "question": "What is the name of the umbrella group for financial institutions committed to net-zero, which includes the Net Zero Asset Owners' Alliance and Net Zero Banking Alliance?",
+      "options": {
+        "A": "The Investor Agenda",
+        "B": "The Institutional Investors Group on Climate Change (IIGCC)",
+        "C": "Climate Action 100+",
+        "D": "Glasgow Financial Alliance for Net Zero (GFANZ)"
+      },
+      "answer": "D",
+      "explanation": "Table 4.2 identifies the Glasgow Financial Alliance for Net Zero (GFANZ) as the group for 'All financial players' with goals to 'increase net-zero commitments among financial institutions.'"
+    },
+    {
+      "question": "Which two sectors are highlighted in the text as being the most emissions-intensive and are reviewed for their specific climate change mitigation policies?",
+      "options": {
+        "A": "Agriculture and waste management",
+        "B": "Power generation and transportation",
+        "C": "Construction and textiles",
+        "D": "Technology and healthcare"
+      },
+      "answer": "B",
+      "explanation": "The section on national policies states, 'This section reviews carbon pricing and then describes climate change mitigation policies in two of the most emissions-intensive sectors: power generation and transportation.'"
+    },
+    {
+      "question": "The concept of 'stranded assets' refers to assets that...",
+      "options": {
+        "A": "Are physically located in remote, hard-to-reach areas.",
+        "B": "Have lost value or become liabilities ahead of their expected useful life due to climate-related transition or physical risks.",
+        "C": "Are held by companies that have declared bankruptcy for non-climate reasons.",
+        "D": "Have been set aside in a special fund to pay for future climate damages."
+      },
+      "answer": "B",
+      "explanation": "While the term is not explicitly defined, the context of the text, particularly in discussing risks for companies and the need for climate stress tests, implies that stranded assets are those devalued by the climate transition (e.g., fossil fuel reserves)."
+    },
+    {
+      "question": "The framework of the TCFD, which is being adopted by the TNFD, is built on four pillars. Which of the following is NOT one of those pillars?",
+      "options": {
+        "A": "Governance",
+        "B": "Strategy",
+        "C": "Litigation",
+        "D": "Risk Management"
+      },
+      "answer": "C",
+      "explanation": "The text mentions the TNFD will adopt the four pillars of the TCFD: 'governance, strategy, risk management, metrics, and targets.' Litigation is a risk type, not a disclosure pillar."
+    },
+    {
+      "question": "What is the primary mechanism that the Paris Agreement uses to compel countries to increase their climate ambitions over time?",
+      "options": {
+        "A": "Legal sanctions and trade embargoes.",
+        "B": "Inclusion, peer pressure, and the five-year 'ratchet' mechanism.",
+        "C": "Direct payments from a central UN fund.",
+        "D": "Mandatory technology transfer from developed to developing nations."
+      },
+      "answer": "B",
+      "explanation": "The text explains the success of Paris lies in its different structure from Kyoto, making use of 'the powerful tools of inclusion and peer pressure' and the requirement for countries to ramp up ambitions."
+    },
+    {
+      "question": "For an oil and gas company, which scope of emissions is typically the largest and most vulnerable to climate transition risks?",
+      "options": {
+        "A": "Scope 1 (from operations)",
+        "B": "Scope 2 (from purchased electricity)",
+        "C": "Scope 3 (from the combustion of the oil and gas they sell)",
+        "D": "All scopes are typically equal in size."
+      },
+      "answer": "C",
+      "explanation": "The text provides an example: 'the emissions embedded in the oil sold by an oil and gas company will typically be a much larger share of overall company emissions than the emissions from the company’s operations.' This is a key part of their Scope 3 emissions."
+    },
+    {
+      "question": "What is the primary difference between a 'green bond' and a 'sustainability-linked bond' (SLB)?",
+      "options": {
+        "A": "There is no difference; the terms are interchangeable.",
+        "B": "Green bonds must be issued by governments, while SLBs are issued by corporations.",
+        "C": "Green bond proceeds are tied to specific projects, while SLB financial characteristics (e.g., coupon rate) change based on whether the issuer achieves predefined sustainability targets.",
+        "D": "SLBs have a lower interest rate than green bonds."
+      },
+      "answer": "C",
+      "explanation": "The case study on Sovereign SLBs explains their unique feature: the interest rate is tied to the government's progress in meeting targets, unlike traditional green bonds where the focus is on how the raised capital is used."
+    },
+    {
+      "question": "Which social movement, mentioned in the text, uses civil disobedience to highlight the climate crisis and has targeted banks perceived as moving too slowly?",
+      "options": {
+        "A": "Greenpeace",
+        "B": "The Sierra Club",
+        "C": "Extinction Rebellion",
+        "D": "Fridays for Future"
+      },
+      "answer": "C",
+      "explanation": "The text states, 'Extinction Rebellion, a climate-focused civil disobedience movement in the UK, sought to disrupt society to highlight the crucial impact of climate change, and many of its targets were banks...'"
+    },
+    {
+      "question": "The Kyoto Protocol differentiated between 'Annex 1' and 'non-Annex 1' countries. What did this distinction represent?",
+      "options": {
+        "A": "Countries that ratified the treaty vs. those that did not.",
+        "B": "Developed (Annex 1) and developing (non-Annex 1) countries, with different emissions reduction obligations.",
+        "C": "Countries in the Northern Hemisphere vs. the Southern Hemisphere.",
+        "D": "Countries that attended the first COP vs. those that attended later."
+      },
+      "answer": "B",
+      "explanation": "The text explains that the principle of 'common but differentiated responsibilities' led to differentiating between Annex 1 (developed) and non-Annex 1 (developing) countries in terms of their obligations."
+    },
+    {
+      "question": "The policy of 'green/low-carbon public procurement' aims to reduce emissions by:",
+      "options": {
+        "A": "Taxing government purchases.",
+        "B": "Forcing all citizens to buy specific green products.",
+        "C": "Using the government's purchasing power to opt for sustainable alternatives, helping to spur market uptake and technology development.",
+        "D": "Banning all public sector construction projects."
+      },
+      "answer": "C",
+      "explanation": "Table 4.1 describes this policy as governments using their purchasing power to choose green alternatives (e.g., for buildings, transport), thereby helping to develop technologies and encourage wider adoption."
+    },
+    {
+      "question": "What is a significant challenge posed by biodiversity loss for the financial system?",
+      "options": {
+        "A": "It is purely an ethical issue with no financial impact.",
+        "B": "It affects only the tourism industry.",
+        "C": "It can cascade into financial risks for institutions by disrupting businesses that depend on ecosystem services, such as agriculture and construction.",
+        "D": "It has already been fully priced into all asset valuations."
+      },
+      "answer": "C",
+      "explanation": "The text explains that environmental degradation, like biodiversity loss, can 'cascade to risks for financial institutions' by limiting the operations of businesses in sectors that are highly dependent on nature."
+    },
+    {
+      "question": "The joint IPCC and IPBES workshop recommendation was that mankind must:",
+      "options": {
+        "A": "Focus on solving the climate crisis first, then address the nature crisis.",
+        "B": "Focus on solving the nature crisis first, as it is more urgent.",
+        "C": "Solve both the climate and nature crises together, or it will not solve either.",
+        "D": "Abandon efforts to solve these crises and focus on economic growth."
+      },
+      "answer": "C",
+      "explanation": "The text concludes the section on nature with a clear recommendation from a joint workshop: 'Mankind needs to solve both the climate and nature crises, or it will not solve either.'"
+    },
+    {
+      "question": "The 'do-no-significant-harm' provision is a key component of which framework?",
+      "options": {
+        "A": "The Kyoto Protocol",
+        "B": "The GHG Protocol Corporate Standard",
+        "C": "The EU Green Taxonomy",
+        "D": "The TCFD Recommendations"
+      },
+      "answer": "C",
+      "explanation": "The text explicitly mentions that 'do-no-significant-harm provisions, including in the EU taxonomy, are meant to ensure that green activities make a positive contribution to environmental outcomes and do not harm other environmental and social objectives.'"
+    },
+    {
+      "question": "What is the primary mechanism of a 'cap-and-trade' scheme?",
+      "options": {
+        "A": "A fixed tax is applied to every ton of CO2 emitted.",
+        "B": "A total limit (cap) on emissions is set, and permits to emit are traded among participants.",
+        "C": "Companies are subsidized for adopting green technology.",
+        "D": "A performance standard is set for each individual company."
+      },
+      "answer": "B",
+      "explanation": "In cap-and-trade schemes, 'the total amount of emissions is capped...but emissions permits can be traded between participants.' This creates a market-based price on carbon."
+    },
+    {
+      "question": "According to the text, a slight global cooling trend in the 1950s and 1960s is retrospectively attributed to what?",
+      "options": {
+        "A": "A decrease in solar activity.",
+        "B": "The vast ability of oceans to absorb CO2.",
+        "C": "Aerosols, a type of chemical pollution that decreased after clean air legislation.",
+        "D": "A measurement error in early thermometers."
+      },
+      "answer": "C",
+      "explanation": "The text notes that 'the slight cooling trend observed in the 1950s and 1960s can retrospectively be attributed to aerosols, a type of chemical pollution that decreased after clean air legislation in major economies.'"
+    },
+    {
+      "question": "Which investment policy is described as a collaboration where creditor countries forgive debt from developing countries in return for commitments to lower emissions?",
+      "options": {
+        "A": "Green bonds",
+        "B": "Debt-for-climate swaps",
+        "C": "Venture capital",
+        "D": "Impact investing"
+      },
+      "answer": "B",
+      "explanation": "The text explains that 'Debt-for-climate swaps represent one potential approach, where creditor countries or organizations forgive or reduce the debt of developing countries in return for commitments to lower greenhouse gas emissions and adapt to climate impacts.'"
+    },
+    {
+      "question": "The 'Global Shield for climate risks' announced at COP27 is a program aimed at providing what?",
+      "options": {
+        "A": "A military defense system against climate-induced conflicts.",
+        "B": "A physical shield to protect cities from rising sea levels.",
+        "C": "Financial protection through climate risk insurance, particularly for poor and vulnerable peoples.",
+        "D": "A global database of climate science research."
+      },
+      "answer": "C",
+      "explanation": "'Global Shield is a climate risk insurance program that was announced jointly by the Vulnerable Twenty (V20) and Group of Seven (G7) member states at COP27. The aim of the initiative to provide financial protection against the increasing risks of losses and damages from climate change.'"
+    },
+    {
+      "question": "According to the text, what percentage of Fortune 500 companies responding to the CDP used the GHG Protocol for their emissions accounting?",
+      "options": {
+        "A": "25%",
+        "B": "51%",
+        "C": "75%",
+        "D": "92%"
+      },
+      "answer": "D",
+      "explanation": "The text states, 'According to the GHG Protocol, 92% of Fortune 500 companies responding to the CDP used the GHG Protocol directly or indirectly and it is the world's most widely used GHG emissions accounting standard.'"
+    },
+    {
+      "question": "Which of these is NOT listed as a key pillar for the Bank of England's microprudential requirements for firms regarding climate change?",
+      "options": {
+        "A": "Governance",
+        "B": "Risk Management",
+        "C": "Executive Compensation",
+        "D": "Disclosure"
+      },
+      "answer": "C",
+      "explanation": "The case study on the Bank of England lists four key pillars for its requirements: governance, risk management, scenario analysis, and disclosure. Executive compensation is not listed as one of these pillars."
+    },
+    {
+      "question": "What does the term 'microprudential' refer to in financial supervision?",
+      "options": {
+        "A": "Supervision of the financial system as a whole.",
+        "B": "Supervision of very small financial institutions only.",
+        "C": "Supervision focused on the safety and soundness of individual financial institutions.",
+        "D": "Supervision of the national economy's monetary policy."
+      },
+      "answer": "C",
+      "explanation": "The text defines microprudential supervision as 'the oversight of specific financial institutions (usually banks and insurers) for financial soundness.'"
+    },
+    {
+      "question": "The 'Net Zero Asset Owners Alliance' consists of a group of asset owners who have committed to what?",
+      "options": {
+        "A": "To invest only in companies that are already at net-zero.",
+        "B": "To align their entire portfolios with the goal of net-zero greenhouse gas emissions by 2050.",
+        "C": "To divest from all fossil fuel assets immediately.",
+        "D": "To own and operate renewable energy assets directly."
+      },
+      "answer": "B",
+      "explanation": "Table 4.2 describes this group as investors 'who have committed to aligning their entire portfolios with the goal of net-zero greenhouse gas emissions by 2050, including full alignment with a 1.5°C scenario.'"
+    },
+    {
+      "question": "According to the text, what percentage of corporate net-zero targets analyzed at the end of 2021 covered the entirety of Scope 3 emissions?",
+      "options": {
+        "A": "95%",
+        "B": "75%",
+        "C": "52%",
+        "D": "32%"
+      },
+      "answer": "D",
+      "explanation": "The text notes that of the net-zero targets analyzed, 'only 32% of corporate net-zero targets covered the entirety of Scope 3 emissions.'"
+    },
+    {
+      "question": "What is one of the arguments some investors make for why a degree of Scope 3 double-counting might be 'desirable'?",
+      "options": {
+        "A": "It makes the total numbers look bigger and more impressive.",
+        "B": "It ensures that carbon exposure reverberating through the supply chain affects each company's risk assessment equally.",
+        "C": "It is required by law in most jurisdictions.",
+        "D": "It simplifies the accounting process significantly."
+      },
+      "answer": "B",
+      "explanation": "The text quotes Lombard Odier Investment Managers arguing that 'Carbon exposure reverberates through the supply chain and affects each company equally, even when the responsibility for these emissions may be shared.'"
+    },
+    {
+      "question": "What is the primary goal of Development Financial Institutions (DFIs) like the World Bank?",
+      "options": {
+        "A": "To maximize profits for their shareholders.",
+        "B": "To support public-sector investment in projects conducive to socioeconomic development.",
+        "C": "To act as a global consumer bank.",
+        "D": "To regulate international trade."
+      },
+      "answer": "B",
+      "explanation": "The text states that Multilateral Development Banks (MDBs) and other DFIs are 'tasked with supporting public-sector investment in physical and human capital projects conducive to socioeconomic development.'"
+    },
+    {
+      "question": "The text states that the UK and New Zealand have made what type of climate-related reporting mandatory?",
+      "options": {
+        "A": "GHG Protocol Scope 1 emissions only",
+        "B": "TCFD-aligned reporting",
+        "C": "A report on employee commuting habits",
+        "D": "A monthly climate risk assessment"
+      },
+      "answer": "B",
+      "explanation": "In the section on central bank supervision, it notes that 'In the UK and New Zealand, TCFD-aligned reporting has been made mandatory, and other counties are likely to follow suit.'"
+    },
+    {
+      "question": "What is the key difference between Asia's and Europe's contribution to CO2 emissions?",
+      "options": {
+        "A": "Asia has higher cumulative emissions, while Europe has higher current emissions.",
+        "B": "Europe has higher cumulative emissions due to earlier industrialization, while Asia (led by China) has higher current annual emissions.",
+        "C": "Both continents have roughly equal shares of cumulative and current emissions.",
+        "D": "Europe's emissions are primarily from agriculture, while Asia's are from industry."
+      },
+      "answer": "B",
+      "explanation": "Box 4.1 and Figure 4.2 clearly illustrate this contrast: industrialization started earlier in Europe and North America, giving them a larger share of cumulative emissions, while countries like China and India have sharply increased their share of annual emissions more recently."
+    }
+  ]
+}

@@ -1,0 +1,994 @@
+{
+  "C6": [
+    {
+      "question": "According to the chapter, what is a primary prerequisite for being able to manage climate risk?",
+      "options": {
+        "A": "Investing in renewable energy sources.",
+        "B": "Measuring and defining the climate risk.",
+        "C": "Hiring a dedicated climate risk officer.",
+        "D": "Purchasing climate risk insurance."
+      },
+      "answer": "B",
+      "explanation": "The text states, 'Measuring and defining climate risk is a prerequisite for being able to manage it—even more acutely so than for many other kinds of risks.' (Page 124)"
+    },
+    {
+      "question": "Which of the following are the three scopes of corporate greenhouse gas emissions described in the chapter?",
+      "options": {
+        "A": "Scope 1 (internal), Scope 2 (external), Scope 3 (supply chain).",
+        "B": "Scope 1 (direct), Scope 2 (energy inputted), Scope 3 (indirect from supply chain/products).",
+        "C": "Scope 1 (operational), Scope 2 (financial), Scope 3 (reputational).",
+        "D": "Scope 1 (company), Scope 2 (sector), Scope 3 (national)."
+      },
+      "answer": "B",
+      "explanation": "Page 124 explicitly defines the scopes: 'Scope 1(direct emissions), Scope 2(emissions from energy inputted) and Scope 3(indirect emissions from supply chains and products).'"
+    },
+    {
+      "question": "What is the key difference between analyzing physical risks at the asset level versus using company-level scores?",
+      "options": {
+        "A": "Asset-level analysis is easier but less thorough; scores are more difficult but more accurate.",
+        "B": "Asset-level analysis is only for financial institutions; scores are for non-financial corporations.",
+        "C": "Asset-level analysis is more thorough but also more difficult; scores are easier to use but can lack transparency.",
+        "D": "Asset-level analysis focuses on transition risk; scores focus on physical risk."
+      },
+      "answer": "C",
+      "explanation": "Page 124 states, 'Asset-level analysis is more thorough but also more difficult; scores are easier to use and integrate but can sometimes suffer from methodological opacity or lack of cross-comparability between providers.'"
+    },
+    {
+      "question": "According to the NGFS schematic (Figure 6.2), transition risks and physical risks are categorized as what type of risks?",
+      "options": {
+        "A": "Financial risks",
+        "B": "Economic transmission channels",
+        "C": "Environment-and climate-related risks",
+        "D": "Systemic contagion risks"
+      },
+      "answer": "C",
+      "explanation": "Figure 6.2 on page 126 clearly labels 'Transition risks' and 'Physical risks' under the main heading of 'Environment-and climate-related risks'."
+    },
+    {
+      "question": "In the NGFS schematic, 'Defaults by businesses and households' and 'Collateral depreciation' are examples of which financial risk?",
+      "options": {
+        "A": "Market risks",
+        "B": "Liquidity risk",
+        "C": "Underwriting risk",
+        "D": "Credit risks"
+      },
+      "answer": "D",
+      "explanation": "Figure 6.2 on page 126 lists 'Defaults by businesses and households' and 'Collateral depreciation' under the 'Credit risks' category within 'Financial risks'."
+    },
+    {
+      "question": "Which type of risk has a 'LIMITED' potential for causing systemic/financial stability risk, according to Table 6.1?",
+      "options": {
+        "A": "Credit risk",
+        "B": "Operational risk",
+        "C": "Liquidity risk",
+        "D": "Market risk"
+      },
+      "answer": "B",
+      "explanation": "Table 6.1 on page 127 explicitly states that Operational Risk has 'LIMITED' potential for macro-level systemic risk, noting that the likelihood increases with high geographic concentration."
+    },
+    {
+      "question": "How does transition risk increase a company's credit risk?",
+      "options": {
+        "A": "By causing property damage and business interruption.",
+        "B": "By causing asset stranding, which worsens a firm's financial position and increases the probability of default.",
+        "C": "By leading to higher insurance premiums, making it harder to secure loans.",
+        "D": "By prompting sudden deposit withdrawals from banks."
+      },
+      "answer": "B",
+      "explanation": "Table 6.1 on page 127 explains that 'Transition risk causing asset stranding can worsen a firm's financial position, increasing its probability of default, ands well as increasing the loss given default...'"
+    },
+    {
+      "question": "What is meant by a 'climate Minsky moment'?",
+      "options": {
+        "A": "A gradual and predictable repricing of assets due to climate policy.",
+        "B": "An abrupt and wide enough repricing and dislocation that constitutes a market liquidity shock.",
+        "C": "A moment when physical risk becomes uninsurable for an entire sector.",
+        "D": "A sovereign default caused by climate-related natural disasters."
+      },
+      "answer": "B",
+      "explanation": "The term is used on page 127 in the context of Liquidity Risk: 'A \"climate Minsky moment\" could cause abrupt and wide enough repricing and dislocation to constitute a market liquidity shock.'"
+    },
+    {
+      "question": "Which risk type is described as having 'MIXED' potential for causing systemic risk because some countries are heavily exposed while others are diversified?",
+      "options": {
+        "A": "Market risk",
+        "B": "Credit risk",
+        "C": "Sovereign risk",
+        "D": "Operational risk"
+      },
+      "answer": "C",
+      "explanation": "Table 6.1 (continued on page 128) categorizes the macro-level potential for Sovereign risk as 'MIXED', explaining that many countries have diversified economies but some are heavily exposed to physical or transition risk."
+    },
+    {
+      "question": "What is a key metric for measuring operational risk related to climate change?",
+      "options": {
+        "A": "Probability of default (PD)",
+        "B": "Loan-to-deposit ratio",
+        "C": "Proportion of facilities in vulnerable locations",
+        "D": "Climate Value at Risk (CVaR)"
+      },
+      "answer": "C",
+      "explanation": "On page 128, under Operational Risk, the text mentions that 'metrics include the proportion of facilities in vulnerable locations and various measures of company preparedness against external risks.'"
+    },
+    {
+      "question": "How does climate risk transmit into 'people risk', a subcomponent of operational risk?",
+      "options": {
+        "A": "Only through the harmful effects of excess heat on worker productivity.",
+        "B": "Through both direct effects like heat on productivity and indirect effects like inadequate staff training on climate issues.",
+        "C": "By causing facility shutdowns, which leads to employee layoffs.",
+        "D": "By increasing legal liability for the company's board of directors."
+      },
+      "answer": "B",
+      "explanation": "The text on pages 128-129 describes two ways: 'Inadequate staff training or management's lack of attention' and the more direct 'harmful effects of excess heat on worker productivity'."
+    },
+    {
+      "question": "What are the three key metrics for gauging credit risk mentioned in the text?",
+      "options": {
+        "A": "PD, LGD, and VaR",
+        "B": "PD, LGD, and EAD",
+        "C": "CVaR, WACI, and LGD",
+        "D": "PD, EAD, and bid-ask spread"
+      },
+      "answer": "B",
+      "explanation": "Page 129 states, 'Key metrics for gauging credit risk include the probability of default (PD)and the loss given default (LGD)...The third key metric used under the for banks is exposure at default (EAD).'"
+    },
+    {
+      "question": "How does the stranding of assets affect a company's credit risk?",
+      "options": {
+        "A": "It increases the value of its liabilities, making it more creditworthy.",
+        "B": "It has no effect on credit risk, only on operational risk.",
+        "C": "It significantly affects the firm's financial health, making it more likely to default on its debts.",
+        "D": "It only affects companies in the renewable energy sector."
+      },
+      "answer": "C",
+      "explanation": "As explained on page 130, 'If a company's core assets fall in value or even become worthless, this significantly affects the financial health of the firm...mak[ing] it more likely that the company will default on future debts...'"
+    },
+    {
+      "question": "What are the key metrics mentioned for firm-specific liquidity risk?",
+      "options": {
+        "A": "Probability of default and loss given default.",
+        "B": "Loan-to-deposit ratios (for banks) and bid-ask spreads (for markets).",
+        "C": "Changes in insurance premiums and availability of insurance.",
+        "D": "Weighted average carbon intensity and portfolio risk scores."
+      },
+      "answer": "B",
+      "explanation": "On page 131, the text specifies, 'Key metrics for liquidity risk include loan-to-deposit ratios (specifically for banks)and bid-ask spreads (specifically for markets).'"
+    },
+    {
+      "question": "Underwriting risk primarily affects which sector directly?",
+      "options": {
+        "A": "The banking sector",
+        "B": "The energy sector",
+        "C": "The insurance sector",
+        "D": "The agricultural sector"
+      },
+      "answer": "C",
+      "explanation": "Page 131 states, 'Although underwriting risk only directly affects the insurance sector, it is still important to single it out as a type of risk affected by climate risk...'"
+    },
+    {
+      "question": "Why does climate change present a challenge to the traditional insurance model?",
+      "options": {
+        "A": "Because insurance works best when losses are unpredictable and random.",
+        "B": "Because climate risks can become highly concentrated, violating the principle of a large pool with small, equal chances of loss.",
+        "C": "Because climate change reduces the frequency of insurable events.",
+        "D": "Because insurers are not allowed to use historical data to price policies."
+      },
+      "answer": "B",
+      "explanation": "Page 131 explains that insurance works best with a large pool where participants have a small, close-to-equal chance of loss. 'Climate risk...present a challenge as they can become highly concentrated.'"
+    },
+    {
+      "question": "What is the systemic risk implication of many insurers withdrawing coverage for climate-related risks?",
+      "options": {
+        "A": "It would lower the cost of capital for exposed firms.",
+        "B": "It could leave households and firms without coverage, potentially amplifying risks to financial stability.",
+        "C": "It would force governments to offer free public insurance.",
+        "D": "It has no systemic risk implication as it is an individual business decision."
+      },
+      "answer": "B",
+      "explanation": "Page 133 discusses this under Insurance Risk: 'If large numbers of insurers...completely withdraw their coverage...this might leave households and firms without coverage, potentially amplifying the resulting risks to financial stability.'"
+    },
+    {
+      "question": "What does Climate Value at Risk (CVaR) attempt to measure?",
+      "options": {
+        "A": "The total carbon emissions of a portfolio.",
+        "B": "The reputational damage from climate-related incidents.",
+        "C": "A rough estimate of climate-related financial losses, similar to standard VaR.",
+        "D": "The probability of a sovereign default due to climate change."
+      },
+      "answer": "C",
+      "explanation": "The text on page 134 explains that MSCI's 'Climate Value at Risk' tool, like standard VaR, 'is meant to capture a rough estimate of climate-related financial losses.'"
+    },
+    {
+      "question": "Which sectors are shown to be most exposed to a combination of physical and transition risks according to the CVaR chart (Figure 6.5)?",
+      "options": {
+        "A": "Pulp and Paper, and Consumer Services",
+        "B": "Travel and Leisure, and Oil and Gas",
+        "C": "Construction, coal, and electrical utilities",
+        "D": "Health Care Services, and Gas Distribution"
+      },
+      "answer": "C",
+      "explanation": "The text accompanying Figure 6.5 on page 134 states: 'Aggregated at the sector level, CVaR shows that construction, coal, and electrical utilities are the most exposed sectors...' The chart visually confirms this."
+    },
+    {
+      "question": "A country heavily reliant on fossil fuel exports that faces reduced global demand due to climate policies could be referred to as a:",
+      "options": {
+        "A": "Transition-resilient nation",
+        "B": "Stranded nation",
+        "C": "Carbon-neutral nation",
+        "D": "Climate-adaptive nation"
+      },
+      "answer": "B",
+      "explanation": "Page 135 uses this analogy: '...this may turn states heavily reliant on fossil fuel exports into \"stranded nations\" (by analogy to stranded assets).'"
+    },
+    {
+      "question": "What is the primary source of data for measuring company-level transition risk?",
+      "options": {
+        "A": "Satellite imagery of physical assets.",
+        "B": "Company credit ratings.",
+        "C": "Data on greenhouse gas emissions.",
+        "D": "Historical weather data and climate models."
+      },
+      "answer": "C",
+      "explanation": "Page 135 states, 'Measuring transition risk starts with measuring greenhouse-gas emissions...'"
+    },
+    {
+      "question": "According to the GHG Protocol, what are Scope 2 emissions?",
+      "options": {
+        "A": "Emissions resulting directly from a company's operations.",
+        "B": "All other upstream and downstream emissions.",
+        "C": "Upstream emissions from purchased electricity, heating and cooling.",
+        "D": "Downstream emissions from the use of sold products."
+      },
+      "answer": "C",
+      "explanation": "Page 136 defines Scope 2 as including 'upstream emissions from purchased electricity, heating and cooling...'"
+    },
+    {
+      "question": "For which of the following sectors would Scope 3 emissions constitute the vast majority of their total carbon footprint?",
+      "options": {
+        "A": "Electricity Utilities",
+        "B": "Banks and Oil & Gas firms",
+        "C": "Real Estate",
+        "D": "Capital Goods"
+      },
+      "answer": "B",
+      "explanation": "Page 136 explains, '...almost all banks'emissions are categorized as Scope 3, as are the majority of oil & gas firms'emissions...'"
+    },
+    {
+      "question": "What is a significant shortcoming of current corporate carbon emissions data?",
+      "options": {
+        "A": "The data is always audited by third parties and is therefore too expensive.",
+        "B": "Most data comes from mandatory, standardized government reports.",
+        "C": "Most data comes from voluntary, often unaudited, self-reporting by companies.",
+        "D": "The data is only available for privately held companies."
+      },
+      "answer": "C",
+      "explanation": "Page 136 highlights that 'Most data currently come from self-reporting by companies... These voluntary disclosures are not only typically unaudited but also vary in their breadth and detail.'"
+    },
+    {
+      "question": "What is the primary goal of the 'new model' for data collection on carbon footprints, as shown in the schematic on page 137?",
+      "options": {
+        "A": "To rely solely on corporate-level disclosure.",
+        "B": "To decrease the amount of data available to investors.",
+        "C": "To use granular, asset-level data from sources like satellites to supplement or replace self-disclosure.",
+        "D": "To focus only on Scope 1 emissions."
+      },
+      "answer": "C",
+      "explanation": "The 'New Model' schematic (Figure 6.7) and accompanying text on page 138 describe a shift towards using asset-level data from data firms, satellites, and open-source datasets for a more granular view."
+    },
+    {
+      "question": "To be useful for firm-level analysis, what must be done to the output from global climate models?",
+      "options": {
+        "A": "It must be aggregated to a continental level.",
+        "B": "It must be kept in its raw, unadjusted format.",
+        "C": "It must be reconciled and downscaled to give regional or local estimates.",
+        "D": "It must be converted into a single financial loss number."
+      },
+      "answer": "C",
+      "explanation": "Page 138 explains, '...for them to be relevant and usable for firms or investors, the output of the different models must be reconciled and downscaled to give regional or local estimates.'"
+    },
+    {
+      "question": "What is a key downside of using 'heavily digested' physical climate risk scores from providers?",
+      "options": {
+        "A": "They are too complicated for most investors to use.",
+        "B": "The proprietary methods remain a 'blackbox' to the investors who purchase them.",
+        "C": "They are only available for free from government agencies.",
+        "D": "They only cover transition risk, not physical risk."
+      },
+      "answer": "B",
+      "explanation": "Page 139 notes the downside: 'The proprietary methods and datasets that they derive from remain a \"blackbox\" to the investors who purchase the scores...'"
+    },
+    {
+      "question": "What are two common metrics for portfolio-level analysis of transition risk?",
+      "options": {
+        "A": "Loan-to-deposit ratio and bid-ask spread.",
+        "B": "Probability of default and loss given default.",
+        "C": "Carbon intensity and weighted average carbon intensity (WACI).",
+        "D": "Physical risk scores and hazard maps."
+      },
+      "answer": "C",
+      "explanation": "Page 140 states, 'Two common metrics are carbon intensity...and weighted average carbon intensity...'"
+    },
+    {
+      "question": "What is the primary characteristic of an Enterprise Risk Management (ERM) framework like COSO's?",
+      "options": {
+        "A": "It is a simple checklist of risks to be compiled by the risk department.",
+        "B": "It focuses exclusively on financial and market risks.",
+        "C": "It is a holistic approach, integrating culture, capabilities, and practices with strategy-setting across the firm.",
+        "D": "It is a framework used only by regulatory bodies to supervise banks."
+      },
+      "answer": "C",
+      "explanation": "Page 142 clarifies, 'ERM is not considered to simply be a function or a department, but consists of\"culture, capabilities and practices that organizations integrate with strategy-setting...it is a holistic modus operandi across an entire firm.'"
+    },
+    {
+      "question": "In the COSO ERM framework (Figure 6.10), 'Identifies Risk' and 'Assesses Severity of Risk' fall under which component?",
+      "options": {
+        "A": "Governance & Culture",
+        "B": "Strategy & Objective-Setting",
+        "C": "Performance",
+        "D": "Review & Revision"
+      },
+      "answer": "C",
+      "explanation": "Figure 6.10 on page 141 clearly lists '10. Identifies Risk' and '11. Assesses Severity of Risk' under the 'PERFORMANCE' column."
+    },
+    {
+      "question": "In the 'three lines of defense' model for risk governance, who typically forms the 'first line of defense'?",
+      "options": {
+        "A": "Internal auditors",
+        "B": "The board of directors and senior management",
+        "C": "The dedicated risk management function",
+        "D": "Front office staff, like relationship managers and deal principals"
+      },
+      "answer": "D",
+      "explanation": "The case study on ING (page 143) explains this model: '...front office staff, including relationship managers and deal principals who actually negotiate transactions, form the \"first line of defense\"...'"
+    },
+    {
+      "question": "What is the purpose of a SWOT analysis in the context of climate risk strategy?",
+      "options": {
+        "A": "To calculate the precise financial impact of climate change.",
+        "B": "To compare internal strengths and weaknesses with external opportunities and threats related to climate change.",
+        "C": "To measure the carbon footprint of a company's operations.",
+        "D": "To satisfy regulatory disclosure requirements and nothing more."
+      },
+      "answer": "B",
+      "explanation": "Page 142 describes the SWOT analysis as using 'a two-by-two matrix to compare the (internal) strengths and weaknesses, (external) opportunities, and threats an organization is facing...' Table 6.2 on page 144 provides a direct example for climate risk drivers."
+    },
+    {
+      "question": "Which of these is NOT a sub-component of 'Performance' in the COSO ERM framework for tracking climate risks?",
+      "options": {
+        "A": "Risk identification",
+        "B": "Risk assessment and prioritization",
+        "C": "Implementation of risk responses",
+        "D": "Defining risk appetite"
+      },
+      "answer": "D",
+      "explanation": "According to page 144, the 'Performance' component consists of three sub-components: risk identification, risk assessment and prioritization, and the implementation of risk responses. 'Defines Risk Appetite' is part of 'Strategy & Objective-Setting' in the COSO framework (Figure 6.10)."
+    },
+    {
+      "question": "In the McKinsey case study on counterparty risk assessment, how did the bank differentiate risk exposure between counterparties in the same sector?",
+      "options": {
+        "A": "By looking only at their credit scores.",
+        "B": "By making adjustments for the firm's specific emissions intensity, reliance on fossil fuels, and exposure to physical hazards.",
+        "C": "By assuming all companies in a sector have identical risk profiles.",
+        "D": "By focusing only on the geographical location of their headquarters."
+      },
+      "answer": "B",
+      "explanation": "The case study on page 145 states, 'The model was especially helpful for differentiating climate risk exposure between counterparties within the same sector' through adjustments for 'emissions intensity and reliance on fossil fuels...and exposure to physical hazards...'"
+    },
+    {
+      "question": "According to the standard COSO ERM framework, which of the following refers to removing a risk completely?",
+      "options": {
+        "A": "Acceptance",
+        "B": "Reduction",
+        "C": "Sharing",
+        "D": "Avoidance"
+      },
+      "answer": "D",
+      "explanation": "Page 146 defines the five risk responses. 'Avoidance refers to removing the risk completely, and anything related to it.'"
+    },
+    {
+      "question": "What is a 'transversal risk'?",
+      "options": {
+        "A": "A risk that only affects one specific department in a company.",
+        "B": "A risk that is temporary and resolves itself quickly.",
+        "C": "A risk that affects nearly all 'traditional' categories of risk at the company-specific level.",
+        "D": "A risk that has been transferred to a third party through insurance."
+      },
+      "answer": "C",
+      "explanation": "The conclusion on page 147 describes climate risk as 'a transversal risk, which affects nearly all \"traditional\" categories of risk in some way at the company-specific level...'"
+    },
+    {
+      "question": "How can physical risk to a company's supply chain affect its operational risk?",
+      "options": {
+        "A": "It improves worker productivity by encouraging remote work.",
+        "B": "It can cause business interruption, leading to potential losses.",
+        "C": "It decreases the company's insurance premiums.",
+        "D": "It only impacts credit risk, not operational risk."
+      },
+      "answer": "B",
+      "explanation": "Table 6.1 on page 127 states that physical risk can cause 'business interruption, both to a business' own facilities and to supply chains,' which is a manifestation of operational risk."
+    },
+    {
+      "question": "Why would an abrupt policy change, such as a carbon tax, be considered a transition risk?",
+      "options": {
+        "A": "It's a physical event that damages company assets.",
+        "B": "It's a shift in the policy landscape that can negatively impact a firm's financial position, potentially stranding assets.",
+        "C": "It's an acute weather event that disrupts supply chains.",
+        "D": "It's a long-term, chronic change in precipitation patterns."
+      },
+      "answer": "B",
+      "explanation": "Transition risks are related to the shift to a lower-carbon economy. As shown in Figure 6.2 and discussed throughout, 'Policy and regulation' is a key driver of transition risk."
+    },
+    {
+      "question": "What is the primary driver behind the potential for underwriting risk to become a systemic risk?",
+      "options": {
+        "A": "A single, large insurance company might fail.",
+        "B": "If a large number of insurers simultaneously refuse coverage for certain risks, it could leave whole sectors unprotected, amplifying financial instability.",
+        "C": "Insurance premiums might fall too low, making the industry unprofitable.",
+        "D": "Regulators might force insurers to cover all climate-related damages at no cost."
+      },
+      "answer": "B",
+      "explanation": "Page 133 discusses this: 'If large numbers of insurers significantly increase premiums or completely withdraw their coverage...this might leave households and firms without coverage, potentially amplifying the resulting risks to financial stability.'"
+    },
+    {
+      "question": "What does the example of the 2011 Thai floods illustrate regarding operational risk?",
+      "options": {
+        "A": "Operational risk is always limited to a single company and has no macro effects.",
+        "B": "Physical climate impacts can cause operational risk with macro/systemic effects, especially with geographic concentration in supply chains.",
+        "C": "Transition risks are more damaging than physical risks for supply chains.",
+        "D": "Insurance completely mitigates the operational risk from natural disasters."
+      },
+      "answer": "B",
+      "explanation": "Page 132 uses the Thai floods as 'a good example of the macro effects of operational risk' because of the concentration of semiconductor component manufacturing in Thailand, which had global ripple effects."
+    },
+    {
+      "question": "The need for the Bank of Japan to provide record liquidity after the 2011 earthquake is used as an example of what?",
+      "options": {
+        "A": "The potential for a severe natural disaster to create systemic liquidity risk.",
+        "B": "The effectiveness of insurance in preventing financial crises.",
+        "C": "The stability of markets during a natural disaster.",
+        "D": "The manifestation of sovereign transition risk."
+      },
+      "answer": "A",
+      "explanation": "Page 133 cites this event as 'a good example of the potential for this kind of course of events,' where a disaster leads to a systemic-scale demand for liquidity, necessitating central bank intervention."
+    },
+    {
+      "question": "According to the text, transition risk analysis requires more than just emissions data. What other information is crucial?",
+      "options": {
+        "A": "Only historical weather patterns.",
+        "B": "Data on the company's board of directors.",
+        "C": "An understanding of the evolving climate policy landscape, technological changes, and consumer preferences.",
+        "D": "The current market price of carbon credits."
+      },
+      "answer": "C",
+      "explanation": "Page 125 highlights that understanding transition risk requires data 'on the evolving climate policy landscape, technological changes, and evolving consumer and broader societal preferences, as well as market sentiment.'"
+    },
+    {
+      "question": "The 'Inevitable Policy Response' project is based on what core assumption?",
+      "options": {
+        "A": "Governments will continue to be slow and insufficient in their climate actions.",
+        "B": "As the realities of climate change become more apparent, governments will be forced to act more decisively and abruptly.",
+        "C": "Climate change can be entirely solved by technological innovation without policy intervention.",
+        "D": "Financial markets have already fully priced in all climate risks."
+      },
+      "answer": "B",
+      "explanation": "Page 135 describes the project as assuming that 'as the realities of climate change become increasingly apparent and urgent, governments, firms, and others will be forced to act more decisively, and potentially in quite a rapid, abrupt, and disorderly way.'"
+    },
+    {
+      "question": "Which of the following would be an example of Scope 1 emissions for an airline?",
+      "options": {
+        "A": "Emissions from the electricity used to power its office buildings.",
+        "B": "Emissions from the jet fuel burned by its aircraft.",
+        "C": "Emissions from the manufacturing of the aircraft it purchases.",
+        "D": "Emissions from employees commuting to work."
+      },
+      "answer": "B",
+      "explanation": "Scope 1 emissions are direct emissions from a company's operations (Page 136). For an airline, the combustion of jet fuel in its planes is a primary direct emission."
+    },
+    {
+      "question": "Which initiative is mentioned as seeking to gauge firms' plans for climate alignment, going beyond just current emissions data?",
+      "options": {
+        "A": "The GHG Protocol",
+        "B": "The Transition Pathway Initiative (TPI)",
+        "C": "The COSO ERM Framework",
+        "D": "The Global Resilience Index Initiative (GRII)"
+      },
+      "answer": "B",
+      "explanation": "On page 137, the text mentions 'external parties, such as the Transition Pathway Initiative, that seek to gauge firms' plans.'"
+    },
+    {
+      "question": "What is the purpose of the Global Resilience Index Initiative (GRII) mentioned in the case study?",
+      "options": {
+        "A": "To create a proprietary, paid tool for measuring only transition risk.",
+        "B": "To develop an open, standardized set of climate metrics and data for measuring risks to communities, infrastructure, and ecosystems.",
+        "C": "To lobby governments to abandon the Paris Agreement targets.",
+        "D": "To provide insurance for assets affected by climate change."
+      },
+      "answer": "B",
+      "explanation": "The case study on page 137 states that the GRII 'aims to develop an open, standardized set of climate metrics and data which allows individuals, entities, and governments to more accurately measure risks...'"
+    },
+    {
+      "question": "Why is it difficult to aggregate portfolio-level physical risk for equity and bond portfolios?",
+      "options": {
+        "A": "Because there are no tools available to assess physical risk.",
+        "B": "Because the exposure is to entire companies, including all their facilities and supply chains, which is complex to evaluate.",
+        "C": "Because physical risk only applies to individual buildings, not corporations.",
+        "D": "Because financial regulations prohibit such aggregation."
+      },
+      "answer": "B",
+      "explanation": "Page 141 explains the difficulty: 'sensibly aggregating and evaluating portfolio-level physical risk is difficult for equity or bond portfolios, where there is exposure to entire companies (and all their facilities as well as all of their supply chains).'"
+    },
+    {
+      "question": "What is the role of the board and senior executives in successful risk governance for climate risk?",
+      "options": {
+        "A": "Their role is minimal; risk governance is handled by junior staff.",
+        "B": "They are responsible for ensuring understanding, diffusion of knowledge, and genuine accountability at all levels.",
+        "C": "They are only responsible for communicating risks externally, not managing them internally.",
+        "D": "They delegate all responsibility to the internal audit function."
+      },
+      "answer": "B",
+      "explanation": "Page 142 emphasizes that 'Successful risk governance starts at the highest level, with the board and senior executives. Effective risk governance can ensure understanding and diffusion of knowledge as well as genuine accountability at all levels...'"
+    },
+    {
+      "question": "What is materiality assessment in the context of climate risk?",
+      "options": {
+        "A": "A process to determine the exact monetary value of a company's physical assets.",
+        "B": "A tool to measure the carbon emissions from raw material extraction.",
+        "C": "A process that allows a company to assess the relative importance of various climate and sustainability risk drivers for its specific circumstances.",
+        "D": "A legal requirement to report on all material financial transactions."
+      },
+      "answer": "C",
+      "explanation": "Page 143 explains, '...materiality assessment allows companies to assess the relative importance of various climate risk and other sustainability risk drivers.'"
+    },
+    {
+      "question": "Why are 'time horizons' a key component of strategy regarding climate change?",
+      "options": {
+        "A": "Because all climate risks are expected to materialize within the next year.",
+        "B": "Because climate-related risks and opportunities vary significantly over the short-, medium-, and long-term.",
+        "C": "Because financial models cannot forecast beyond a one-year horizon.",
+        "D": "Because regulators only care about long-term risks."
+      },
+      "answer": "B",
+      "explanation": "On page 144, the text, emphasized by the TCFD, notes that 'Climate-related risks and opportunities vary significantly over the short-, medium-, and long-term, and organizational strategy-setting...need to examine different time horizons...'"
+    },
+    {
+      "question": "What is the final component of the COSO ERM framework, which is described as being predicated on the TCFD framework?",
+      "options": {
+        "A": "Review and Revision",
+        "B": "Strategy and Objective-Setting",
+        "C": "Performance",
+        "D": "Communication, Reporting, and Disclosure"
+      },
+      "answer": "D",
+      "explanation": "Section 6.6.5 covers 'Communication, Reporting, and Disclosure.' The text on page 147 concludes by stating, 'This is why the entire TCFD framework is predicated on disclosure.'"
+    },
+    {
+      "question": "The chapter highlights that climate risk affects many traditional company-level risks. Which of the following is NOT one of the primary examples listed?",
+      "options": {
+        "A": "Operational risk",
+        "B": "Credit risk",
+        "C": "Liquidity risk",
+        "D": "Cybersecurity risk"
+      },
+      "answer": "D",
+      "explanation": "The text repeatedly focuses on operational, credit, liquidity, and underwriting risks as the main traditional risk categories through which climate risk is transmitted at the company level. Cybersecurity risk is not mentioned as a primary channel."
+    },
+    {
+      "question": "According to Figure 6.1, what type of data is needed to understand the 'vulnerability' component of physical risk for coastal properties?",
+      "options": {
+        "A": "Weather data and climate models/projections",
+        "B": "Topographical maps and data on flood defenses",
+        "C": "Empirical data on price effects of sea level exposure",
+        "D": "Data on mortgage securitization"
+      },
+      "answer": "B",
+      "explanation": "Figure 6.1 on page 125 indicates that data on 'vulnerability' includes information like topographical maps and data on adaptive measures such as flood defenses."
+    },
+    {
+      "question": "What is the potential impact of acute physical events like heatwaves and floods on households, according to the NGFS schematic?",
+      "options": {
+        "A": "Increased capital expenditure and stranded assets.",
+        "B": "Loss of income and property damage.",
+        "C": "Shifts in international trade and government revenues.",
+        "D": "Repricing of equities and fixed income."
+      },
+      "answer": "B",
+      "explanation": "Figure 6.2 on page 126, under 'Micro - Households', lists 'Loss of income' and 'Property damage' as direct impacts from physical risks."
+    },
+    {
+      "question": "How does transition risk affect underwriting/insurance risk, according to Table 6.1?",
+      "options": {
+        "A": "It leads to higher premiums due to more frequent physical disasters.",
+        "B": "It has no impact on underwriting risk.",
+        "C": "It can lead to less insurance availability as insurers refuse to underwrite activities like thermal coal power plants.",
+        "D": "It only impacts D&O policies, not general liability."
+      },
+      "answer": "C",
+      "explanation": "Table 6.1 on page 127 explicitly states, 'Transition risk can lead to less insurance availability, as some insurers refuse to underwrite certain kinds of activities and facilities, such as thermal coal power plants.'"
+    },
+    {
+      "question": "Which of the following best describes the transmission of climate risk into sovereign risk for a country vulnerable to sea-level rise?",
+      "options": {
+        "A": "Transition risk from stranded fossil fuel assets.",
+        "B": "Physical risk causing higher costs of damage and lower GDP growth, hampering the ability to repay debt.",
+        "C": "Operational risk from supply chain disruptions in other countries.",
+        "D": "Market risk from the repricing of global commodities."
+      },
+      "answer": "B",
+      "explanation": "Table 6.1 (page 128) explains that for sovereign risk, 'Physical risk can cause countries that are particularly vulnerable...to have higher costs of damage and lower GDP growth, hampering long-term ability to repay debt.'"
+    },
+    {
+      "question": "Legal and liability risk, where a company is held liable for neglecting to manage climate risks, is a sub-component of which broader risk category?",
+      "options": {
+        "A": "Credit Risk",
+        "B": "Market Risk",
+        "C": "Operational Risk",
+        "D": "Liquidity Risk"
+      },
+      "answer": "C",
+      "explanation": "On page 129, legal risk is discussed as one of the 'three other categories of operational risk are particularly important when analyzing climate risk.'"
+    },
+    {
+      "question": "How did S&P's 2021 ratings action on major oil and gas companies reflect the link between climate change and credit risk?",
+      "options": {
+        "A": "It upgraded the companies for their efforts in carbon capture technology.",
+        "B": "It revised its outlook and downgraded companies due to uncertainties engendered by the energy transition.",
+        "C": "It issued a neutral report, stating that climate change had no impact on the sector's creditworthiness.",
+        "D": "It focused only on the physical risks to oil rigs from hurricanes."
+      },
+      "answer": "B",
+      "explanation": "Page 131 mentions this specific event: 'S&P...revised its entire outlook on the oil & gas industry due to \"significant challenges and uncertainties engendered by the energy transition...\" and shortly afterwards...downgraded oil companies...'"
+    },
+    {
+      "question": "In what situation does liquidity risk manifest for an individual non-financial company due to climate risk?",
+      "options": {
+        "A": "Gradually, through a slow increase in credit risk over many years.",
+        "B": "It never manifests for non-financial companies.",
+        "C": "Under specific circumstances, such as an acute event that causes investors to suddenly reassess the firm's viability.",
+        "D": "During periods of high market stability and low volatility."
+      },
+      "answer": "C",
+      "explanation": "Page 131 explains that for a non-financial company, liquidity risk manifests 'under specific circumstances. An acute climate-related event...leads investors and lenders to reassess their view of a firm's viability so suddenly and abruptly that the firm has trouble accessing liquidity.'"
+    },
+    {
+      "question": "An 18% annual probability of an extreme rain event is equivalent to a return period of approximately how many years?",
+      "options": {
+        "A": "18 years",
+        "B": "100 years",
+        "C": "5.5 years",
+        "D": "50 years"
+      },
+      "answer": "C",
+      "explanation": "The text on page 132 provides this calculation directly: 'An 18% probability of annual occurrence is the same as a return period of just 5.5 years.' (Return Period = 1 / Probability)."
+    },
+    {
+      "question": "How can underwriting risk increases (e.g., a company losing its insurance coverage) affect a company's credit risk?",
+      "options": {
+        "A": "It has no effect on credit risk.",
+        "B": "It improves credit risk by showing the company is saving money on premiums.",
+        "C": "It increases credit risk from a lender's perspective because the company has lost a key resilience and buffer mechanism.",
+        "D": "It forces the company to self-insure, which is always viewed positively by lenders."
+      },
+      "answer": "C",
+      "explanation": "Page 132 states, 'If a company can no longer obtain insurance coverage...it cannot use insurance as one of its resilience and buffer mechanisms, which further increases operational risk. This, in turn, increases its credit risk from the perspective of a lender.'"
+    },
+    {
+      "question": "What is the primary way that climate risk translates into market risk at the systemic level?",
+      "options": {
+        "A": "Through isolated operational failures at a few small companies.",
+        "B": "Through repricing and dislocation effects, as well as asset stranding.",
+        "C": "Through gradual changes in sovereign credit ratings.",
+        "D": "Through the withdrawal of insurance coverage in non-essential sectors."
+      },
+      "answer": "B",
+      "explanation": "Section 6.4.5 on Market Risk (page 133) begins by stating, 'At the systemic level, climate risk translates into market risk through repricing and dislocation effects as well as through asset stranding.'"
+    },
+    {
+      "question": "Why is the distinction between asset-level disclosure and asset-level data important for investment decisions?",
+      "options": {
+        "A": "There is no important distinction; they are the same.",
+        "B": "Disclosure is often less granular and may be incomplete, whereas asset-level data from third parties can provide a more objective and detailed view.",
+        "C": "Asset-level data is always less accurate than a company's own disclosure.",
+        "D": "Disclosure is mandatory for all companies, while asset-level data is illegal to obtain."
+      },
+      "answer": "B",
+      "explanation": "The schematic and text on pages 137-138 illustrate this shift. The 'Old Model' relies on corporate disclosure, which can be limited, while the 'New Model' uses granular data from external sources for more detailed decision-making."
+    },
+    {
+      "question": "According to the Moody's physical risk methodology for sovereigns, which regions were found to be among the most vulnerable?",
+      "options": {
+        "A": "North America and Western Europe",
+        "B": "Australia and New Zealand",
+        "C": "India, Pakistan, Vietnam, and much of Central America and sub-Saharan Africa",
+        "D": "Russia and Northern Asia"
+      },
+      "answer": "C",
+      "explanation": "Page 135 cites Moody's 2016 methodology, which 'found that India, Pakistan, Vietnam, Cambodia, and much of Central America and sub-Saharan Africa were the most vulnerable.'"
+    },
+    {
+      "question": "What is a key issue at the portfolio level when using Scope 2 and Scope 3 emissions data?",
+      "options": {
+        "A": "The data is always perfectly accurate.",
+        "B": "The issue of double-counting needs to be considered.",
+        "C": "These emissions are not relevant for portfolio analysis.",
+        "D": "The data can only be used for physical risk assessment."
+      },
+      "answer": "B",
+      "explanation": "Page 136 points out this problem: 'At the portfolio level, issues of double-counting also need to be considered; for example, an industrial firm's Scope 2 emissions...would be counted as part of the electricity utility's Scope 1.'"
+    },
+    {
+      "question": "What does a 'temperature score' for a company aim to represent?",
+      "options": {
+        "A": "The current average temperature of the company's physical locations.",
+        "B": "A shorthand way of understanding what level of global warming a company's emissions plans are aligned with.",
+        "C": "The company's score on a 1-100 scale for its physical risk exposure.",
+        "D": "The financial cost of transitioning the company to a low-carbon model."
+      },
+      "answer": "B",
+      "explanation": "Page 137 describes temperature scores as methodologies 'that give a shorthand way of understanding what level of warming a company's plans are aligned with.'"
+    },
+    {
+      "question": "What type of organizations provide the basic data for gauging physical hazards through global climate models (e.g., CMIP5 and CMIP6)?",
+      "options": {
+        "A": "For-profit financial data firms like MSCI and S&P Global.",
+        "B": "Credit rating agencies like Moody's.",
+        "C": "Climate scientists for periodic reports of the IPCC.",
+        "D": "Individual non-financial corporations."
+      },
+      "answer": "C",
+      "explanation": "Page 138 states, 'The basic data for gauging physical hazards is provided by global climate models developed by climate scientists for the periodic reports of the IPCC; an example is the Coupled Model Intercomparison Project...'"
+    },
+    {
+      "question": "The framework developed by the Committee of Sponsoring Organizations of the Treadway Commission (COSO) is one of the most widely used for what?",
+      "options": {
+        "A": "Calculating Scope 3 emissions.",
+        "B": "Enterprise Risk Management (ERM).",
+        "C": "Pricing carbon credits.",
+        "D": "Valuing stranded assets."
+      },
+      "answer": "B",
+      "explanation": "Page 141 identifies the COSO framework as 'One of the most widely used frameworks for ERM...'"
+    },
+    {
+      "question": "How is corporate culture defined by COSO in the context of risk management?",
+      "options": {
+        "A": "The social events and perks offered to employees.",
+        "B": "The company's marketing and branding strategy.",
+        "C": "The attitudes, behaviors, and understanding about risk that influence decisions and reflect the organization's mission and values.",
+        "D": "The formal, written policies in the employee handbook."
+      },
+      "answer": "C",
+      "explanation": "Page 142 provides the COSO definition of culture: 'the \"attitudes, behaviors and understanding about risk[...]that influence the decisions of management and personnel and reflect the mission, vision and core values of the organization\"'."
+    },
+    {
+      "question": "What is the primary function of the 'Review and Revision' component of the COSO ERM framework?",
+      "options": {
+        "A": "To identify new risks for the first time.",
+        "B": "To set the overall corporate strategy and risk appetite.",
+        "C": "To act as a check and balance, reassessing risks and the effectiveness of the ERM processes themselves.",
+        "D": "To report risk information to external stakeholders."
+      },
+      "answer": "C",
+      "explanation": "Section 6.6.4 (page 146) describes this component as referring to 'additional checks and balances on the ERM framework' and 'being self-critical and responsive with regard to the effectiveness of ERM processes themselves.'"
+    },
+    {
+      "question": "Why is public disclosure of risk management best practices considered to have a systemic effect?",
+      "options": {
+        "A": "It allows companies to keep their risk strategies secret from competitors.",
+        "B": "It has no systemic effect and is purely for marketing.",
+        "C": "It helps spread knowledge and expertise, encouraging even competing firms and entire sectors to improve their practices.",
+        "D": "It is a legal requirement that carries heavy fines for non-compliance, forcing all firms to adopt the same strategy."
+      },
+      "answer": "C",
+      "explanation": "Page 146 states, '...public disclosure of best practices in risk management can itself have a systemic effect, helping even competing firms, and thus entire sectors, to transition toward a more climate-ready...future.'"
+    },
+    {
+      "question": "What are the two axes on the portfolio risk chart in Figure 6.9?",
+      "options": {
+        "A": "Transition Risk Score and Physical Risk Score",
+        "B": "Market & Supply Chain Risk Score and Operations Risk Score",
+        "C": "Carbon Intensity and Weighted Average Carbon Intensity",
+        "D": "Company Size and Company Revenue"
+      },
+      "answer": "B",
+      "explanation": "The chart on page 140, Figure 6.9, clearly labels the x-axis as 'Market & Supply Chain Risk Score' and the y-axis as 'Operations Risk Score'."
+    },
+    {
+      "question": "A financial institution's risk committee is an example of which 'line of defense' in risk governance?",
+      "options": {
+        "A": "First line of defense",
+        "B": "Second line of defense",
+        "C": "Third line of defense",
+        "D": "Fourth line of defense"
+      },
+      "answer": "B",
+      "explanation": "In the ING case study (page 143), 'Local and regional risk committees at the bank, as well as regional risk managers, constitute the \"second line of defense\"'."
+    },
+    {
+      "question": "What does the example of Infosys monitoring water availability in India illustrate?",
+      "options": {
+        "A": "An example of ignoring operational risks.",
+        "B": "Proactive monitoring of an exposure (water scarcity) to trigger modified ERM responses.",
+        "C": "A response to transition risk from carbon pricing.",
+        "D": "A case study in sovereign risk management."
+      },
+      "answer": "B",
+      "explanation": "The case study on page 146 is titled 'INFOSYS-PROACTIVE MONITORING FOR CHANGES IN RISK EXPOSURE' and details how the company tracks water-related metrics to manage a significant operational risk."
+    },
+    {
+      "question": "Physical risk scores from competing providers are not necessarily comparable. Why?",
+      "options": {
+        "A": "Because they all use the exact same open-source data and methodology.",
+        "B": "Due to the inclusion of different hazards, different ways of measuring, and different proprietary methodologies.",
+        "C": "Because financial regulations require scores to be unique to each provider.",
+        "D": "Because they only measure one type of hazard, such as flooding."
+      },
+      "answer": "B",
+      "explanation": "Page 139 concludes the section on scores by stating, 'Due to the inclusion of different hazards, different ways of measuring, and different methodologies, scores from competing providers...are not necessarily comparable.'"
+    },
+    {
+      "question": "A key learning point is that climate risk can also constitute a ___________ and a potential threat to financial stability.",
+      "options": {
+        "A": "reputational benefit",
+        "B": "systemic risk",
+        "C": "portfolio opportunity",
+        "D": "manageable nuisance"
+      },
+      "answer": "B",
+      "explanation": "A 'Key Learning Point' on page 124 states: 'Climate risk can also constitute a systemic risk and a potential threat to financial stability through its impacts on entire sectors and swathes of the economy.'"
+    },
+    {
+      "question": "What financial risk is associated with 'Repricing of equities, fixed income, commodities etc.'?",
+      "options": {
+        "A": "Credit risk",
+        "B": "Operational risk",
+        "C": "Liquidity risk",
+        "D": "Market risks"
+      },
+      "answer": "D",
+      "explanation": "Figure 6.2 on page 126 lists 'Repricing of equities, fixed income, commodities etc.' under the 'Market risks' category."
+    },
+    {
+      "question": "Which of the following is an example of a 'chronic' physical risk?",
+      "options": {
+        "A": "A wildfire",
+        "B": "A cyclone",
+        "C": "A heatwave",
+        "D": "Sea level rise"
+      },
+      "answer": "D",
+      "explanation": "Figure 6.2 on page 126 categorizes physical risks into 'Chronic' and 'Acute'. Chronic examples include long-term shifts like sea level rise, while acute examples are event-driven like wildfires and cyclones."
+    },
+    {
+      "question": "Figure 6.4 illustrates that climate risk is expected to do what to the probability of default (PD) risk distribution of a borrower?",
+      "options": {
+        "A": "Shift the entire distribution to the left, indicating lower risk.",
+        "B": "Have no impact on the distribution.",
+        "C": "Shift the entire distribution to the right, indicating higher risk.",
+        "D": "Only affect the distribution for physical risk, not transition risk."
+      },
+      "answer": "C",
+      "explanation": "The diagram on page 130 shows the 'Original PD' curve and a 'Climate-adjusted PD' curve shifted to the right, indicating an increased probability of default across the board. The text confirms this: 'climate risk is expected to shift the entire PD risk distribution of a borrower'."
+    },
+    {
+      "question": "What is the primary function of internal audit within the 'three lines of defense' risk governance model?",
+      "options": {
+        "A": "To negotiate transactions with clients.",
+        "B": "To set the company's overall risk appetite.",
+        "C": "To provide the 'third line of defense' through regular, independent review.",
+        "D": "To manage regional risk committees."
+      },
+      "answer": "C",
+      "explanation": "The ING case study on page 143 explains that 'regular internal audits provide the\"third line\"' of defense."
+    },
+    {
+      "question": "Why would companies in the mining sector that extract minerals like copper or lithium potentially see their creditworthiness improve due to climate change?",
+      "options": {
+        "A": "Because mining becomes physically easier in a warmer climate.",
+        "B": "Because these minerals are crucial for mass electrification (a key part of the energy transition), leading to higher prices and revenues.",
+        "C": "Because they are exempt from all climate-related regulations.",
+        "D": "Because the physical risks associated with mining are decreasing."
+      },
+      "answer": "B",
+      "explanation": "Page 130 explains that pricing effects can also reduce credit risk: '...companies in the mining sector that extract minerals important for mass electrification, such as copper for wiring or lithium for lithium-ion batteries, can benefit from higher prices of these commodities...and become more creditworthy...'"
+    },
+    {
+      "question": "For banks, a key vulnerability to climate risk is the simultaneous withdrawal of deposits and drawdown of credit lines by customers after a natural disaster. What ratio does this dramatically increase?",
+      "options": {
+        "A": "Price-to-earnings ratio",
+        "B": "Loan-to-deposit ratio",
+        "C": "Debt-to-equity ratio",
+        "D": "Return on assets ratio"
+      },
+      "answer": "B",
+      "explanation": "Page 131 explains this scenario: 'Climate risk drivers can prompt depositors to draw down deposits and debtors to draw down credit lines at the same time, dramatically increasing loan-to-deposit ratios.'"
+    },
+    {
+      "question": "What type of risk is exemplified by reputational damage to an institution working with 'dirty' industries that have lost their social license to operate?",
+      "options": {
+        "A": "Market risk",
+        "B": "Credit risk",
+        "C": "A sub-category of operational risk",
+        "D": "Underwriting risk"
+      },
+      "answer": "C",
+      "explanation": "Page 129 discusses reputational risk as the third important category of operational risk when analyzing climate risk, affecting institutions working with certain industries."
+    },
+    {
+      "question": "For which sector does the text state that Scope 1 emissions are a large proportion of their total emissions?",
+      "options": {
+        "A": "Banks",
+        "B": "Oil & Gas firms",
+        "C": "Utilities",
+        "D": "Insurance"
+      },
+      "answer": "C",
+      "explanation": "The chart on page 136, Figure 6.6, visually shows a very large blue dot (Scope 1) for Utilities. The text on the same page confirms this: 'Meanwhile, utilities have a lot of Scope 1 emissions.'"
+    },
+    {
+      "question": "A risk response that involves converting risks into opportunities is referred to as:",
+      "options": {
+        "A": "Avoidance",
+        "B": "Reduction",
+        "C": "Pursuit",
+        "D": "Sharing"
+      },
+      "answer": "C",
+      "explanation": "Page 146 lists the five COSO ERM risk responses and defines 'Pursuit' as referring 'to converting risks into opportunities.'"
+    },
+    {
+      "question": "Which regulatory initiative has been a key initiator of framing climate change as a source of financial risk, particularly by promoting disclosure and scenario analysis?",
+      "options": {
+        "A": "The COSO",
+        "B": "The Network for Greening the Financial System (NGFS)",
+        "C": "The Task Force on Climate-related Financial Disclosures (TCFD)",
+        "D": "The Greenhouse Gas (GHG) Protocol"
+      },
+      "answer": "C",
+      "explanation": "Page 142 states, 'The TCFD, in particular, has been a key initiator of framing climate change as a source of risk...by promoting disclosure to investors...and pushing scenario analysis as a methodological tool.'"
+    },
+    {
+      "question": "The macro-level potential for credit risk to cause financial stability risk is rated as what in Table 6.1?",
+      "options": {
+        "A": "LIMITED",
+        "B": "SIGNIFICANT",
+        "C": "MIXED",
+        "D": "NEGLIGIBLE"
+      },
+      "answer": "B",
+      "explanation": "Table 6.1 on page 127 rates the macro-level potential for credit risk as 'SIGNIFICANT,' noting that sector-wide asset stranding can pose financial stability risks."
+    },
+    {
+      "question": "The question of 'What are Scope 3 GHG emissions for a company?' is asked at the end of the chapter. Based on the text, what is the correct answer?",
+      "options": {
+        "A": "Only emissions produced from direct company assets (e.g., factories).",
+        "B": "Upstream (supply chain) and downstream (product) emissions, excluding energy consumed.",
+        "C": "Emissions resulting from inputted energy.",
+        "D": "Upstream (supply chain) and downstream (product) emissions, including energy consumed."
+      },
+      "answer": "B",
+      "explanation": "The answer key on page 149 provides 'C' for question 6.3. However, the question itself on page 148 is 'What are Scope 3 GHG emissions for a company?'. Option B is 'Upstream...and downstream...emissions, including energy consumed', while C is '...excluding energy consumed'. The GHG protocol includes *all other* indirect emissions. Purchased energy is Scope 2. Therefore, Scope 3 includes upstream/downstream but excludes the specific energy consumption that defines Scope 2. The provided answer key (C for 6.3) corresponds to option 'C' on page 148. This is the correct answer from the book's perspective. It correctly identifies Scope 3 as distinct from Scope 2 (inputted energy)."
+    },
+    {
+      "question": "What is a key shortcoming of physical climate risk scores identified in the end-of-chapter questions?",
+      "options": {
+        "A": "They incorporate corporate carbon footprints but not Paris alignment.",
+        "B": "They are only available in absolute and not in relative terms.",
+        "C": "They only account for drought, not coastal flooding.",
+        "D": "Their calculation methods often remain a 'black box' to investors."
+      },
+      "answer": "D",
+      "explanation": "The answer key on page 149 indicates the answer to question 6.4 is B. On page 148, question 6.4, option B is 'Physical risk scores incorporate multiple hazards, but the methods by which these are calculated and combined remain a \"black box\" to investors.' This aligns with the text on page 139."
+    },
+    {
+      "question": "Who in a financial institution is increasingly being tasked with the initial evaluation of climate risk in transactions?",
+      "options": {
+        "A": "Internal auditors",
+        "B": "Climate risk experts from the sustainability department",
+        "C": "Transaction decision-makers, such as portfolio managers or relationship managers",
+        "D": "Risk managers from the firm's risk department"
+      },
+      "answer": "C",
+      "explanation": "The answer key on page 149 shows the answer to question 6.5 is D. Question 6.5 on page 148 has option D as 'Transaction decision-makers, such as portfolio managers or relationship managers'. This reflects their role as the 'first line of defense' as described on page 143."
+    }
+  ]
+}

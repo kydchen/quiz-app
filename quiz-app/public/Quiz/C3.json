@@ -1,0 +1,1049 @@
+{
+  "C3": [
+  {
+    "question": "According to the text, climate risk is broadly divided into which two main categories?",
+    "options": {
+      "A": "Acute and Chronic risks",
+      "B": "Physical and Transition risks",
+      "C": "Market and Legal risks",
+      "D": "Direct and Indirect risks"
+    },
+    "answer": "B",
+    "explanation": "Page 53 explicitly states, 'Climate risk is usually divided into two broad categories: physical risk and transition risk.'"
+  },
+  {
+    "question": "What does the acronym TCFD stand for?",
+    "options": {
+      "A": "The Committee for Financial Disasters",
+      "B": "Taskforce on Climate and Financial Durability",
+      "C": "Taskforce on Climate-related Financial Disclosures",
+      "D": "The Climate Finance Development Corporation"
+    },
+    "answer": "C",
+    "explanation": "Page 53 mentions the 'Taskforce on Climate-related Financial Disclosures (TCFD), formed in 2015 under the aegis of the G20 Financial Stability Board.'"
+  },
+  {
+    "question": "Which type of risk arises from the physical impacts of climate change, such as extreme weather events?",
+    "options": {
+      "A": "Transition risk",
+      "B": "Reputational risk",
+      "C": "Legal risk",
+      "D": "Physical risk"
+    },
+    "answer": "D",
+    "explanation": "Page 53 defines physical risks as those that 'arise from the physical climate(and weather)impacts that result from the changing climate.'"
+  },
+  {
+    "question": "Transition risk results from which of the following?",
+    "options": {
+      "A": "The increasing frequency of hurricanes and floods.",
+      "B": "The economic transformation towards a net-zero carbon economy.",
+      "C": "The direct damage to corporate assets from rising sea levels.",
+      "D": "The natural variability of the climate system."
+    },
+    "answer": "B",
+    "explanation": "Page 52 defines transition risk as 'resulting from the economic transformation to a net-zero carbon economy.'"
+  },
+  {
+    "question": "What is a 'stranded asset' in the context of climate risk?",
+    "options": {
+      "A": "An asset that is insured against climate-related damages.",
+      "B": "An asset that has suffered from unanticipated or premature write-downs or devaluations due to climate-related factors.",
+      "C": "A physical asset that has been moved to a safer location.",
+      "D": "An asset that is essential for the transition to a low-carbon economy."
+    },
+    "answer": "B",
+    "explanation": "Page 54 defines stranded assets as assets that have 'suffered from unanticipated or premature write-downs, devaluations or conversion to liabilities'."
+  },
+  {
+    "question": "The interaction of which three elements produces the overall effect of climate risk?",
+    "options": {
+      "A": "Policy, Technology, and Markets",
+      "B": "Assets, Liabilities, and Equity",
+      "C": "Hazards/Drivers, Exposure, and Vulnerability",
+      "D": "Temperature, Precipitation, and Wind"
+    },
+    "answer": "C",
+    "explanation": "Page 54 states, 'Overall, the interaction between hazards or drivers, exposures, and vulnerability then produces the overall effect of climate risk.'"
+  },
+  {
+    "question": "Physical hazards are typically subdivided into which two categories?",
+    "options": {
+      "A": "Sudden and Gradual",
+      "B": "Expected and Unexpected",
+      "C": "Insured and Uninsured",
+      "D": "Acute and Chronic"
+    },
+    "answer": "D",
+    "explanation": "Page 54 and 56 clearly state that physical risks/hazards are usually subdivided into 'acute and chronic hazards.'"
+  },
+  {
+    "question": "Which of the following is an example of a chronic physical hazard?",
+    "options": {
+      "A": "A hurricane",
+      "B": "A wildfire",
+      "C": "Rising average sea levels",
+      "D": "A flood"
+    },
+    "answer": "C",
+    "explanation": "Page 56 and Table 3.1 on page 56 classify rising sea levels and average temperature rises as key chronic climate hazards, which are gradual, long-term trends."
+  },
+  {
+    "question": "Which of the following is considered an acute physical hazard?",
+    "options": {
+      "A": "Gradual rise in average temperatures",
+      "B": "Changing precipitation patterns over decades",
+      "C": "Droughts and wildfires",
+      "D": "Ocean acidification"
+    },
+    "answer": "C",
+    "explanation": "Page 56 defines acute hazards as 'weather-related or weather-exacerbated events whose incidence is increasing with climate change, such as floods, hurricanes, droughts, and wildfires.'"
+  },
+  {
+    "question": "The TCFD splits transition risk into which four subtypes?",
+    "options": {
+      "A": "Financial, Operational, Strategic, and Governance",
+      "B": "Policy and legal, technology, market, and reputational",
+      "C": "Economic, Social, Environmental, and Political",
+      "D": "Asset-level, Corporate-level, Sector-level, and National-level"
+    },
+    "answer": "B",
+    "explanation": "Page 53, in the TCFD Framework box, states, 'It splits transition risk into four subtypes: policy and legal, technology, market, and reputational.'"
+  },
+  {
+    "question": "A government implementing a carbon tax is an example of what kind of transition risk driver?",
+    "options": {
+      "A": "Technology risk",
+      "B": "Market risk",
+      "C": "Policy risk",
+      "D": "Reputational risk"
+    },
+    "answer": "C",
+    "explanation": "Page 54 lists 'tighter government policies to reduce emissions (e.g., through carbon taxes)' as a driver of transition risk. This falls under the policy risk subtype."
+  },
+  {
+    "question": "When cheaper renewable energy makes a fossil fuel power plant uneconomical to operate, this is an example of:",
+    "options": {
+      "A": "Technology risk",
+      "B": "Acute physical risk",
+      "C": "Legal risk",
+      "D": "Chronic physical risk"
+    },
+    "answer": "A",
+    "explanation": "Page 62 and 64 discuss how cheaper renewables are a form of technology risk that can strand assets like fossil fuel-based power plants."
+  },
+  {
+    "question": "What is meant by 'vulnerability' in the context of climate risk?",
+    "options": {
+      "A": "The physical location of an asset in a hazard zone.",
+      "B": "The propensity or predisposition of an asset to suffer adversely from its exposure to hazards.",
+      "C": "A sudden, high-impact climate event.",
+      "D": "A long-term shift in climate patterns."
+    },
+    "answer": "B",
+    "explanation": "Page 54 defines vulnerability as 'the propensity or predisposition of the asset(or firm)to suffer adversely from its exposure to hazards.' It relates to resilience and preparedness, like having flood pumps installed."
+  },
+  {
+    "question": "According to Figure 3.1, a firm having a viable contingency plan and access to insurance relates to which component of physical risk?",
+    "options": {
+      "A": "Hazard",
+      "B": "Exposure",
+      "C": "Vulnerability",
+      "D": "Driver"
+    },
+    "answer": "C",
+    "explanation": "Figure 3.1 on page 55 lists 'Viability of contingency plans; access to insurance' under the 'Vulnerability' column at the corporate level for physical risk."
+  },
+  {
+    "question": "The concept of 'unburnable carbon' relates most closely to:",
+    "options": {
+      "A": "Acute physical hazards",
+      "B": "Stranded assets due to transition risk",
+      "C": "The difficulty of insuring coastal properties",
+      "D": "Supply chain disruptions from flooding"
+    },
+    "answer": "B",
+    "explanation": "Page 54 explains that the concept of stranded assets was first significantly applied to climate risk in relation to 'unburnable carbon'—known fossil fuel reserves that cannot be exploited if warming is to be limited, thus making them stranded assets."
+  },
+  {
+    "question": "What does 'attribution science' attempt to do?",
+    "options": {
+      "A": "Predict the exact financial cost of future climate events.",
+      "B": "Show how specific weather events are caused or made more likely by climate change.",
+      "C": "Attribute blame for historical emissions to specific countries.",
+      "D": "Calculate the LCOE for renewable energy technologies."
+    },
+    "answer": "B",
+    "explanation": "Page 58 explains that attribution science 'is now able to show how specific events are (partially or almost completely)caused by climate change.'"
+  },
+  {
+    "question": "Which of the following is considered an indirect physical risk?",
+    "options": {
+      "A": "A factory roof being damaged by a hurricane.",
+      "B": "A coastal power plant being flooded by sea-level rise.",
+      "C": "A company being unable to operate because floods have damaged roads and employee housing.",
+      "D": "Crops failing due to a prolonged drought."
+    },
+    "answer": "C",
+    "explanation": "Page 60 discusses indirect risks, giving the example that if roads to a plant are unusable or workers' homes are underwater, a company might not be able to operate, which is a supply chain and infrastructure risk."
+  },
+  {
+    "question": "According to the text, what is the 'first climate-change bankruptcy'?",
+    "options": {
+      "A": "The Texas power grid failure in 2021.",
+      "B": "The collapse of a major insurance company in California.",
+      "C": "The bankruptcy declaration of Pacific Gas & Electric (PG&E) after the 2018 California wildfires.",
+      "D": "The financial failure of a German coal-mining company."
+    },
+    "answer": "C",
+    "explanation": "Page 69 states that after its equipment ignited deadly fires in 2018, PG&E 'had to declare what has been termed the \"first climate-change bankruptcy.\"'."
+  },
+  {
+    "question": "The International Labor Organization estimates that heat stress on worker productivity is a form of which type of risk?",
+    "options": {
+      "A": "Legal liability risk",
+      "B": "Direct transition risk",
+      "C": "Systemic physical risk",
+      "D": "Technology risk"
+    },
+    "answer": "C",
+    "explanation": "Page 60 categorizes the literature on heat stress affecting worker productivity as 'a third, more nebulous, category are the indirect physical risks that can be considered systemic.'"
+  },
+  {
+    "question": "The case of Conservation Law Foundation v. Shell, where Shell was sued for not adequately preparing a fuel terminal for sea-level rise, is an example of what?",
+    "options": {
+      "A": "Market risk",
+      "B": "Reputational risk",
+      "C": "Legal liability risk",
+      "D": "Technology risk"
+    },
+    "answer": "C",
+    "explanation": "Page 60 uses this exact case as an example of legal liability risk, 'where firms suffer financial consequences after being held legally liable' for not adequately preparing for physical risks."
+  },
+  {
+    "question": "According to Figure 3.8, which two sectors are the largest contributors to global emissions?",
+    "options": {
+      "A": "Transportation and Buildings",
+      "B": "Industry and Other Energy",
+      "C": "Electricity & Heat Production and Agriculture, Forestry & Other Land Use",
+      "D": "Transportation and Industry"
+    },
+    "answer": "C",
+    "explanation": "The pie chart on page 61 (Figure 3.8) shows 'Electricity and Heat Production' at 25% and 'Agriculture, Forestry and Other Land Use' at 24%, making them the two largest sources."
+  },
+  {
+    "question": "What is meant by 'stranded human capital'?",
+    "options": {
+      "A": "Workers who are physically unable to get to work due to extreme weather.",
+      "B": "The skills and expertise held by workers that become obsolete due to a low-carbon transition.",
+      "C": "A decline in population in areas affected by climate change.",
+      "D": "A company's investment in employee wellness programs."
+    },
+    "answer": "B",
+    "explanation": "Page 66 explains that intangible assets can be stranded, 'and so can the skills and expertise held by workers and professionals. This stranding can be caused by exactly the same drivers that result in stranded tangible assets.'"
+  },
+  {
+    "question": "The concept of a 'just transition' primarily addresses:",
+    "options": {
+      "A": "The need for rapid technological innovation.",
+      "B": "The financial costs of adapting infrastructure to climate change.",
+      "C": "Supporting communities and individuals who could suffer most from asset stranding.",
+      "D": "The legal framework for international climate agreements."
+    },
+    "answer": "C",
+    "explanation": "Page 66 describes 'just transition' as a situation 'where those that could suffer most from asset stranding, for example communities and individuals dependent on industries most likely to experience asset stranding, are supported...'"
+  },
+  {
+    "question": "How does transition risk primarily manifest in the real estate sector?",
+    "options": {
+      "A": "Through increased risk of wildfires and floods.",
+      "B": "Through the energy use of buildings, particularly for heating and efficiency standards.",
+      "C": "Through the rising cost of property insurance.",
+      "D": "Through disputes over land use and zoning."
+    },
+    "answer": "B",
+    "explanation": "Page 67 explains, 'The main route through which transition risks affect real estate is through the energy use of buildings, particularly heating,' citing energy efficiency standards and building codes."
+  },
+  {
+    "question": "The UK's Minimum Energy Efficient Standard (MEES) rule, which prevents properties with a low EPC rating from being rented out, is a driver of what type of risk for landlords and lenders?",
+    "options": {
+      "A": "Physical risk",
+      "B": "Systemic risk",
+      "C": "Transition risk",
+      "D": "Acute hazard risk"
+    },
+    "answer": "C",
+    "explanation": "Page 67 and 68 use the MEES rule as an example of how policy can create transition risk for the real estate sector, potentially leading to lost rental income or falling property values."
+  },
+  {
+    "question": "According to the text, why is the electricity generation sector so exposed to transition risk?",
+    "options": {
+      "A": "Power plants are often located in areas prone to physical hazards.",
+      "B": "The sector relies heavily on a skilled but aging workforce.",
+      "C": "Burning coal for electricity is one of the most emissions-intensive processes.",
+      "D": "Electricity demand is highly volatile and unpredictable."
+    },
+    "answer": "C",
+    "explanation": "Page 69 highlights that transition risk is a major factor for electric utilities because 'burning coal for electricity is one of the most emissions-intensive processes,' making coal-fired power plants an obvious target for policy and technology changes."
+  },
+  {
+    "question": "The increasing cost-competitiveness of solar and wind power, displacing fossil-fuel generation, is a prime example of what transition risk subtype?",
+    "options": {
+      "A": "Legal risk",
+      "B": "Technology risk",
+      "C": "Reputational risk",
+      "D": "Policy risk"
+    },
+    "answer": "B",
+    "explanation": "Page 69 describes how the falling levelized cost of electricity (LCOE) for renewables creates 'technology transition risk in the form of cost competition' for coal power generation."
+  },
+  {
+    "question": "Consumer pressure for sustainable products leading to a shift in market demand is an example of:",
+    "options": {
+      "A": "Policy and legal risk",
+      "B": "Acute physical risk",
+      "C": "Reputational and market risk",
+      "D": "Technology risk"
+    },
+    "answer": "C",
+    "explanation": "Page 62 and 64 discuss how 'bottom-up consumer pressures for sustainable products' can be a driver of reputational risk and market risk."
+  },
+  {
+    "question": "What is the concept of a 'social license to operate'?",
+    "options": {
+      "A": "A formal government permit required for industrial operations.",
+      "B": "An international treaty governing corporate environmental responsibility.",
+      "C": "The minimum requirement of societal acceptability for a firm's business model.",
+      "D": "A certification for companies that meet high sustainability standards."
+    },
+    "answer": "C",
+    "explanation": "Page 65 explains the concept as one 'whereby firms' business models must satisfy a minimum requirement of acceptability and cannot be so noxious as to be considered immoral or unconscionable by wider society.'"
+  },
+  {
+    "question": "According to the text, what is the significance of the USD 100/kWh threshold for electric vehicle battery packs?",
+    "options": {
+      "A": "It is the point where EVs become more powerful than internal combustion engine (ICE) vehicles.",
+      "B": "It is the price at which the cost of charging an EV becomes cheaper than gasoline.",
+      "C": "It is the point at which EVs are expected to hit price parity with ICE vehicles.",
+      "D": "It is the legal limit on the cost of battery replacement under warranty."
+    },
+    "answer": "C",
+    "explanation": "Page 64 states that 'electric vehicles will hit price parity with internal combustion engine (ICE) vehicles once battery pack prices...reach USD 100/kWh.'"
+  },
+  {
+    "question": "The case of the German utility RWE being sued by a Peruvian farmer (Lliuya v. RWE) is a landmark case attempting to establish what?",
+    "options": {
+      "A": "Legal liability for a firm's proportional contribution to the physical impacts of climate change.",
+      "B": "The right of indigenous communities to veto energy projects.",
+      "C": "Financial compensation for stranded assets.",
+      "D": "The illegality of carbon emissions under international law."
+    },
+    "answer": "A",
+    "explanation": "Pages 63-64 describe this case as a 'nascent effort to directly pin legal liability on firms for their proportional contribution to the physical impacts of climate change through their emissions.'"
+  },
+  {
+    "question": "Which of the following describes 'exposure' in the context of physical climate risk?",
+    "options": {
+      "A": "The inherent resilience of an asset to a hazard.",
+      "B": "The assets or firms that are in a vulnerable place or setting, such as a factory in a coastal zone.",
+      "C": "A government policy designed to limit emissions.",
+      "D": "The publication of a company's climate risk strategy."
+    },
+    "answer": "B",
+    "explanation": "Page 54 defines exposure as being 'used in the classic financial sense of assets or firms that are in a vulnerable place or setting. A factory or warehouse in a low-lying coastal area would be exposed to sea level rise...'"
+  },
+  {
+    "question": "Which organization's recommendations does the chapter largely follow for categorizing transition risk?",
+    "options": {
+      "A": "The Intergovernmental Panel on Climate Change (IPCC)",
+      "B": "The United Nations Framework Convention on Climate Change (UNFCCC)",
+      "C": "The Taskforce on Climate-related Financial Disclosures (TCFD)",
+      "D": "The International Labor Organization (ILO)"
+    },
+    "answer": "C",
+    "explanation": "Page 53 states, 'This chapter largely follows TCFD categorizations, notably with regard to the subtypes of transition risk.'"
+  },
+  {
+    "question": "According to the text, many governments are converging on a goal of net-zero emissions by what year?",
+    "options": {
+      "A": "2030",
+      "B": "2040",
+      "C": "2050",
+      "D": "2100"
+    },
+    "answer": "C",
+    "explanation": "Page 52 mentions, 'increasing numbers of governments are converging on a goal of net-zero emissions by 2050.'"
+  },
+  {
+    "question": "The Paris Agreement of 2015 aims to keep the average global temperature rise well below what level?",
+    "options": {
+      "A": "1°C above pre-industrial levels",
+      "B": "1.5°C above pre-industrial levels",
+      "C": "2°C above pre-industrial levels",
+      "D": "3°C above pre-industrial levels"
+    },
+    "answer": "C",
+    "explanation": "Page 52 quotes the Paris Agreement's goal 'to keep the average global temperature rise \"well below 2°C above pre-industrial levels\" and to \"pursue efforts to limit the rise to 1.5°C\"'."
+  },
+  {
+    "question": "A key challenge in modeling direct physical risk is data granularity. What does this refer to?",
+    "options": {
+      "A": "The difficulty in getting companies to disclose any data at all.",
+      "B": "The lack of historical data on climate events.",
+      "C": "The mismatch between low-resolution global climate models and the need for high-resolution, local-level data.",
+      "D": "The inability of models to agree on long-term temperature trends."
+    },
+    "answer": "C",
+    "explanation": "Page 59 discusses data granularity, noting that global models might have a resolution of 100km x 100km, while assessing flood risk requires hyper-local topography at a much finer resolution (e.g., 5m x 5m)."
+  },
+  {
+    "question": "The fact that oil majors like BP and Shell have had to write off billions from the value of their assets is an example of what kind of risk manifesting?",
+    "options": {
+      "A": "Acute physical risk",
+      "B": "Systemic supply chain risk",
+      "C": "Market transition risk",
+      "D": "Chronic physical risk"
+    },
+    "answer": "C",
+    "explanation": "Page 66 cites these write-offs as an example of market transition risk, where 'shareholder perceptions or pressures' and changing market dynamics force companies to devalue assets, particularly proven reserves."
+  },
+  {
+    "question": "The development of 'green steel' is cited as a response to which driver of change?",
+    "options": {
+      "A": "Government mandates and carbon taxes.",
+      "B": "Upward pressure from end-users and a trend toward separate labeling of commodities.",
+      "C": "The rising cost of coal and other raw materials.",
+      "D": "Acute physical risks to steel manufacturing plants."
+    },
+    "answer": "B",
+    "explanation": "Page 65 uses 'green steel' as an example of a trend in commodity markets 'toward separate labeling and marketing due to upward pressure' from consumers/clients who want to differentiate based on environmental friendliness."
+  },
+  {
+    "question": "Why can physical risks lead to stranded assets? a beverage factory that can no longer access fresh water due to droughts.",
+    "options": {
+      "A": "Because new technology makes the asset obsolete.",
+      "B": "Because of a sudden change in government policy.",
+      "C": "Because changes in the physical environment, like water scarcity, make the asset's location or operation untenable.",
+      "D": "Because consumer preferences shift away from the asset's products."
+    },
+    "answer": "C",
+    "explanation": "Page 54 provides a direct example: 'a beverage factory can be stranded by the increased frequency of climate-induced droughts limiting availability to fresh water.' This is a physical risk leading to a stranded asset."
+  },
+  {
+    "question": "According to the TCFD's recommendations, what are the four key parameters firms should disclose?",
+    "options": {
+      "A": "Emissions, Water Usage, Waste Management, and Biodiversity Impact",
+      "B": "Governance, Risk Management, Strategy, and Metrics & Targets",
+      "C": "Assets, Liabilities, Revenue, and Profit",
+      "D": "Physical Risk, Transition Risk, Legal Risk, and Market Risk"
+    },
+    "answer": "B",
+    "explanation": "The TCFD Framework box on page 53 lists the four key parameters for disclosure as 'governance, risk management, strategy, and metrics and targets.'"
+  },
+  {
+    "question": "What is a major source of uncertainty in climate models mentioned in the text?",
+    "options": {
+      "A": "Predicting the long-term trend of average global temperature rise.",
+      "B": "Predicting the magnitude and direction of changes in precipitation patterns.",
+      "C": "Modeling the impact of volcanic eruptions on the climate.",
+      "D": "Calculating the historical concentration of CO2 in the atmosphere."
+    },
+    "answer": "B",
+    "explanation": "Page 56 states, 'While all major climate models agree that precipitation patterns will change, they disagree as to the magnitude and even as to whether precipitation will increase or decrease.'"
+  },
+  {
+    "question": "The cancellation of the Keystone XL oil pipeline by the US government is used as an example of what?",
+    "options": {
+      "A": "Technology risk making pipelines obsolete.",
+      "B": "Physical risk from landslides affecting construction.",
+      "C": "Policy risk, specifically a government-mandated closure/cancellation of a fossil-fuel project.",
+      "D": "Market risk from falling oil prices."
+    },
+    "answer": "C",
+    "explanation": "Page 63 includes the January 2021 cancellation of the Keystone XL pipeline in a text box titled 'Examples of Transition Risk from Sources Other Than Carbon Prices or Cap-and-Trade,' categorizing it as a policy-driven event."
+  },
+  {
+    "question": "The 2021 extreme cold spell in Texas highlighted the physical risk to the electricity generation sector by:",
+    "options": {
+      "A": "Causing wildfires that damaged transmission lines.",
+      "B": "Flooding power plants located on the coast.",
+      "C": "Freezing infrastructure that had not been 'winterized', from natural gas plants to wind turbines.",
+      "D": "Leading to a government shutdown of all fossil fuel facilities."
+    },
+    "answer": "C",
+    "explanation": "Page 69 describes how the cold spell 'froze electricity-generation infrastructure ranging from natural gas plants and nuclear plants to wind turbines, none of which had been \"winterized.\"' This demonstrated the sector's vulnerability to extreme (physical) weather events."
+  },
+  {
+    "question": "Which statement best describes the relationship between climate risk and financial risk?",
+    "options": {
+      "A": "Climate risk and financial risk are entirely separate and unrelated concepts.",
+      "B": "Climate risk can translate into financial risk through channels like diminished asset valuations and increased loan defaults.",
+      "C": "Financial risk is a cause of climate risk.",
+      "D": "Only physical climate risks can translate to financial risk; transition risks cannot."
+    },
+    "answer": "B",
+    "explanation": "Page 52 states, 'Climate risk can affect financial balance sheets and lead to losses through standard channels such as diminished asset valuations or increased loan defaults.'"
+  },
+  {
+    "question": "How can reputational risk manifest for a company like an investment bank?",
+    "options": {
+      "A": "Its physical assets are damaged by a severe storm.",
+      "B": "A new technology disrupts its business model.",
+      "C": "Its association with climate-unfriendly industries leads to reduced client loyalty and investor divestment.",
+      "D": "A change in interest rates affects its portfolio."
+    },
+    "answer": "C",
+    "explanation": "Page 65 gives the example of Goldman Sachs, which notes in its TCFD report that 'involvement in certain industries associated with climate change' could lead to 'reduced client and employee loyalty, investor divestment and impacts to client activity.'"
+  },
+  {
+    "question": "The academic literature cited on page 67 shows that in the US, properties exposed to sea-level rise (SLR) sell for:",
+    "options": {
+      "A": "A premium, as coastal living is desirable.",
+      "B": "The same price as unexposed properties.",
+      "C": "A discount compared to equivalent unexposed properties.",
+      "D": "A price that is not yet affected by SLR risk."
+    },
+    "answer": "C",
+    "explanation": "Page 67 cites a study by Bernstein et al. (2019) that 'showed that US properties exposed to sea level rise (SLR) sell for 7% less on average than equivalent unexposed properties.'"
+  },
+  {
+    "question": "What is a key reason that opportunities from physical risk are considered limited for the private sector?",
+    "options": {
+      "A": "Governments have banned private companies from climate adaptation projects.",
+      "B": "Investing in resilience, like building a floodwall, avoids a loss rather than producing a new profit or revenue stream.",
+      "C": "There are no known technological solutions for adapting to physical risks.",
+      "D": "The physical impacts of climate change are not yet severe enough to warrant investment."
+    },
+    "answer": "B",
+    "explanation": "Page 60 explains that for private-sector counterparties, physical risks 'tend to bring more downside than upside.' It notes that paying to adapt facilities 'does not produce a profit or revenue stream per se, but rather simply avoids large losses that would have otherwise happened.'"
+  },
+  {
+    "question": "Which of these is NOT listed as a key acute climate hazard in Table 3.1?",
+    "options": {
+      "A": "Storms and hurricanes",
+      "B": "Sea level rise",
+      "C": "Heatwaves",
+      "D": "Wildfires"
+    },
+    "answer": "B",
+    "explanation": "Table 3.1 on page 56 lists 'Sea level rise' as a Key Chronic Climate Hazard, not an acute one. The others are all listed under Key Acute Climate Hazards."
+  },
+  {
+    "question": "The process where local lenders pass on more sea-level rise risk to secondary markets (like Freddie Mac and Fannie Mae) is an example of what?",
+    "options": {
+      "A": "Risk creation",
+      "B": "Risk mitigation",
+      "C": "Risk transmission into the wider financial system",
+      "D": "Risk avoidance"
+    },
+    "answer": "C",
+    "explanation": "Page 67 discusses the transmission of physical risk in real estate, citing research that shows local lenders pass on SLR risk to secondary markets, thus propagating the risk into the broader financial system."
+  },
+  {
+    "question": "What is direct air capture (DAC)?",
+    "options": {
+      "A": "A technology to directly capture CO2 from the smokestack of a power plant.",
+      "B": "A natural process where trees absorb CO2 from the atmosphere.",
+      "C": "A technology to capture CO2 directly from the ambient air.",
+      "D": "A method of measuring greenhouse gas concentrations in the atmosphere."
+    },
+    "answer": "C",
+    "explanation": "Page 62 describes technologies for net-negative emissions, including 'directly capturing CO2 from the air (known as direct air capture, or DAC).'"
+  },
+  {
+    "question": "The German law mandating the closure of all coal-fired power plants by 2038 is an example of a policy that directly leads to what?",
+    "options": {
+      "A": "Increased physical risk",
+      "B": "Stranded assets",
+      "C": "Technological innovation",
+      "D": "Reputational enhancement"
+    },
+    "answer": "B",
+    "explanation": "Page 63 uses this German law as an example of a policy that will cause plants to shut before the end of their operational lifetime, 'thus becoming stranded.'"
+  },
+  {
+    "question": "What is the primary driver behind the significant drop in the Levelized Cost of Electricity (LCOE) for concentrated solar power (CSP) shown in Figure 3.11?",
+    "options": {
+      "A": "A decrease in the cost of capital (WACC)",
+      "B": "A decrease in Operations & Maintenance (O&M) costs",
+      "C": "A large decrease in the total installed cost",
+      "D": "A minor increase in the capacity factor"
+    },
+    "answer": "C",
+    "explanation": "Figure 3.11 on page 64 shows the components of the LCOE reduction. The bar labeled 'Total installed cost' represents the largest portion (64%) of the overall cost drop."
+  },
+  {
+    "question": "The finding that the 2019-2020 Australian wildfires were made at least 30% more likely by climate change is a result of what field of science?",
+    "options": {
+      "A": "Climatology",
+      "B": "Financial modeling",
+      "C": "Attribution science",
+      "D": "Actuarial science"
+    },
+    "answer": "C",
+    "explanation": "Page 58 cites this specific finding as an example of research from 'attribution science,' which links specific events to climate change."
+  },
+  {
+    "question": "Which of the following is NOT a driver of transition risk mentioned on page 54?",
+    "options": {
+      "A": "Tighter government policies, such as carbon taxes",
+      "B": "Increasing incidence of floods and hurricanes",
+      "C": "Technological changes, such as cheaper renewables",
+      "D": "Bottom-up consumer pressures for sustainable products"
+    },
+    "answer": "B",
+    "explanation": "Page 54 lists government policies, technological changes, and consumer pressure as drivers of transition risk. Floods and hurricanes are physical risk hazards."
+  },
+  {
+    "question": "According to the text, stranding due to physical risk is more likely to be concentrated in what way?",
+    "options": {
+      "A": "Concentrated in the energy and industrial sectors.",
+      "B": "Concentrated geographically in vulnerable areas.",
+      "C": "Concentrated among companies with poor governance.",
+      "D": "Concentrated in the distant future (post-2100)."
+    },
+    "answer": "B",
+    "explanation": "Page 54 contrasts transition risk stranding (concentrated in sectors) with physical risk stranding, which 'can occur across nearly all sectors, but it is more likely to be concentrated geographically.'"
+  },
+  {
+    "question": "In Figure 3.1's depiction of Transition Risk, what does 'Exposure' at the facility level refer to?",
+    "options": {
+      "A": "The extent of adaptive infrastructure.",
+      "B": "Anything in a hazard zone.",
+      "C": "High-emissions assets like fossil fuel power plants.",
+      "D": "The viability of transition plans."
+    },
+    "answer": "C",
+    "explanation": "Figure 3.1 on page 55 lists 'High-emissions assets (fossil fuel power plants, steel plants, ICE vehicles)' under the 'Exposure' column for Transition Risk at the facility level."
+  },
+  {
+    "question": "The text suggests that a transition to a 1.5°C pathway will likely require large amounts of what?",
+    "options": {
+      "A": "New fossil fuel discoveries",
+      "B": "Net-negative global emissions",
+      "C": "A temporary increase in global temperatures",
+      "D": "Global geopolitical cooperation on a scale never before seen"
+    },
+    "answer": "B",
+    "explanation": "Page 62 states that 'most models and scenarios for reaching a 1.5°C equilibrium...assume very large amounts of net-negative global emissions.'"
+  },
+  {
+    "question": "Which of the following would be considered a systemic risk?",
+    "options": {
+      "A": "A single factory being damaged by a flood.",
+      "B": "A company being sued for its carbon emissions.",
+      "C": "A widespread loss of labor productivity due to extreme heat affecting multiple industries.",
+      "D": "A new solar panel technology making older models obsolete."
+    },
+    "answer": "C",
+    "explanation": "Page 60 discusses systemic risks as those with broad propagation effects. The example given of heat stress impacting labor productivity, causing trillions in economic losses, fits this description."
+  },
+  {
+    "question": "What is a major reason why physical climate risk is particularly acute for the real estate sector?",
+    "options": {
+      "A": "Buildings have fixed locations and cannot be moved from vulnerable areas.",
+      "B": "The real estate sector has high carbon emissions.",
+      "C": "Property laws are not adapted to climate change.",
+      "D": "The sector has a poor public reputation."
+    },
+    "answer": "A",
+    "explanation": "Page 67 states that the real estate sector is particularly affected by physical risk 'as buildings obviously have fixed locations, and if those locations are in vulnerable, exposed areas they will be subject to climate risk.'"
+  },
+  {
+    "question": "What is a potential consequence of insurers pulling out of coverage for fire-prone areas?",
+    "options": {
+      "A": "The government is forced to take on the risk, or assets become uninsurable and lose value.",
+      "B": "It creates a technology risk for the insurance industry.",
+      "C": "It lowers the reputational risk of the insurance companies.",
+      "D": "It leads to a 'just transition' for the affected homeowners."
+    },
+    "answer": "A",
+    "explanation": "Pages 60-61 discuss the role of insurance and the risk of insurers withdrawing coverage, which can 'leave only the most vulnerable there...and allowing physical climate risk to become a problem for government exclusively.'"
+  },
+  {
+    "question": "A company's vulnerability to transition risk can be described as:",
+    "options": {
+      "A": "Its location in a region with strict environmental laws.",
+      "B": "The ease with which it can reduce or eliminate its emissions, for example, by converting to hydrogen.",
+      "C": "Its reliance on a global supply chain.",
+      "D": "Its exposure to acute physical hazards."
+    },
+    "answer": "B",
+    "explanation": "Page 54 discusses vulnerability for transition risk, 'referring to the ease of reducing or eliminating emissions—for instance, through conversion to hydrogen-based production—as opposed to having to prematurely close a facility.'"
+  },
+  {
+    "question": "Why has the notion of 'stranded assets' expanded beyond high-emitting industrial assets?",
+    "options": {
+      "A": "The definition was found to be legally unenforceable.",
+      "B": "It has been recognized that physical risks and other environmental risks can also strand assets.",
+      "C": "Transition risks are no longer considered a major threat.",
+      "D": "The TCFD recommended a narrower definition."
+    },
+    "answer": "B",
+    "explanation": "Page 54-55 explains that while the concept started with 'unburnable carbon,' it has expanded. 'For instance, physical risks can equally create stranded assets,' and it can also refer to assets stranded by non-climate environmental risks like habitat destruction."
+  },
+  {
+    "question": "What is a key feature of the TCFD recommendations for disclosure?",
+    "options": {
+      "A": "They are mandatory for all companies worldwide.",
+      "B": "They are designed to be included in financial filings.",
+      "C": "They focus exclusively on historical emissions data.",
+      "D": "They apply only to the energy and financial sectors."
+    },
+    "answer": "B",
+    "explanation": "The TCFD Framework box on page 53 lists key features, including that the recommendations are intended to be 'included in financial filings' and 'adoptable by all organizations'."
+  },
+  {
+    "question": "The case study about electricity generation shows that a mandatory shutdown of a coal plant is a transition/policy risk that can lead to:",
+    "options": {
+      "A": "Lower electricity prices for consumers.",
+      "B": "Higher returns for investors in the utility.",
+      "C": "Asset write-offs (stranded assets) for the utility.",
+      "D": "An increase in the plant's operational lifetime."
+    },
+    "answer": "C",
+    "explanation": "Figure 3.13 on page 68 clearly diagrams this pathway: a mandatory shutdown leads to 'Loss of revenues' and 'Asset write-offs (stranded assets)' for the coal-fired power plants."
+  },
+  {
+    "question": "According to the text, why are climate models less robust for predicting hazards over the next one or two decades compared to the end of the century?",
+    "options": {
+      "A": "Computing power is insufficient for short-term forecasts.",
+      "B": "Natural variability in climate can mask the effect of human-caused changes over shorter timescales.",
+      "C": "There is less data available for the near future.",
+      "D": "Short-term government policies are too unpredictable to model."
+    },
+    "answer": "B",
+    "explanation": "Page 56 states that 'climate models provide only limited information for the next one or two decades...because natural variability in climate can mask the effect of human-caused changes in the climate.'"
+  },
+  {
+    "question": "The shift in demand from high-emissions products to low-carbon alternatives is what type of transition risk?",
+    "options": {
+      "A": "Legal risk",
+      "B": "Technology risk",
+      "C": "Market risk",
+      "D": "Policy risk"
+    },
+    "answer": "C",
+    "explanation": "Page 65 defines the 'most straightforward kinds of market transition risks' as those that 'relate to the shifting demands from high-emissions products to low-carbon products and commodities.'"
+  },
+  {
+    "question": "Which statement accurately reflects the IPCC's findings on a 1.5°C warming scenario?",
+    "options": {
+      "A": "At 1.5°C of warming, the physical impacts of climate change will be minor and easily manageable.",
+      "B": "A 1.5°C average warming means that heavy precipitation and flooding events will still intensify in most regions.",
+      "C": "Reaching a 1.5°C target means that acute hazards like heatwaves and droughts will cease to occur.",
+      "D": "A 1.5°C warming is now considered the most likely 'business-as-usual' outcome."
+    },
+    "answer": "B",
+    "explanation": "Page 55 states that 'even if the world manages to hit these ambitious targets of 1.5°C or 2°C, the physical impacts will still be severe,' and gives the example that a 1.5°C world 'still means heavy precipitation and flooding events will intensify and become more frequent.'"
+  },
+  {
+    "question": "Which of these is NOT an example of transition risk from sources other than carbon prices, as listed on page 63?",
+    "options": {
+      "A": "Fiat Chrysler paying Tesla to pool its fleet for EU emissions standards.",
+      "B": "Germany mandating the closure of coal-fired power plants by 2038.",
+      "C": "The US President cancelling the permit for the Keystone XL oil pipeline.",
+      "D": "A beverage factory being stranded due to increased droughts."
+    },
+    "answer": "D",
+    "explanation": "The example of a beverage factory stranded by droughts is a classic case of physical risk, not transition risk. The other three are all listed in the text box on page 63 as examples of transition risk."
+  },
+  {
+    "question": "A potential market disruption mentioned in the text is the concern around the availability of which materials, crucial for batteries and electric vehicles?",
+    "options": {
+      "A": "Steel and aluminum",
+      "B": "Coal and natural gas",
+      "C": "Lithium and copper",
+      "D": "Lumber and plastic"
+    },
+    "answer": "C",
+    "explanation": "Page 66 notes that market disruptions may be caused by concerns 'around the availability of lithium, crucial for lithium-ion batteries, and copper, used widely in electric vehicles.'"
+  },
+  {
+    "question": "The concept of 'creative destruction' is mentioned in relation to what?",
+    "options": {
+      "A": "The unpredictable nature of acute physical hazards.",
+      "B": "The idea of assets being left behind by external forces, leading to write-downs.",
+      "C": "The process of building more resilient infrastructure after a disaster.",
+      "D": "The political arguments surrounding climate policy."
+    },
+    "answer": "B",
+    "explanation": "Page 54 links the concept of stranded assets to older ideas, stating, 'The concept of assets being left behind by external forces, leading to reduced valuations or complete write-downs, is not new, and it links to the idea of creative destruction.'"
+  },
+  {
+    "question": "In the context of the chapter, what is the significance of the 2022 TCFD Status Report?",
+    "options": {
+      "A": "It concluded that climate risk is no longer a major threat to financial stability.",
+      "B": "It showed high adoption of TCFD recommendations, but that disclosure on strategy resilience and governance is lagging.",
+      "C": "It mandated that all G20 countries must make TCFD reporting legally binding.",
+      "D": "It found that physical risks were far more significant than transition risks."
+    },
+    "answer": "B",
+    "explanation": "Page 53 summarizes the 2022 Status Report, noting that while many companies disclose against at least one recommendation, very few disclose against all, and that 'resilience of companies' strategies...continues to have the lowest level of disclosure, while governance remains the least disclosed.'"
+  },
+  {
+    "question": "According to the text, what is a key factor that makes it difficult for models to accurately predict wildfire locations?",
+    "options": {
+      "A": "The models cannot accurately predict long-term temperature changes.",
+      "B": "Wildfires are random events unrelated to climate.",
+      "C": "The models must account for an interaction of climate events (like drought) and local conditions (like vegetation and land use).",
+      "D": "Satellite data on burned areas is unreliable."
+    },
+    "answer": "C",
+    "explanation": "Page 58 explains the difficulty, stating that 'wildfires need vegetation to burn, meaning models must take both climate and land cover into account—and, ideally, human land-use patterns as well. The interaction of these multiple factors makes it particularly difficult...'"
+  },
+  {
+    "question": "At the corporate level, vulnerability to physical risk can refer to a lack of:",
+    "options": {
+      "A": "High quarterly profits.",
+      "B": "A globally recognized brand name.",
+      "C": "Preparation for climate change mitigation and adaptation planning, or a lack of financial resilience.",
+      "D": "A large number of physical assets."
+    },
+    "answer": "C",
+    "explanation": "Page 54 states, 'At the corporate level, vulnerability can refer to the lack of preparation for such issues as climate change mitigation and adaptation planning, or it can apply to a lack of financial resilience, such as through insurance-based mechanisms.'"
+  },
+  {
+    "question": "The increasing demand for plant-based meat and dairy alternatives is cited as an example of what?",
+    "options": {
+      "A": "Consumer influence driving transition risk in the food products sector.",
+      "B": "A physical risk to the traditional agriculture sector.",
+      "C": "A government policy aimed at reducing emissions from livestock.",
+      "D": "A technological risk for food processing companies."
+    },
+    "answer": "A",
+    "explanation": "Page 65 uses the 'increasing recognition of the high climate footprint of meat and dairy products, which is driving part of the demand for plant-based meat and dairy alternatives' as a prime example of consumer influence creating transition risk."
+  },
+  {
+    "question": "What does Figure 3.12 illustrate?",
+    "options": {
+      "A": "The process by which transition risk leads to lower property values.",
+      "B": "The causal chain from sea level rise (physical hazard) to effects on property values, banks, and wider financial markets.",
+      "C": "The steps a bank takes to mitigate its exposure to climate risk.",
+      "D": "The relationship between property insurance costs and climate-related events."
+    },
+    "answer": "B",
+    "explanation": "Figure 3.12 on page 68 diagrams the transmission mechanism of a physical risk. It starts with 'Sea level rise & more frequent storms,' moves to 'Greater risk of...flooding' for 'Coastal Properties,' leading to 'Lower property values,' which then affects 'Banks' and finally 'Markets' through securitization."
+  },
+  {
+    "question": "The text states that non-climate environmental risks can also create stranded assets. What is one example given?",
+    "options": {
+      "A": "A change in consumer taste for a particular product.",
+      "B": "A factory that becomes uneconomical due to high labor costs.",
+      "C": "A lack of pollination in an area stranding fruit orchards.",
+      "D": "A financial crisis causing asset values to fall."
+    },
+    "answer": "C",
+    "explanation": "Page 55 notes that stranded assets can result from non-climate environmental risks, giving the example of 'a lack of pollination in a particular area stranding fruit orchards.'"
+  },
+  {
+    "question": "In the TCFD framework, 'metrics and targets' refers to what?",
+    "options": {
+      "A": "The governance structures a firm has in place for climate issues.",
+      "B": "The firm's overall strategy surrounding climate change.",
+      "C": "The specific data points used by the firm to assess its climate-related risks and opportunities.",
+      "D": "The processes the firm has in place to manage climate risks."
+    },
+    "answer": "C",
+    "explanation": "Page 53, in the TCFD box, describes 'metrics and targets' as 'the metrics used by the firm in question to assess climate-related risks and opportunities.'"
+  },
+  {
+    "question": "According to the text, a potential positive opportunity from physical risk for the corporate sector involves:",
+    "options": {
+      "A": "Speculating on the rising price of scarce resources.",
+      "B": "Partnering with governments and insurers to build adaptive infrastructure and share expertise on resilience.",
+      "C": "Ignoring physical risks to cut operational costs.",
+      "D": "Moving all operations to areas with no climate risk."
+    },
+    "answer": "B",
+    "explanation": "Page 61 suggests there is 'some chance that the corporate sector can find limited opportunities in dealing with physical risk by partnering with governments and with other kinds of counterparties, such as insurers...'"
+  },
+  {
+    "question": "Why is oil and gas demand likely to reduce significantly in a low-carbon transition?",
+    "options": {
+      "A": "All known oil and gas reserves will be depleted by 2050.",
+      "B": "As industries and equipment transition to using cleaner fuels or become electrified.",
+      "C": "Physical risks will make extraction impossible.",
+      "D": "International law will ban the use of all petrochemicals."
+    },
+    "answer": "B",
+    "explanation": "Page 65 explains that as a market risk, 'As industries and equipment transition to using cleaner fuels or become electrified, the demand for coal will fall, potentially completely; oil and gas demand will also likely reduce significantly...'"
+  },
+  {
+    "question": "What is the key takeaway from Figure 3.4 regarding model uncertainty?",
+    "options": {
+      "A": "There is robust agreement among models on both future temperature and precipitation changes.",
+      "B": "There is far more agreement among models on the direction and magnitude of temperature change than on precipitation change.",
+      "C": "All models predict a decrease in global precipitation.",
+      "D": "Models are more certain about changes in the southern hemisphere than the northern hemisphere."
+    },
+    "answer": "B",
+    "explanation": "The text on page 56 and the figure itself (on page 57) illustrate this. The temperature change maps are solidly colored, indicating agreement, while the precipitation maps have large areas without cross-hatching, indicating model disagreement."
+  },
+  {
+    "question": "Intangible assets, such as intellectual property and company reputation, can also become stranded. Why is this significant?",
+    "options": {
+      "A": "Intangible assets are not important for company valuation.",
+      "B": "Intangible assets are immune to physical risks.",
+      "C": "Intangible assets have become an ever-larger share of total enterprise value in advanced economies.",
+      "D": "The stranding of intangible assets is not linked to climate risk drivers."
+    },
+    "answer": "C",
+    "explanation": "Page 66 highlights the importance of this by stating, 'This is important as the size of intangibles relative to tangibles has grown over time, with intangible assets, particularly in advanced economies becoming an ever-larger share of total enterprise value.'"
+  },
+  {
+    "question": "According to the text, what is one of the main political economy challenges associated with asset stranding in the energy sector?",
+    "options": {
+      "A": "A lack of renewable energy resources to replace fossil fuels.",
+      "B": "The difficulty of managing the consequences for communities and policymakers reliant on the affected assets.",
+      "C": "The technical challenge of decommissioning old power plants.",
+      "D": "The high cost of carbon capture technology."
+    },
+    "answer": "B",
+    "explanation": "Page 66 discusses these challenges, noting that the threat of stranded assets can lead to 'groups potentially affected actively or passively, frustrating or destabilizing low carbon transitions. These groups could include...communities hosting assets, and policymakers reliant on tax revenues generated from assets.'"
+  },
+  {
+    "question": "The text implies that the financial effects of climate risk become relevant to risk managers when they:",
+    "options": {
+      "A": "Are discussed in the media.",
+      "B": "Become a topic of political debate.",
+      "C": "Have an effect on the balance sheets and portfolios of firms.",
+      "D": "Are proven with 100% certainty by climate models."
+    },
+    "answer": "C",
+    "explanation": "Page 67 states, 'Ultimately, climate risk becomes relevant to risk managers when climate change's physical impacts, or government policies...have an effect on balance sheets and portfolios of firms or financial institutions.'"
+  },
+  {
+    "question": "The development of lithium-ion batteries is an example of a technology that creates transition risk for which sector?",
+    "options": {
+      "A": "The real estate sector, by changing heating systems.",
+      "B": "The agriculture sector, by enabling electric tractors.",
+      "C": "The transportation sector, by enabling electric vehicles that compete with internal combustion engine vehicles.",
+      "D": "The electricity generation sector, by making solar panels more expensive."
+    },
+    "answer": "C",
+    "explanation": "Page 64 mentions that the 'continued cheapening of, and improvement of, battery technology makes it conceivable that the transportation sector will be the next to be hit by technology risks and potential asset stranding.'"
+  },
+  {
+    "question": "What is the core argument behind the legal case ClientEarth v. Enea?",
+    "options": {
+      "A": "Enea's coal-fired power plant breached existing air pollution rules.",
+      "B": "Enea had failed to consider the material climate-transition risks of its project to build a new coal-fired power plant.",
+      "C": "Enea was responsible for physical damages caused by climate change in another country.",
+      "D": "Enea had not secured the proper building permits for its new plant."
+    },
+    "answer": "B",
+    "explanation": "Page 63 describes this case as one where ClientEarth alleged Enea's 'failure to consider the material climate-transition risks of its project to build a large...coal-fired power plant.'"
+  },
+  {
+    "question": "Based on Figure 3.6, what has been the general trend in the number of meteorological and hydrological events since 1980?",
+    "options": {
+      "A": "A steady decrease",
+      "B": "No discernible trend",
+      "C": "A significant increasing trend",
+      "D": "A cyclical trend with no long-term change"
+    },
+    "answer": "C",
+    "explanation": "The bar chart on page 59 (Figure 3.6) clearly shows that the number of events, particularly hydrological (blue bars) and meteorological (red bars), has generally increased over the period from 1980 to 2019."
+  },
+  {
+    "question": "Why is the Bank of England interested in the energy-efficiency rating of a property?",
+    "options": {
+      "A": "It is a predictor of credit risk on residential mortgages.",
+      "B": "It wants to promote the use of renewable energy.",
+      "C": "It is directly responsible for enforcing building codes.",
+      "D": "It provides government grants for energy-efficiency improvements."
+    },
+    "answer": "A",
+    "explanation": "Page 68 mentions that the Bank of England 'has conducted analysis showing that the energy-efficiency rating of a property is a predictor of credit risk on residential mortgages.'"
+  },
+  {
+    "question": "When a physical risk, like a hurricane, prompts mortgage originators to shift riskier loans to government-sponsored enterprises, this demonstrates:",
+    "options": {
+      "A": "A successful adaptation to physical risk.",
+      "B": "The transmission of risk from local actors to the wider financial market.",
+      "C": "The effectiveness of insurance in covering all losses.",
+      "D": "A decrease in the overall level of risk in the system."
+    },
+    "answer": "B",
+    "explanation": "Page 67 cites research showing that 'catastrophes prompt mortgage originators...to increase the share of mortgages eligible for securitization...thus passing on SLR risk to wider markets.' This is a clear example of risk transmission."
+  },
+  {
+    "question": "What does the text identify as a major challenge for a 'just transition' in developing countries?",
+    "options": {
+      "A": "A lack of interest from their populations in addressing climate change.",
+      "B": "Balancing the right to development and affordable energy with the need to mitigate climate change.",
+      "C": "An overabundance of renewable energy resources.",
+      "D": "The absence of carbon-intensive industries in their economies."
+    },
+    "answer": "B",
+    "explanation": "Page 66 highlights this as a 'particularly salient issue for developing countries who have a right to development and access to affordable energy' while also facing the consequences of global warming."
+  },
+  {
+    "question": "The term 'vulnerability' at the facility level for physical risk refers to things like:",
+    "options": {
+      "A": "The company's stock price.",
+      "B": "The presence of adaptive infrastructure like flood pumps and fire breaks.",
+      "C": "The number of employees working at the facility.",
+      "D": "The age of the facility."
+    },
+    "answer": "B",
+    "explanation": "Figure 3.1 on page 55 lists 'Extent of adaptive infrastructure (e.g., flood pumps, fire breaks)' as a key indicator of facility-level vulnerability to physical risk."
+  },
+  {
+    "question": "What is one way a company can create an 'opportunity' out of physical risk?",
+    "options": {
+      "A": "By ignoring the risk to save money.",
+      "B": "By partnering with communities to build shared adaptive infrastructure, potentially being rewarded for staying in an area.",
+      "C": "By lobbying the government to remove all climate regulations.",
+      "D": "By ensuring all its assets are fully insured by third parties."
+    },
+    "answer": "B",
+    "explanation": "Page 61 suggests that companies could find opportunities by staying in certain areas or partnering with communities 'to build adaptive infrastructure such as flood walls that can protect both facilities and factories and surrounding communities.'"
+  },
+  {
+    "question": "Which of these is NOT a component of the reduction in LCOE for CSP projects shown in Figure 3.11?",
+    "options": {
+      "A": "Total installed cost",
+      "B": "Capacity factor",
+      "C": "O&M (Operations & Maintenance)",
+      "D": "Government subsidies"
+    },
+    "answer": "D",
+    "explanation": "The bar chart in Figure 3.11 on page 64 breaks down the cost reduction into four components: Total installed cost, Capacity factor, O&M, and WACC (cost of capital). Government subsidies are not shown as a component of the LCOE reduction."
+  },
+  {
+    "question": "What is the primary message of Figure 3.9, which shows pathways to limiting warming to 1.5°C?",
+    "options": {
+      "A": "The 1.5°C target is easily achievable with current policies.",
+      "B": "The opportunity to limit warming to 1.5°C has already passed.",
+      "C": "Limiting warming to 1.5°C is increasingly difficult and requires massive, rapid emissions reductions and likely negative emissions.",
+      "D": "Global CO2 emissions have been steadily declining since 2000."
+    },
+    "answer": "C",
+    "explanation": "The title of Figure 3.9 on page 62 is 'Limiting warming to 1.5°C is increasingly difficult without large-scale negative emissions.' The chart shows that the pathway (the 'emissions budget') shrinks dramatically the later action is taken, indicating the increasing difficulty."
+  },
+  {
+    "question": "The transition risk category that includes shifts in supply and demand for certain commodities and products is:",
+    "options": {
+      "A": "Policy and Legal Risk",
+      "B": "Technology Risk",
+      "C": "Reputational Risk",
+      "D": "Market Risk"
+    },
+    "answer": "D",
+    "explanation": "Page 65 explicitly defines market risk in this context as encompassing 'a broad range of potential supply, demand, and pricing effects.'"
+  },
+  {
+    "question": "Which of the following best describes the goal of the questions provided at the end of the chapter?",
+    "options": {
+      "A": "To serve as actual questions from the SCR exam.",
+      "B": "To provide a comprehensive summary of the chapter.",
+      "C": "To help candidates understand the material, though they are not actual exam questions.",
+      "D": "To test knowledge that is beyond the scope of the chapter."
+    },
+    "answer": "C",
+    "explanation": "Page 71 explicitly states, 'The following questions are intended to help candidates understand the material. These are not actual SCR exam questions.'"
+  }
+]
+}

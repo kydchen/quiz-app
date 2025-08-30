@@ -1,0 +1,1005 @@
+{
+"C10": [
+{
+"question": "According to the learning objectives, what are the three key principles for good transition planning?",
+"options": {
+"A": "Profitability, legality, and transparency",
+"B": "Ambition, action, and accountability",
+"C": "Innovation, collaboration, and reporting",
+"D": "Risk management, opportunity, and strategy"
+},
+"answer": "B",
+"explanation": "Chapter 10's learning objectives and section 10.1.1 explicitly state that the key principles for good transition planning are ambition, action, and accountability."
+},
+{
+"question": "What is the primary difference between 'transition planning' and a 'transition plan' as defined by the NGFS?",
+"options": {
+"A": "Transition planning is for regulators, while a transition plan is for investors.",
+"B": "Transition planning is the internal process of developing a strategy, while a transition plan is the external-facing output.",
+"C": "A transition plan is a legally binding document, whereas transition planning is a voluntary exercise.",
+"D": "There is no difference; the terms are used interchangeably."
+},
+"answer": "B",
+"explanation": "As stated in Box 10.1, the Network for Greening the Financial System (NGFS) defines 'transition planning' as the internal process undertaken by a firm, and 'transition plans' as the external-facing output for audiences like investors and regulators."
+},
+{
+"question": "Which international body provides a widely recognised definition of a 'climate-related transition plan' in its IFRS S2 standard?",
+"options": {
+"A": "The Financial Stability Board (FSB)",
+"B": "The Network for Greening the Financial System (NGFS)",
+"C": "The International Sustainability Standards Board (ISSB)",
+"D": "The G20 Sustainable Finance Working Group (SFWG)"
+},
+"answer": "C",
+"explanation": "The text in Box 10.1 explicitly quotes the definition from the International Sustainability Standards Board (ISSB) in the IFRS S2 Climate-related disclosure standard."
+},
+{
+"question": "Which of the following is NOT a key feature of the definition of 'transition finance' proposed by Caldecott (2022)?",
+"options": {
+"A": "It applies only to companies, not sovereigns or households.",
+"B": "It covers sustainability topics beyond just climate mitigation.",
+"C": "It is not just about raising capital, but also providing financial services.",
+"D": "It makes clear that all finance can become transition finance."
+},
+"answer": "A",
+"explanation": "The text on page 4 explicitly states that the definition 'applies to companies, as well as sovereigns and households,' making option A incorrect."
+},
+{
+"question": "What is a key driver for the momentum in transition planning, as mentioned in the text?",
+"options": {
+"A": "Pressure from non-governmental organizations.",
+"B": "Technological breakthroughs in renewable energy.",
+"C": "Pressure from the private sector, especially financial institutions asking investee companies for plans.",
+"D": "Global government mandates that are universally enforced."
+},
+"answer": "C",
+"explanation": "Section 10.1 notes that a key driver is the private sector itself, with financial institutions increasingly asking the companies they invest in or lend to for transition plans."
+},
+{
+"question": "Which investor initiative is mentioned as asking the world's largest corporate greenhouse gas emitters to disclose and implement transition plans?",
+"options": {
+"A": "Glasgow Financial Alliance for Net Zero (GFANZ)",
+"B": "Climate Action 100+",
+"C": "Institutional Investors Group on Climate Change (IIGCC)",
+"D": "Norges Bank Investment Management"
+},
+"answer": "B",
+"explanation": "On page 4, the text states, 'For example, the investor initiative Climate Action 100+ is asking the world's largest corporate greenhouse gas emitters to disclose and implement transition plans.'"
+},
+{
+"question": "According to the NGFS, which of the following is a policy objective that transition-plan requirements could support?",
+"options": {
+"A": "Achieving climate outcomes through corporate action.",
+"B": "Preventing greenwashing and maintaining market integrity.",
+"C": "Effectively managing climate-related micro- and macroprudential risks.",
+"D": "All of the above."
+},
+"answer": "D",
+"explanation": "As summarized by the NGFS on page 5, objectives for transition-plan requirements include achieving climate outcomes, maintaining market integrity, preventing greenwashing, and managing risks."
+},
+{
+"question": "In June 2023, the ISSB issued two standards. What are they?",
+"options": {
+"A": "IFRS S1 (General Requirements) and IFRS S2 (Climate-related Disclosures)",
+"B": "IFRS C1 (Carbon Reporting) and IFRS T1 (Transition Plans)",
+"C": "IFRS G1 (Governance) and IFRS R1 (Risk Management)",
+"D": "IFRS A1 (Accountability) and IFRS A2 (Ambition)"
+},
+"answer": "A",
+"explanation": "Table 10.1 on page 6 clearly states that in June 2023, the ISSB issued two standards: IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information, and IFRS S2 Climate-related Disclosures."
+},
+{
+"question": "Which UK body, established as a public-private taskforce, developed a Transition Plan Disclosure Framework that was finalized in October 2023?",
+"options": {
+"A": "The Financial Conduct Authority (FCA)",
+"B": "The Bank of England",
+"C": "The Transition Plan Taskforce (TPT)",
+"D": "The UK Green Finance Institute"
+},
+"answer": "C",
+"explanation": "According to Table 10.1 on page 7, the UK government established the public-private Transition Plan Taskforce (TPT) to develop a Disclosure Framework, which was finalized in October 2023."
+},
+{
+"question": "In the EU, which directive requires companies to disclose social and environmental information according to European Sustainability Reporting Standards (ESRS)?",
+"options": {
+"A": "The Sustainable Finance Disclosure Regulation (SFDR)",
+"B": "The Corporate Sustainability Reporting Directive (CSRD)",
+"C": "The EU Green Bond Standard (EUGBS)",
+"D": "The Markets in Financial Instruments Directive (MiFID)"
+},
+"answer": "B",
+"explanation": "The section on the European Union in Table 10.1 (page 7) states that the Corporate Sustainability Reporting Directive (CSRD) requires companies to disclose this information."
+},
+{
+"question": "The TPT Disclosure Framework provides recommendations across how many core elements of a transition plan?",
+"options": {
+"A": "Three",
+"B": "Four",
+"C": "Five",
+"D": "Seven"
+},
+"answer": "C",
+"explanation": "Figure 10.1 on page 8 shows that the TPT launched its Disclosure Framework with detailed recommendations across 5 core elements: Foundations, Implementation Strategy, Engagement Strategy, Metrics & Targets, and Governance."
+},
+{
+"question": "The TPT's five core elements mirror the five themes of a transition plan identified by which other major guidance body?",
+"options": {
+"A": "The Science Based Targets initiative (SBTi)",
+"B": "The Financial Stability Board (FSB)",
+"C": "The Glasgow Financial Alliance for Net Zero (GFANZ)",
+"D": "The International Organization of Securities Commissions (IOSCO)"
+},
+"answer": "C",
+"explanation": "The text below Figure 10.1 on page 8 states, 'These elements mirror the five themes of a transition plan identified by GFANZ in its guidance, making the two guidance bodies highly complementary.'"
+},
+{
+"question": "Which of the following is NOT listed as a main use case for transition plans, as summarized by the Transition Plan Taskforce?",
+"options": {
+"A": "To set a blueprint for actions within the reporting entity.",
+"B": "To improve information for investors and lenders.",
+"C": "To guarantee a company's future profitability.",
+"D": "To support policymakers and regulatory authorities."
+},
+"answer": "C",
+"explanation": "Box 10.2 on page 9 lists several use cases, including setting a blueprint, improving investor information, and supporting policymakers. It does not suggest that a plan can guarantee future profitability."
+},
+{
+"question": "To achieve the Paris Agreement's mitigation targets, by what percentage do global GHG emissions need to be cut by 2030 from 2019 levels?",
+"options": {
+"A": "Around 25%",
+"B": "Around 43%",
+"C": "Around 50%",
+"D": "Around 75%"
+},
+"answer": "B",
+"explanation": "Section 10.1.1 on page 11 states that to achieve the Paris Agreement's mitigation targets, global GHG emissions need to be cut by around 43% by 2030 from 2019 levels."
+},
+{
+"question": "What is 'paper decarbonization,' a risk particularly noted in the financial sector?",
+"options": {
+"A": "The process of writing a decarbonization plan on paper without implementing it.",
+"B": "Selling off carbon-intensive assets without causing any real-world reduction in overall emissions.",
+"C": "Investing in carbon credits to offset emissions on paper.",
+"D": "The reduction of paper usage within a company to lower its carbon footprint."
+},
+"answer": "B",
+"explanation": "Page 12 describes 'paper decarbonization' as the instance where a firm may be incentivized to sell off carbon-intensive assets, rapidly decarbonizing its own balance sheet without this leading to real-world reductions in overall emissions."
+},
+{
+"question": "The TPT recommends a 'strategic and rounded approach' that considers three interrelated channels of action. Which of the following is one of those channels?",
+"options": {
+"A": "Maximizing shareholder returns.",
+"B": "Responding to the entity's climate-related risks and opportunities.",
+"C": "Focusing solely on Scope 1 and 2 emissions.",
+"D": "Lobbying for reduced environmental regulation."
+},
+"answer": "B",
+"explanation": "Figure 10.3 on page 13 outlines the three channels: 1) Decarbonising the entity, 2) Responding to the entity's climate-related risks and opportunities, and 3) Contributing to an economy-wide transition."
+},
+{
+"question": "In setting actions for a transition plan, what does the TPT recommend regarding the 'mitigation hierarchy'?",
+"options": {
+"A": "Prioritize investing in carbon credits over direct emissions reduction.",
+"B": "Prioritize steps to reduce Scope 1, 2, and 3 emissions over investing in carbon credits.",
+"C": "Give equal weight to carbon credits and direct emissions reduction.",
+"D": "Focus only on the most cost-effective mitigation options, regardless of type."
+},
+"answer": "B",
+"explanation": "Under the 'Action' principle on page 14, the text states that the TPT recommends entities should 'follow the mitigation hierarchy (i.e., prioritize steps to reduce Scope 1, 2, and 3 emissions over investing in carbon credits).'"
+},
+{
+"question": "Which organization has prepared a 'Transition Planning Toolkit' aimed at non-executive directors to help them with effective oversight?",
+"options": {
+"A": "Chapter Zero",
+"B": "GFANZ",
+"C": "The TPT",
+"D": "SBTi"
+},
+"answer": "A",
+"explanation": "Box 10.3 on page 15 discusses 'The Chapter Zero Board Toolkit' and mentions that Chapter Zero has prepared this toolkit aimed at non-executive directors to ensure they are equipped for effective oversight."
+},
+{
+"question": "For financial institutions (FIs), a key question in their transition plan is how it affects their investment and lending activities, which fall under which emissions category?",
+"options": {
+"A": "Scope 1",
+"B": "Scope 2",
+"C": "Scope 3",
+"D": "Scope 4 (avoided emissions)"
+},
+"answer": "C",
+"explanation": "Section 10.2.1 on page 16 notes that for FIs, a large proportion of their emissions are likely to lie in their investment and lending activities, which are Scope 3 emissions."
+},
+{
+"question": "According to the SBTi Net-Zero Standard, what is the first of the four elements that comprise a net-zero target?",
+"options": {
+"A": "A long-term target to reach zero emissions by 2030.",
+"B": "Interim, 5- to 10-year targets that are aligned with a 1.5°C pathway.",
+"C": "Immediate investment in Beyond Value Chain Mitigation (BVCM).",
+"D": "A plan to neutralize all current and historical emissions."
+},
+"answer": "B",
+"explanation": "Page 17 lists the four elements. The first is 'Interim, 5- to 10-year targets that are aligned with a 1.5°C pathway.'"
+},
+{
+"question": "Within the SBTi Net-Zero Standard, what is Beyond Value Chain Mitigation (BVCM)?",
+"options": {
+"A": "A requirement to remove all residual emissions permanently.",
+"B": "A requirement to reduce Scope 1 and 2 emissions to zero.",
+"C": "A recommendation to invest in mitigating emissions outside a company's value chain.",
+"D": "The process of calculating Scope 3 emissions."
+},
+"answer": "C",
+"explanation": "The text on page 17 explains that BVCM involves investments to mitigate emissions falling outside a company's value chain and that it is a recommendation, not a requirement, in setting a science-based target."
+},
+{
+"question": "What is the final step in the SBTi Net-Zero Standard framework?",
+"options": {
+"A": "Set a near-term science-based target.",
+"B": "Set a long-term science-based target.",
+"C": "Engage in Beyond Value Chain Mitigation.",
+"D": "Neutralize any residual emissions through permanent removal and storage."
+},
+"answer": "D",
+"explanation": "Figure 10.4 and the accompanying text on page 18 show that the fourth and final element is the 'Neutralization of residual emissions,' where GHGs released into the atmosphere must be counterbalanced through permanent removal and storage."
+},
+{
+"question": "How does the International Labour Organisation (ILO) define a 'Just Transition'?",
+"options": {
+"A": "A rapid transition to a green economy, regardless of the social consequences.",
+"B": "Greening the economy in a way that is as fair and inclusive as possible, creating decent work and leaving no one behind.",
+"C": "Providing financial compensation to all workers in fossil fuel industries.",
+"D": "A transition that focuses exclusively on environmental justice for marginalized communities."
+},
+"answer": "B",
+"explanation": "Box 10.5 on page 19 directly quotes the ILO's definition: 'A Just Transition means greening the economy in a way that is as fair and inclusive as possible to everyone concerned, creating decent work opportunities and leaving no one behind.'"
+},
+{
+"question": "What is the 'equity share' approach to consolidating GHG emissions?",
+"options": {
+"A": "A company reports 100% of emissions from any entity in which it has an equity stake.",
+"B": "A company reports GHG emissions from operations based on its percentage share of equity in the operation.",
+"C": "A company reports only the emissions from its majority-owned subsidiaries.",
+"D": "A company reports emissions based on the fair market value of its equity."
+},
+"answer": "B",
+"explanation": "Section 10.3.2 on page 21 defines the Equity Share Approach: 'In this approach, a company reports GHG emissions from operations based on its share of equity in the operation.'"
+},
+{
+"question": "What is a potential drawback of the 'equity share' approach?",
+"options": {
+"A": "It is too complex to calculate.",
+"B": "It always results in double counting of emissions.",
+"C": "It may not fully capture the environmental impact if a company has significant operational influence but low proportional ownership.",
+"D": "It is not recognized by the GHG Protocol."
+},
+"answer": "C",
+"explanation": "Page 22 notes a drawback: 'It may not fully capture the environmental impact of a company's operations, especially in joint ventures where the company has significant operational influence but less than proportional ownership.'"
+},
+{
+"question": "Under the 'control approach' for GHG consolidation, what does 'operational control' mean?",
+"options": {
+"A": "The company has the ability to direct financial policies.",
+"B": "The company has a significant, but not controlling, financial interest.",
+"C": "The company or its subsidiaries have the authority to implement operating policies.",
+"D": "The company has the largest single equity stake."
+},
+"answer": "C",
+"explanation": "Page 22 explains that under operational control, 'a company reports on emissions from operations where it or its subsidiaries have the authority to implement operating policies.'"
+},
+{
+"question": "What is a key challenge associated with the 'control approach'?",
+"options": {
+"A": "It often underreports emissions.",
+"B": "It is only applicable to Scope 1 emissions.",
+"C": "It can lead to the double counting of emissions in complex ownership structures.",
+"D": "It is less aligned with management responsibility."
+},
+"answer": "C",
+"explanation": "A challenge mentioned on page 22 is that the control approach 'can lead to the double counting of emissions in complex ownership structures where more than one entity may assert control over the same operations.'"
+},
+{
+"question": "Emissions from the generation of purchased electricity consumed by a company are classified as what?",
+"options": {
+"A": "Scope 1 emissions",
+"B": "Scope 2 emissions",
+"C": "Scope 3 emissions",
+"D": "Financed emissions"
+},
+"answer": "B",
+"explanation": "Section 10.3.3 on page 23 defines Scope 2 emissions as indirect emissions resulting 'from the generation of purchased electricity, steam, heating, and cooling consumed by the company.'"
+},
+{
+"question": "Financed emissions, which are particularly relevant to financial institutions, are a subset of which GHG Protocol category?",
+"options": {
+"A": "Scope 1",
+"B": "Scope 2",
+"C": "Scope 3, Category 1 (Purchased goods and services)",
+"D": "Scope 3, Category 15 (Investments)"
+},
+"answer": "D",
+"explanation": "On page 24, the text states, 'As a subset of Scope 3 emissions, financed emissions are integral to Scope 3, Category 15 (Investments) of the GHG Protocol's Corporate Value Chain (Scope 3) Accounting and Reporting Standard.'"
+},
+{
+"question": "What is the basic formula used to begin the process of calculating GHG emissions?",
+"options": {
+"A": "Activity data * Global Warming Potential (GWP) = Emissions",
+"B": "Activity data * Emission factor = Emissions",
+"C": "Emissions * Emission factor = CO2e",
+"D": "Activity data / Revenue = Emission intensity"
+},
+"answer": "B",
+"explanation": "Page 26 summarizes the process with the formula: 'Activity data * Emission factor = Emissions'. The result is then multiplied by a GWP to get emissions in CO2e."
+},
+{
+"question": "Why do emissions factors for Scope 2 emissions (e.g., electricity) vary significantly by geographic location?",
+"options": {
+"A": "Because different countries use different calculation methodologies.",
+"B": "Because the efficiency of power plants is different in every country.",
+"C": "Because they are heavily influenced by the local grid infrastructure and the energy mix used for generation.",
+"D": "Because of varying government taxes on electricity."
+},
+"answer": "C",
+"explanation": "The text on page 25 explains that Scope 2 emissions 'are heavily influenced by the grid infrastructure or the proportion of energy sources used to generate electricity in a specific region. Therefore, the emissions factors for scope 2 emissions vary significantly.'"
+},
+{
+"question": "What does GWP stand for in the context of GHG calculations?",
+"options": {
+"A": "Global Warming Protocol",
+"B": "Greenhouse Warming Parameter",
+"C": "Global Warming Potential",
+"D": "General Warming Product"
+},
+"answer": "C",
+"explanation": "Page 26 explains that total emissions of different GHGs are converted into a single estimate of CO2e by weighting them with their Global Warming Potentials (GWP)."
+},
+{
+"question": "According to a CDP report cited in the text, a financial institution's Scope 3 emissions can outpace its direct emissions (Scope 1 and 2) by how much?",
+"options": {
+"A": "10 times",
+"B": "50 times",
+"C": "100 times",
+"D": "700 times"
+},
+"answer": "D",
+"explanation": "Section 10.3.5 on page 27 states, 'Financial institutions typically exhibit low direct emissions (Scope 1 and 2), whereas their Scope 3 emissions... outpace their direct emissions by 700 times (CDP, 2021).'"
+},
+{
+"question": "Which PCAF metric is used to understand exposure to emission-intensive companies, expressed as tCO2e per million dollars of company revenue?",
+"options": {
+"A": "Absolute emissions",
+"B": "Economic emission intensity",
+"C": "Physical emission intensity",
+"D": "Weighted average carbon intensity (WACI)"
+},
+"answer": "D",
+"explanation": "Table 10.3 on page 28 defines the Weighted average carbon intensity (WACI) as the metric to 'understand exposure to emission-intensive companies,' expressed as tCO2e/€M or $M company revenue."
+},
+{
+"question": "What is the purpose of the 'Economic emission intensity' metric?",
+"options": {
+"A": "To measure the total GHG emissions of a portfolio.",
+"B": "To understand how the emission intensities of different portfolios compare per monetary unit (e.g., tCO2e/$M loaned).",
+"C": "To measure the efficiency of a portfolio per unit of physical output (e.g., tCO2e/MWh).",
+"D": "To measure the expected impact of investments on future emissions."
+},
+"answer": "B",
+"explanation": "Table 10.3 on page 28 states that the purpose of Economic emission intensity is 'To understand how the emission intensities of different portfolios (or parts of portfolios) compare to each other per monetary unit.'"
+},
+{
+"question": "In the GFANZ framework for transition finance metrics, what does EER stand for?",
+"options": {
+"A": "Economic Emissions Ratio",
+"B": "Expected Emissions Reduction",
+"C": "Environmental Efficiency Rating",
+"D": "Energy Economy Return"
+},
+"answer": "B",
+"explanation": "Table 10.4 on page 29 lists the metrics in the GFANZ framework. EER stands for Expected Emissions Reduction, and it quantifies the expected impact of investments on emissions reductions."
+},
+{
+"question": "What is a common challenge in measuring financed emissions, according to both PCAF and the ECB?",
+"options": {
+"A": "The overabundance of standardized, high-quality data.",
+"B": "Limited data availability, necessitating the use of proxies and averages.",
+"C": "A lack of interest from financial institutions.",
+"D": "The calculations are too simple to be meaningful."
+},
+"answer": "B",
+"explanation": "The 'Measurement Challenges' section on page 30 highlights that both PCAF and the ECB point to 'limited data availability' as a key issue, which 'hinders the accuracy and comprehensiveness of emissions calculations.'"
+},
+{
+"question": "In the PCAF standard, what is the 'attribution factor'?",
+"options": {
+"A": "A score indicating the quality of the emissions data.",
+"B": "The total emissions of the borrower or investee.",
+"C": "The proportion of the emissions of the borrower or investee that are allocated to the loan or investment.",
+"D": "A factor that adjusts emissions based on the country's climate policies."
+},
+"answer": "C",
+"explanation": "Page 31 defines the attribution factor as 'the proportion of the emissions of the borrower or investee that are allocated to the loan or investments.'"
+},
+{
+"question": "A bank has a $20 million loan to a company with $400 million in total equity and debt. The company has 50,000 tonnes of CO2 emissions. What are the bank's financed emissions for this company?",
+"options": {
+"A": "50,000 tonnes",
+"B": "10,000 tonnes",
+"C": "5,000 tonnes",
+"D": "2,500 tonnes"
+},
+"answer": "D",
+"explanation": "First, calculate the attribution factor: $20M / $400M = 0.05. Then, multiply this by the company's emissions: 0.05 * 50,000 tonnes = 2,500 tonnes. This follows the example on page 32."
+},
+{
+"question": "In the PCAF Data Quality Scoring system, what does a score of 1 represent?",
+"options": {
+"A": "The least reliable data, based on estimates with limited support.",
+"B": "Proxy data based on regional averages.",
+"C": "The most reliable category, representing audited GHG emissions data or actual primary energy data.",
+"D": "Non-audited GHG emissions data."
+},
+"answer": "C",
+"explanation": "Figure 10.7 and the accompanying text on page 32 describe Score 1 as the most reliable, implying an error margin of 5%-10% and representing 'audited emissions data or actual primary energy data.'"
+},
+{
+"question": "What is the estimated error margin for data with a PCAF Data Quality Score of 5?",
+"options": {
+"A": "Less than 5%",
+"B": "5-10%",
+"C": "15-25%",
+"D": "As large as 40-50%"
+},
+"answer": "D",
+"explanation": "Page 33 describes Score 5 as representing the least reliable categories, 'potentially exhibiting an error margin as large as 40-50%.'"
+},
+{
+"question": "Which voluntary initiative is mentioned as having developed guidelines for financial institutions focused on financed emissions, including the development of detailed net-zero transition plans?",
+"options": {
+"A": "The G20 SFWG",
+"B": "The IFRS Foundation",
+"C": "The Glasgow Financial Alliance for Net Zero (GFANZ)",
+"D": "The European Central Bank (ECB)"
+},
+"answer": "C",
+"explanation": "Section 10.3.6 on page 34 mentions voluntary initiatives such as the Net-Zero Banking Alliance (NZBA) and the Glasgow Financial Alliance for Net Zero (GFANZ) that 'have developed guidelines for financial institutions focused on financed emissions.'"
+},
+{
+"question": "What is the 'strategic rounded approach' recommended by the TPT designed to avoid?",
+"options": {
+"A": "Making ambitious commitments.",
+"B": "Focusing too much on climate opportunities.",
+"C": "Suboptimal outcomes and 'paper decarbonization' from focusing only on firm-level emissions.",
+"D": "Engaging with governments and policymakers."
+},
+"answer": "C",
+"explanation": "Page 12 explains that a narrow focus on entity-decarbonization can lead to suboptimal outcomes and that the TPT recommends a 'strategic and rounded approach' to avoid these pitfalls, such as 'paper decarbonization'."
+},
+{
+"question": "Which of the five core elements of the TPT framework covers an entity's strategic ambition and business model implications?",
+"options": {
+"A": "Governance",
+"B": "Metrics & Targets",
+"C": "Implementation Strategy",
+"D": "Foundations"
+},
+"answer": "D",
+"explanation": "Figure 10.1 on page 8 shows that the 'Foundations' element includes the 'Strategic Ambition' and 'Business model and value chain' sub-elements."
+},
+{
+"question": "What is the objective of the G20 Sustainable Finance Working Group (SFWG)?",
+"options": {
+"A": "To set mandatory carbon reporting laws for all G20 nations.",
+"B": "To identify barriers to sustainable finance and support the alignment of the international financial system with climate objectives.",
+"C": "To provide financing for renewable energy projects in developing countries.",
+"D": "To create a global carbon tax."
+},
+"answer": "B",
+"explanation": "Table 10.1 on page 6 states, 'The G20 SFWG aims to identify barriers to sustainable finance and support the alignment of the international financial system to the objectives of the 2030 Agenda and the Paris Agreement.'"
+},
+{
+"question": "The Financial Stability Board (FSB) is setting up a working group to develop a conceptual understanding of the relevance of transition plans for what purpose?",
+"options": {
+"A": "Corporate marketing and branding.",
+"B": "Shareholder activism.",
+"C": "Financial stability.",
+"D": "Employee compensation."
+},
+"answer": "C",
+"explanation": "In Table 10.1, the FSB's description states its working group will 'develop a conceptual understanding on the relevance of transition plans... for financial stability.'"
+},
+{
+"question": "In late 2023, the Monetary Authority of Singapore (MAS) conducted a consultation on introducing guidance for transition planning for which entities?",
+"options": {
+"A": "All publicly listed companies.",
+"B": "Only manufacturing and industrial companies.",
+"C": "Banks, asset managers, and insurers.",
+"D": "Government agencies and state-owned enterprises."
+},
+"answer": "C",
+"explanation": "The Singapore section in Table 10.1 (page 7) specifies that the MAS consultation was on proposals 'to introduce guidance on transition planning for banks, asset managers, and insurers.'"
+},
+{
+"question": "What is the primary audience for a corporate transition plan when the regulatory objective is to 'inform shareholders and investors'?",
+"options": {
+"A": "The public",
+"B": "Regulators",
+"C": "Shareholders and investors",
+"D": "Consumers"
+},
+"answer": "C",
+"explanation": "The table 'Categories of transition plan use cases' on page 11 clearly indicates that for the 'Corporate' actor, the primary audience is 'Shareholders and investors'."
+},
+{
+"question": "According to the UN Environment Programme, the world is facing a large investment gap in what area?",
+"options": {
+"A": "Carbon capture technology.",
+"B": "Mitigation efforts in developed nations.",
+"C": "Adaptation efforts in emerging markets.",
+"D": "Nuclear fusion research."
+},
+"answer": "C",
+"explanation": "On page 11, the text cites the UN Environment Programme, which 'estimating that there is an estimated investment gap of $194 billion to $366 billion per year in adaptation efforts in emerging markets alone.'"
+},
+{
+"question": "What is a key recommendation for the 'Accountability' principle of transition planning?",
+"options": {
+"A": "Keep the plan confidential within the board of directors.",
+"B": "Outsource all responsibility for the plan to external consultants.",
+"C": "Integrate transition planning into existing organizational processes for business and financial planning.",
+"D": "Update the plan only when required by law."
+},
+"answer": "C",
+"explanation": "One of the key recommendations under the Accountability principle on page 14 is 'integrating transition planning into existing organizational processes for business and financial planning.'"
+},
+{
+"question": "For which reason are emission factors for fuels (e.g., natural gas) often consistent globally?",
+"options": {
+"A": "A global treaty standardizes all fuels.",
+"B": "Their chemical composition and combustion properties are consistent.",
+"C": "Fuel consumption is measured the same way everywhere.",
+"D": "All fuel is sourced from a single global provider."
+},
+"answer": "B",
+"explanation": "Page 25 explains that fuels 'often have the same emissions factors globally because their chemical composition and combustion properties are consistent, making them relatively fungible across different geographies.'"
+},
+{
+"question": "The case study of Johnson Matthey on page 20 provides a net zero roadmap for which types of emissions?",
+"options": {
+"A": "Scope 3 emissions only",
+"B": "Scope 1 and 2 emissions",
+"C": "All emissions, including financed emissions",
+"D": "Only process emissions"
+},
+"answer": "B",
+"explanation": "Box 10.6 on page 20 explicitly introduces the 'Net zero roadmap for Scope 1 and 2 GHG emissions' developed by Johnson Matthey."
+},
+{
+"question": "Which financial institution is analyzed in Box 10.10 regarding its approach to calculating financed emissions?",
+"options": {
+"A": "Norges Bank Investment Management",
+"B": "HSBC",
+"C": "Nordic Investment Bank (NIB)",
+"D": "JPMorgan Chase"
+},
+"answer": "C",
+"explanation": "Box 10.10 on page 35 is titled 'Analyzing Nordic Investment Bank's (NIB) Financed Emissions Calculation'."
+},
+{
+"question": "When counterparty data is unavailable, what does the Nordic Investment Bank (NIB) use to calculate financed emissions?",
+"options": {
+"A": "Its own internal estimates based on company size.",
+"B": "Data from social media and news reports.",
+"C": "PCAF's proxy data, which uses standardized emission factors from industry averages.",
+"D": "It does not calculate emissions for those counterparties."
+},
+"answer": "C",
+"explanation": "The NIB case study on page 35 states, 'In cases where counterparties lack emissions reports, NIB turns to PCAF's proxy data, which employs standardized emission factors derived from industry averages.'"
+},
+{
+"question": "Which body's 2023 Work Program included a commitment to set up a workstream on transition plan disclosure for securities regulators?",
+"options": {
+"A": "IOSCO",
+"B": "BCBS",
+"C": "FSB",
+"D": "NGFS"
+},
+"answer": "A",
+"explanation": "Table 10.1 on page 7 mentions that 'In its 2023 Work Program, IOSCO committed to setting up a workstream on transition plans that will consider the role of securities regulators with respect to transition-plan disclosure.'"
+},
+{
+"question": "The TPT framework is built on three overarching principles. Ambition and Accountability are two. What is the third?",
+"options": {
+"A": "Strategy",
+"B": "Action",
+"C": "Reporting",
+"D": "Governance"
+},
+"answer": "B",
+"explanation": "Section 10.1.1 on page 11 clearly states, 'The Transition Plan Taskforce (TPT) recommends that good practice transition plans should be guided by three overarching principles: ambition, action, and accountability.'"
+},
+{
+"question": "According to the SBTi, residual emissions must be neutralized using what method?",
+"options": {
+"A": "Purchasing standard carbon offsets.",
+"B": "Investing in renewable energy projects.",
+"C": "The permanent removal and storage of carbon from the atmosphere.",
+"D": "Improving energy efficiency."
+},
+"answer": "C",
+"explanation": "Element four of the SBTi Net-Zero Targets on page 18 states that GHGs released when the target is achieved must be 'counterbalanced through the permanent removal and storage of carbon from the atmosphere.'"
+},
+{
+"question": "Which EU regulation mandates that financial institutions report financed emissions by June each year?",
+"options": {
+"A": "CSRD",
+"B": "SFDR",
+"C": "EU Taxonomy",
+"D": "MiFID II"
+},
+"answer": "B",
+"explanation": "The section on emerging reporting requirements on page 34 mentions, 'In the European Union, the SFDR mandates financial institutions to report financed emissions by June each year...'"
+},
+{
+"question": "The GHG Protocol defines how many 'scopes' of emissions?",
+"options": {
+"A": "One",
+"B": "Two",
+"C": "Three",
+"D": "Four"
+},
+"answer": "C",
+"explanation": "Section 10.3.3 on page 23 explains that GHG emissions are categorized into Scope 1, 2, and 3 emissions."
+},
+{
+"question": "What is the primary purpose of the PCAF Data Quality Score?",
+"options": {
+"A": "To assign a financial rating to a company.",
+"B": "To communicate the level of uncertainty in the underlying emissions data.",
+"C": "To calculate the attribution factor for an investment.",
+"D": "To determine if a company's targets are science-based."
+},
+"answer": "B",
+"explanation": "Page 33 concludes that the PCAF Standard and its Data Quality Score offer a method that 'also communicates the levels of uncertainty in the underlying data.'"
+},
+{
+"question": "According to GFANZ, a transition plan should be consistent with achieving net zero by what year, at the latest?",
+"options": {
+"A": "2040",
+"B": "2050",
+"C": "2060",
+"D": "2070"
+},
+"answer": "B",
+"explanation": "Page 12 states, 'GFANZ recommends that a transition plan be consistent with achieving net zero by 2050, at the latest, in line with commitments and global efforts to limit warming to 1.5 °C.'"
+},
+{
+"question": "Direct GHG emissions from sources that are owned or controlled by a company are known as:",
+"options": {
+"A": "Scope 1 emissions",
+"B": "Scope 2 emissions",
+"C": "Scope 3 emissions",
+"D": "Legacy emissions"
+},
+"answer": "A",
+"explanation": "The definition on page 23 is clear: 'Scope 1 emissions: These are direct emissions from sources that are owned or controlled by the company.'"
+},
+{
+"question": "LSE Grantham Research Institute set out three core factors for FIs to consider for a 'Just Transition'. Which is NOT one of them?",
+"options": {
+"A": "Anticipate, assess, and address the social risks of the transition.",
+"B": "Ensure maximum financial returns from green investments.",
+"C": "Identify and enable the social opportunities of the transition.",
+"D": "Ensure meaningful dialogue and participation in net zero planning."
+},
+"answer": "B",
+"explanation": "Box 10.5 on page 19 lists the three factors. Maximizing financial returns is not listed as one of the core factors for ensuring a just transition."
+},
+{
+"question": "The US Treasury issued a set of voluntary principles for what in September 2023?",
+"options": {
+"A": "Corporate Tax Avoidance",
+"B": "Net-Zero Financing and Investment",
+"C": "International Trade Agreements",
+"D": "Cryptocurrency Regulation"
+},
+"answer": "B",
+"explanation": "Table 10.1 on page 7 notes that in September 2023, the 'U.S. Treasury issued a set of 9 voluntary Principles for Net-Zero Financing and Investment.'"
+},
+{
+"question": "Which of these asset classes is covered by the PCAF financed emission standard?",
+"options": {
+"A": "Listed equity and corporate bonds",
+"B": "Commercial real estate and mortgages",
+"C": "Project finance and sovereign debt",
+"D": "All of the above"
+},
+"answer": "D",
+"explanation": "Page 31 lists the asset types covered by the PCAF standard, including 'listed equity and corporate bonds, business loans and unlisted equity, project finance, commercial real estate, mortgages, motor vehicle loans, and sovereign debt.'"
+},
+{
+"question": "According to the document, what organization provides the Emission Factor Database (EFDB)?",
+"options": {
+"A": "EPA",
+"B": "IEA",
+"C": "IPCC",
+"D": "WRI"
+},
+"answer": "C",
+"explanation": "Page 26 mentions the 'Emission Factor Database (EFDB), which offers emission factors for a wide range of processes and industries globally (IPCC, 2023).'"
+},
+{
+"question": "What is one of the main goals of using normalized or intensity metrics for financed emissions?",
+"options": {
+"A": "To hide the absolute increase in emissions.",
+"B": "To help in climate transition risk management, target setting, and the development of financial products.",
+"C": "To make calculations easier by avoiding absolute numbers.",
+"D": "To meet the minimum regulatory requirement for reporting."
+},
+"answer": "B",
+"explanation": "Page 27 states that using normalized data 'helps in climate transition risk management, target setting, and the development of financial products.'"
+},
+{
+"question": "Which of the TPT's five core elements deals with board oversight, management roles, and incentives?",
+"options": {
+"A": "Foundations",
+"B": "Implementation Strategy",
+"C": "Metrics & Targets",
+"D": "Governance"
+},
+"answer": "D",
+"explanation": "Figure 10.1 on page 8 shows the 'Governance' element includes sub-elements like 'Board oversight and reporting', 'Management roles, responsibility and accountability', and 'Incentives and remuneration'."
+},
+{
+"question": "The Basel Committee on Banking Supervision (BCBS) launched a consultation on which set of disclosure requirements related to climate risks?",
+"options": {
+"A": "Pillar 1",
+"B": "Pillar 2",
+"C": "Pillar 3",
+"D": "Pillar 4"
+},
+"answer": "C",
+"explanation": "Table 10.1 on page 7 notes that the 'BCBS launched a consultation on bank-specific Pillar 3 disclosure requirements for climate-related financial risks.'"
+},
+{
+"question": "A potential flaw of the control approach is that it does not account for emissions from operations where a company has...",
+"options": {
+"A": "full operational control.",
+"B": "a financial interest but lacks control.",
+"C": "a small number of employees.",
+"D": "100% equity."
+},
+"answer": "B",
+"explanation": "On page 22, a notable aspect of the control approach is that it 'does not account for emissions from operations in which the company has a financial interest but lacks control.'"
+},
+{
+"question": "What kind of information can transition plans provide to the 'wider capital markets ecosystem'?",
+"options": {
+"A": "Guaranteed future stock prices.",
+"B": "Only historical emissions data.",
+"C": "Forward-looking strategic information.",
+"D": "Confidential corporate strategies."
+},
+"answer": "C",
+"explanation": "Box 10.2 on page 10 lists one use case as providing 'forward-looking strategic information to the wider capital markets ecosystem, including data services, credit ratings, and other tools'."
+},
+{
+"question": "When defining the ambition of a plan, the TPT recommends avoiding 'carbon lock-in'. What does this refer to?",
+"options": {
+"A": "Investing only in carbon capture technologies.",
+"B": "Locking carbon credits in a portfolio for future use.",
+"C": "Making decisions with long lifetimes that commit the entity to a high-carbon pathway.",
+"D": "Signing long-term contracts for renewable energy."
+},
+"answer": "C",
+"explanation": "The 'Action' principle on page 14 recommends that entities should 'avoid carbon lock-in when making decisions with long lifetimes', which refers to investments that are hard to change and continue to produce emissions for many years."
+},
+{
+"question": "According to the GWP values shown in the calculation example on page 27, which gas has the highest warming potential per tonne?",
+"options": {
+"A": "CO2 (Carbon Dioxide)",
+"B": "CH4 (Methane)",
+"C": "N2O (Nitrous Oxide)",
+"D": "All have the same potential."
+},
+"answer": "C",
+"explanation": "The table in Figure 10.5 on page 27 shows the GWP for CO2 is 1, for CH4 is 28, and for N2O is 273, making N2O the most potent of the three gases shown."
+},
+{
+"question": "Which of these is an example of a Scope 3 emission for a manufacturing company?",
+"options": {
+"A": "Emissions from the company's own delivery trucks.",
+"B": "Emissions from the power plant that supplies its factory with electricity.",
+"C": "Emissions from the customer's use of the products it sells (e.g., a car).",
+"D": "Emissions from the boiler in its factory."
+},
+"answer": "C",
+"explanation": "Page 24 gives an example of a Scope 3 emission: 'if it sells products that emit GHGs during their use, such as automobiles, these emissions are part of Scope 3.' The company's trucks are Scope 1, and purchased electricity is Scope 2."
+},
+{
+"question": "The GFANZ Financial Institution Net-Zero Transition Plan Framework shows five components surrounding a central element. What is that central element?",
+"options": {
+"A": "Foundations",
+"B": "Metrics and Targets",
+"C": "Implementation Strategy",
+"D": "Governance"
+},
+"answer": "A",
+"explanation": "Figure 10.2 on page 9 depicts the GFANZ framework as a hexagon with 'Foundations' at its core, described as the 'articulation of the organization's overall approach to net zero'."
+},
+{
+"question": "As of December 2023, were there internationally agreed-upon definitions or technical criteria for transition finance?",
+"options": {
+"A": "Yes, developed by the UN.",
+"B": "Yes, developed by the ISSB.",
+"C": "No, work on this topic is ongoing.",
+"D": "Yes, but they are only applicable in the EU."
+},
+"answer": "C",
+"explanation": "The text at the top of page 4 states, 'However, as of December 2023, there are no internationally agreed-upon definitions or technical criteria for transition finance.'"
+},
+{
+"question": "In its 2024 priorities, the Brazil G20 Presidency announced that what would be a key focus for the SFWG?",
+"options": {
+"A": "Digital finance and cybersecurity.",
+"B": "Advancing credible, robust, and just transition plans.",
+"C": "Global cryptocurrency regulation.",
+"D": "The phase-out of all fossil fuel subsidies."
+},
+"answer": "B",
+"explanation": "The G20 SFWG description in Table 10.1 (page 6) mentions, 'In 2024 the Brazil G20 Presidency announced that advancing credible, robust, and just transition plans would be one of four G20 SFWG Priorities.'"
+},
+{
+"question": "What is the primary objective of a transition plan from the perspective of a Financial Regulator focused on 'Safety and Soundness'?",
+"options": {
+"A": "To ensure effective management of climate-related financial risks at the institution level.",
+"B": "To achieve national climate outcomes through corporate action.",
+"C": "To provide transparency to market actors and prevent greenwashing.",
+"D": "To manage aggregate, systemic climate-related risks."
+},
+"answer": "A",
+"explanation": "The table 'Categories of transition plan use cases' on page 11 shows that for a Financial Regulator focused on 'Safety and Soundness', the primary objective is the 'Effective management of climate-related financial risks (institution level)'."
+},
+{
+"question": "The 'strategic rounded approach' enables a financial institution to pursue opportunities for what, as part of its transition plan?",
+"options": {
+"A": "Maximizing investments in oil and gas exploration.",
+"B": "Accelerating the managed phase-out of high-emitting assets.",
+"C": "Avoiding all engagement with high-emitting sectors.",
+"D": "Focusing exclusively on its own operational emissions."
+},
+"answer": "B",
+"explanation": "Page 13 gives an example of the benefit of a rounded approach: 'it may enable a financial institution to pursue opportunities for accelerating the managed phase-out of high-emitting assets, such as coal power plants, as part of its transition plan.'"
+},
+{
+"question": "The PCAF data quality score ranges from 1 to 5. What direction does the progression from 5 to 1 indicate?",
+"options": {
+"A": "A transition from reliable to unreliable data.",
+"B": "A transition from high-uncertainty estimates to data with a significantly reduced error margin.",
+"C": "A transition from audited data to proxy data.",
+"D": "A transition from sector-specific data to country-level data."
+},
+"answer": "B",
+"explanation": "Page 33 states, 'The progression from Score 5 to Score 1 reflects a transition from high-uncertainty estimates to data with a significantly reduced error margin, enhancing the overall reliability of financed emissions reporting.'"
+},
+{
+"question": "What is the primary reason that Scope 3 emissions are considered essential for financial organizations to measure?",
+"options": {
+"A": "Because they are the easiest emissions to calculate.",
+"B": "Because they are the only emissions covered by regulations.",
+"C": "Because they represent the indirect impact of their investment and lending and are often far larger than their direct emissions.",
+"D": "Because they are directly controllable by the financial organization."
+},
+"answer": "C",
+"explanation": "The learning objectives and several sections (e.g., page 16, 27) emphasize that Scope 3, particularly financed emissions, are essential for FIs because they represent the vast majority of their climate impact through their financing activities."
+},
+{
+"question": "The document states carbon reporting is increasingly becoming a regulatory requirement, highlighting its significance for environmental stewardship and what else?",
+"options": {
+"A": "Marketing advantage",
+"B": "Legal compliance",
+"C": "Shareholder dividends",
+"D": "Employee retention"
+},
+"answer": "B",
+"explanation": "On page 21, the text notes that carbon reporting is becoming a regulatory requirement, 'highlighting its significance for environmental stewardship and legal compliance.'"
+},
+{
+"question": "Which of these is a key concept in the PCAF standard used to calculate the proportion of emissions a financial institution is responsible for?",
+"options": {
+"A": "The Global Warming Potential (GWP)",
+"B": "The Data Quality Score (DQS)",
+"C": "The Attribution Factor",
+"D": "The Emission Intensity Ratio (EIR)"
+},
+"answer": "C",
+"explanation": "Page 31 introduces the attribution factor as 'an important concept in the PCAF standards... defined as 'the proportion of the emissions of the borrower or investee that are allocated to the loan or investments.''."
+},
+{
+"question": "According to the TPT's 'strategic and rounded approach', which channel of action involves enhancing resilience to the changing climate?",
+"options": {
+"A": "Decarbonising the entity",
+"B": "Contributing to an economy-wide transition",
+"C": "Responding to the entity's climate-related risks and opportunities",
+"D": "Engaging with the supply chain"
+},
+"answer": "C",
+"explanation": "Figure 10.3 on page 13 describes the second channel as 'Responding to the entity's climate-related risks and opportunities: The entity's ambitions and actions to enhance its resilience to the changing climate...'"
+},
+{
+"question": "Norges Bank Investment Management updated its expectations in 2023, asking firms for credible transition plans that cover which scopes of emissions?",
+"options": {
+"A": "Scope 1 only",
+"B": "Scope 1 and 2",
+"C": "Scope 1, Scope 2, and material Scope 3 emissions",
+"D": "Scope 3 only"
+},
+"answer": "C",
+"explanation": "Page 5 mentions that Norges Bank 'updated investee expectations on climate change in 2023, asking firms for credible transition plans that cover scope 1, scope 2, and material scope 3 emissions.'"
+},
+{
+"question": "The International Platform on Sustainable Finance (IPSF) runs a working group that launched a set of voluntary principles on what topic?",
+"options": {
+"A": "Biodiversity Finance",
+"B": "Transition Finance",
+"C": "Circular Economy",
+"D": "Social Impact Bonds"
+},
+"answer": "B",
+"explanation": "Table 10.1 on page 7 states, 'The IPSF runs a Transition Finance Working Group that, in 2022, launched a set of voluntary Transition Finance Principles...'"
+},
+{
+"question": "Which of the following is an example of 'physical emission intensity'?",
+"options": {
+"A": "tCO2e / $M revenue",
+"B": "Total tCO2e of a portfolio",
+"C": "tCO2e / MWh",
+"D": "$M invested in green bonds"
+},
+"answer": "C",
+"explanation": "Table 10.3 on page 28 describes physical emission intensity as absolute emissions divided by a value of physical activity or output, giving the example 'tCO2e/MWh'."
+},
+{
+"question": "In the GFANZ transition finance metrics, 'Proportion of portfolio dedicated to Paris-aligned assets' is an example under which area?",
+"options": {
+"A": "Plan Execution",
+"B": "Expected Emissions Reduction (EER)",
+"C": "Portfolio/Financed Emissions",
+"D": "Real-Economy Transition"
+},
+"answer": "D",
+"explanation": "Table 10.4 on page 29 lists 'Capital mobilized' as a metric under the 'Real-Economy Transition' area, with 'Proportion of portfolio dedicated to Paris-aligned assets' as the example."
+},
+{
+"question": "A company reporting 30% of the emissions from a joint venture in which it holds a 30% stake is using which consolidation approach?",
+"options": {
+"A": "The control approach",
+"B": "The influence approach",
+"C": "The equity share approach",
+"D": "The financial control approach"
+},
+"answer": "C",
+"explanation": "This is a direct application of the equity share approach as defined on page 21, where a company reports emissions based on its percentage share of equity."
+},
+{
+"question": "What is the name of the network of global financial institutions that has developed guidance for transition planning and is mentioned frequently in the text?",
+"options": {
+"A": "World Economic Forum (WEF)",
+"B": "Glasgow Financial Alliance for Net Zero (GFANZ)",
+"C": "International Monetary Fund (IMF)",
+"D": "Principles for Responsible Investment (PRI)"
+},
+"answer": "B",
+"explanation": "The Glasgow Financial Alliance for Net Zero (GFANZ) is mentioned on pages 5, 8, 12, 15, and others as a key body providing guidance on transition plans for financial institutions."
+},
+{
+"question": "What is a major challenge the Nordic Investment Bank (NIB) faces regarding its financed emissions calculation?",
+"options": {
+"A": "A lack of internal expertise.",
+"B": "The high cost of data subscription services.",
+"C": "Inconsistency in emissions-reporting standards across different regions and sectors.",
+"D": "Regulatory prohibition on collecting client data."
+},
+"answer": "C",
+"explanation": "The case study on page 35 explicitly states, 'One significant challenge NIB faces is the inconsistency in emissions-reporting standards across different regions and sectors, which can lead to discrepancies...'"
+}
+]
+}

@@ -1,0 +1,1027 @@
+{
+  "C7": [
+    {
+      "question": "According to the text, what is the broadest definition of scenario analysis?",
+      "options": {
+        "A": "The use of complex mathematical models to predict future stock prices.",
+        "B": "The practice of planning by describing and sketching the future using plausible narrative stories.",
+        "C": "A regulatory requirement to report on past climate-related incidents.",
+        "D": "An accounting method for calculating financial losses from extreme weather."
+      },
+      "answer": "B",
+      "explanation": "Page 153 defines scenario analysis in its broadest sense as 'the practice of planning through describing and sketching the future using plausible narrative stories ('scenarios').'"
+    },
+    {
+      "question": "Which company is mentioned as having played an outsize role in developing and maturing scenario analysis techniques, particularly with its 'futures' team in the 1960s and 70s?",
+      "options": {
+        "A": "General Electric",
+        "B": "IBM",
+        "C": "Shell",
+        "D": "PepsiCo"
+      },
+      "answer": "C",
+      "explanation": "Page 153 states, 'Indeed, corporations in general, and Shell in particular, played an outsize role in developing and maturing the technique. Shell's 'futures' team, which took shape in the 1960s, sent its first oil-price forecasts to executives in the early 1970s.'"
+    },
+    {
+      "question": "What is the primary purpose of the Taskforce on Climate-Related Financial Disclosures (TCFD) recommending scenario analysis?",
+      "options": {
+        "A": "To mandate specific investment decisions for financial firms.",
+        "B": "To create a legally binding global carbon price.",
+        "C": "To 'enhance critical strategic thinking' and challenge conventional wisdom about the future.",
+        "D": "To replace annual financial reporting with climate impact statements."
+      },
+      "answer": "C",
+      "explanation": "Page 153 explains that 'The TCFD recommends scenario analysis as a way to 'enhance critical strategic thinking' and challenge conventional wisdom regarding the future using plausible, distinctive, consistent, relevant, and challenging scenarios.'"
+    },
+    {
+      "question": "What does 'Net Zero' mean in the context of climate change?",
+      "options": {
+        "A": "Completely eliminating all greenhouse gas emissions from every human activity.",
+        "B": "Reducing emissions to zero in the energy sector only.",
+        "C": "Reducing global emissions to zero in almost every sector and balancing any residual emissions with removals.",
+        "D": "Offsetting 100% of emissions by planting trees, without reducing emissions from sources."
+      },
+      "answer": "C",
+      "explanation": "Page 155 defines Net Zero as 'reducing global emissions ('sources') to zero in almost every sector of the global economy and balancing out any residual emissions that cannot be eliminated with removals, or offsets ('sinks') on an ongoing basis.'"
+    },
+    {
+      "question": "What are Representative Concentration Pathways (RCPs) developed by the IPCC?",
+      "options": {
+        "A": "Detailed socioeconomic narratives about future global development.",
+        "B": "Plausible, projected pathways of greenhouse gas concentrations in the atmosphere.",
+        "C": "Mandatory policy roadmaps for governments to follow.",
+        "D": "Physical models of the Earth's climate system."
+      },
+      "answer": "B",
+      "explanation": "Page 156 describes RCPs as 'agreed-upon, projected, plausible emissions pathways through 2100.' They represent different emissions projections."
+    },
+    {
+      "question": "The naming of IPCC's RCPs (e.g., RCP 2.6, RCP 8.5) is based on what metric?",
+      "options": {
+        "A": "The anticipated global average temperature rise in degrees Celsius.",
+        "B": "The year by which net-zero emissions will be achieved.",
+        "C": "The amount of radiative forcing in watts per meter squared (W/m²).",
+        "D": "The percentage of global GDP invested in green technologies."
+      },
+      "answer": "C",
+      "explanation": "Page 156 clarifies that 'the RCP names are based on the amount of radiative forcing measured in watts/meter squared (W/m²).'"
+    },
+    {
+      "question": "What do Shared Socioeconomic Pathways (SSPs) provide that RCPs originally did not?",
+      "options": {
+        "A": "Projections of greenhouse gas concentrations.",
+        "B": "Socioeconomic narratives and context for the emissions pathways.",
+        "C": "Physical climate model outputs like sea-level rise.",
+        "D": "A measure of radiative forcing."
+      },
+      "answer": "B",
+      "explanation": "Page 156 states that 'shared socioeconomic pathways (SSPs)... have been developed subsequently to be used in conjunction with the RCPs. SSPs are intended to provide plausible scenarios for how the world evolves in areas such as population, economic growth, education...'"
+    },
+    {
+      "question": "Which organization, other than the IPCC, is noted as a most important developer of widely used reference scenarios like the Stated Policies Scenario and the Sustainable Development Scenario?",
+      "options": {
+        "A": "The World Bank",
+        "B": "The International Energy Agency (IEA)",
+        "C": "Greenpeace",
+        "D": "The Network for Greening the Financial System (NGFS)"
+      },
+      "answer": "B",
+      "explanation": "Page 158 identifies the most important among non-IPCC scenarios as those 'developed by the International Energy Agency (IEA). The IEA's two core scenarios are the 1) Stated Policies Scenario... and 2) the Sustainable Development Scenario (SDS).'"
+    },
+    {
+      "question": "What major conclusion did the IEA's 'Net-Zero by 2050' report of May 2021 present regarding fossil fuels?",
+      "options": {
+        "A": "A gradual phase-out of fossil fuels should begin around 2040.",
+        "B": "There should be no new coal power plants, no new coal mines, and no new oil and gas exploration from 2021.",
+        "C": "Fossil fuel use should be doubled to fund the transition to renewables.",
+        "D": "Only coal should be phased out, while oil and gas can continue to expand."
+      },
+      "answer": "B",
+      "explanation": "Page 159 highlights that in the 2021 net-zero scenario, 'From 2021, the agency says there should be no new coal power plants, no new coal mines, and no new oil and gas exploration.'"
+    },
+    {
+      "question": "What is the fundamental difference between how scenario analysis is applied to transition risk versus physical risk?",
+      "options": {
+        "A": "Transition risk analysis uses qualitative narratives, while physical risk analysis uses only quantitative data.",
+        "B": "Transition risk analysis is tied to emissions trajectories and policy, while physical risk analysis focuses on the direct impacts of climate phenomena on assets and operations.",
+        "C": "Transition risk is only relevant for energy companies, while physical risk is relevant for all companies.",
+        "D": "Transition risk analysis looks at a 100-year horizon, while physical risk analysis only looks at the next 5 years."
+      },
+      "answer": "B",
+      "explanation": "The text explains this distinction throughout Section 7.3. Page 162 notes transition risk results from the 'speed, pace, and scale of the low-carbon transition,' while physical risk involves deriving 'estimates of temperature rise, precipitation, weather extremes, and other phenomena' and their direct impacts."
+    },
+    {
+      "question": "Why are the physical impacts of climate change considered 'largely baked in' until about 2050, regardless of the emissions scenario?",
+      "options": {
+        "A": "Because climate models are not accurate for short-term predictions.",
+        "B": "Due to the lag in the global climate system's response to current and past emissions.",
+        "C": "Because no significant policy changes are expected before 2050.",
+        "D": "Due to a lack of data on current emissions levels."
+      },
+      "answer": "B",
+      "explanation": "Page 166 states that 'because the climate system responds on a lag, physical impacts until about 2050 are largely 'baked in' by current emissions, so emissions trajectories do not matter on the timescale of the next few decades.'"
+    },
+    {
+      "question": "What are Integrated Assessment Models (IAMs)?",
+      "options": {
+        "A": "Physical climate models that simulate weather patterns.",
+        "B": "Models that assess the financial performance of individual companies.",
+        "C": "Broad-spectrum models that analyze how societal and economic choices affect each other and the natural world.",
+        "D": "Software used for calculating corporate carbon footprints."
+      },
+      "answer": "C",
+      "explanation": "Page 163 defines Integrated assessment models (IAMs) as 'broad-spectrum models designed to allow analysis of how societal and economic choices affect each other and the natural world, including the causes of climate change.'"
+    },
+    {
+      "question": "The Network for Greening the Financial System (NGFS) is composed of which types of organizations?",
+      "options": {
+        "A": "Environmental non-profits and academic institutions.",
+        "B": "Fossil fuel companies and industry lobbyists.",
+        "C": "Central banks and financial supervisors.",
+        "D": "Technology companies developing carbon capture solutions."
+      },
+      "answer": "C",
+      "explanation": "Page 161 describes the Network for Greening the Financial System (NGFS) as being 'composed of central banks and financial supervisors.'"
+    },
+    {
+      "question": "What does the NGFS 'Disorderly Transition' scenario describe?",
+      "options": {
+        "A": "An early, gradual, and constant tightening of climate policies.",
+        "B": "A future where Paris Agreement goals are abandoned entirely.",
+        "C": "Climate policies that are introduced late and abruptly, leading to higher transition risk.",
+        "D": "A transition managed perfectly by global governments with minimal economic disruption."
+      },
+      "answer": "C",
+      "explanation": "The table on page 161 defines the Disorderly Transition Scenario as one where 'Climate policies are introduced later and more abruptly from 2030. Emissions reductions are sharper, leading to higher transition risk.'"
+    },
+    {
+      "question": "In the context of corporate strategy, what is a key reason for firms to conduct and communicate scenario analysis?",
+      "options": {
+        "A": "To satisfy a legal requirement for getting a business license.",
+        "B": "To set corporate strategy and communicate it to investors and stakeholders, partly due to the influence of TCFD.",
+        "C": "To lower their corporate tax rates.",
+        "D": "To get better ratings in consumer satisfaction surveys."
+      },
+      "answer": "B",
+      "explanation": "Page 168 states, 'An important reason for firms to engage in scenario analysis is for setting corporate strategy and communicating that strategy to investors and other stakeholders. Much of the impetus for this... has come from the wide uptake of TCFD recommendations...'"
+    },
+    {
+      "question": "How is scenario analysis useful for 'Operational Risk and Resilience Planning'?",
+      "options": {
+        "A": "It helps in forecasting quarterly profits.",
+        "B": "It allows a company to assess how business would be affected if key assets were hit by climate-related shocks.",
+        "C": "It is used exclusively for marketing and public relations.",
+        "D": "It determines the annual bonuses for the executive board."
+      },
+      "answer": "B",
+      "explanation": "Page 168 explains that for operational risk, 'A company can sketch out scenarios where its crucial operational or supply chain assets are hit by transition or physical risk-related shocks... and then assess how materially this would affect the business.'"
+    },
+    {
+      "question": "What is a 'climate stress test' in the financial sector?",
+      "options": {
+        "A": "A physical fitness test for employees working in hot climates.",
+        "B": "A test of a financial institution's IT systems against cyberattacks.",
+        "C": "Modeling the reaction of a financial institution's balance sheets to a hypothetical climate-related shock.",
+        "D": "A public debate about the reality of climate change."
+      },
+      "answer": "C",
+      "explanation": "Page 155 defines stress tests in this context: 'Stress tests, which model the reaction of both a financial system as a whole and an individual institutions' balance sheets to a hypothetical shock, rely on scenario analysis...'"
+    },
+    {
+      "question": "The methodology called PACTA, developed by 2 Degrees Investing Initiative, is designed to assess what?",
+      "options": {
+        "A": "The physical risk to a bank's real estate holdings from sea-level rise.",
+        "B": "The alignment of a bank's corporate loan book with various climate scenarios.",
+        "C": "The carbon footprint of a bank's own operations (e.g., electricity use in offices).",
+        "D": "The gender diversity on the boards of a bank's clients."
+      },
+      "answer": "B",
+      "explanation": "Page 165 explains that the PACTA for Banks tool 'compares economic units of output (e.g., tons of steel, MWh of electricity) to different climate change scenarios, allowing the bank to know which climate pathway its clients are on.'"
+    },
+    {
+      "question": "In the Ortec Finance case study on physical risks, when did the projected flood damages for New York City show a major divergence between a 'Paris compliant' and a 'failed transition' scenario?",
+      "options": {
+        "A": "Immediately, with a large difference in 2030.",
+        "B": "The difference was moderate in 2050 but diverged markedly by 2100.",
+        "C": "The damages were identical in all scenarios.",
+        "D": "The 'Paris compliant' scenario showed higher damages than the 'failed transition' scenario."
+      },
+      "answer": "B",
+      "explanation": "The case study on page 167 states, 'The difference between the two is somewhat greater in 2050, but... when the outlook is extended to the end of the century, differences between scenarios diverge markedly.' The chart shows a much larger gap in the later years."
+    },
+    {
+      "question": "The case study of the US-based bank Citi focused on which type of risk assessment?",
+      "options": {
+        "A": "Transition risk in its energy lending portfolio.",
+        "B": "Operational and physical risk from extreme weather on two of its large employee centers.",
+        "C": "Liability risk from its investment banking clients.",
+        "D": "Market risk due to fluctuations in carbon prices."
+      },
+      "answer": "B",
+      "explanation": "Page 170 describes the Citi case study: 'Citi conducted an operational/physical risk scenario assessment exercise focusing on the impact of extreme weather events on two large employee centers in the United States, in Tampa, Florida, and New York City.'"
+    },
+    {
+      "question": "In the BHP Billiton scenario analysis, what does the 'Central Energy View' scenario represent?",
+      "options": {
+        "A": "A pathway aligned with the Paris Agreement's 1.5°C goal.",
+        "B": "An outcome reflecting existing policy trends, tracking to an approximately 3°C temperature increase.",
+        "C": "An extremely steep and rapid decarbonization trajectory following a climate crisis.",
+        "D": "A scenario with accelerated decarbonization tracking to approximately 2.5°C."
+      },
+      "answer": "B",
+      "explanation": "Page 169 defines the 'Central Energy View' as a scenario that 'reflects existing policy trends and commitments, and tracks to approximately 3°C temperature increase above pre-industrial levels by 2100.'"
+    },
+    {
+      "question": "According to the HSBC case study, why might the power generation sector perform better under a 'disorderly' transition scenario compared to an 'orderly' one?",
+      "options": {
+        "A": "An orderly transition would eliminate the need for electricity.",
+        "B": "A disorderly, abrupt transition would increase electricity demand and prices.",
+        "C": "Disorderly transitions favor coal-based producers.",
+        "D": "Orderly transitions have higher carbon taxes for the power sector."
+      },
+      "answer": "B",
+      "explanation": "Page 171 explains, '...the sector is actually expected to perform better in a disorderly transition scenario, as opposed to an orderly one, due to a disorderly, abrupt transition increasing electricity demand and prices.'"
+    },
+    {
+      "question": "What is 'radiative forcing'?",
+      "options": {
+        "A": "The force of solar winds on the Earth's atmosphere.",
+        "B": "The difference between incoming solar energy and outgoing energy radiated by Earth.",
+        "C": "The amount of radiation emitted by nuclear power plants.",
+        "D": "The political pressure to adopt renewable energy policies."
+      },
+      "answer": "B",
+      "explanation": "Page 156 defines radiative forcing as 'the difference between incoming energy emitted by the Sun and outgoing energy emitted by Earth.'"
+    },
+    {
+      "question": "Which RCP is often used as a shorthand for a scenario that aligns with the Paris Agreement goal of limiting warming to below 2°C?",
+      "options": {
+        "A": "RCP 8.5",
+        "B": "RCP 6.0",
+        "C": "RCP 4.5",
+        "D": "RCP 2.6"
+      },
+      "answer": "D",
+      "explanation": "Page 156 states, 'RCP 2.6 is used as a shorthand for reaching Paris goals (of limiting warming to below 2°C) by drastically cutting emissions.'"
+    },
+    {
+      "question": "The SSP scenarios range from SSP-1 to SSP-5. Which one sketches out a scenario with a significant focus on sustainability?",
+      "options": {
+        "A": "SSP-5 (Fossil-fuel development)",
+        "B": "SSP-3 (Regional rivalry)",
+        "C": "SSP-1 (Sustainability)",
+        "D": "SSP-2 ('Business as usual')"
+      },
+      "answer": "C",
+      "explanation": "Page 157 describes the five SSP scenarios, noting that 'SSP-1 sketches out a scenario of significant focus on sustainability.'"
+    },
+    {
+      "question": "For what has the International Energy Agency (IEA) been historically criticized regarding its annual 'World Energy Outlook'?",
+      "options": {
+        "A": "Consistently overestimating the growth of solar photovoltaic capacity.",
+        "B": "Focusing too much on nuclear power and ignoring fossil fuels.",
+        "C": "Its perceived excess caution and friendliness toward the fossil-fuel sector, and underestimating renewables growth.",
+        "D": "Publishing its reports too infrequently."
+      },
+      "answer": "C",
+      "explanation": "Page 159 mentions that the IEA 'has been criticized in the past for its perceived excess caution and friendliness toward the fossil-fuel sector. For instance, for well over a decade, the IEA forecasts on renewable energy uptake have consistently underestimated their growth.'"
+    },
+    {
+      "question": "What is the conceptual trade-off between physical and transition risk shown in Figure 7.6?",
+      "options": {
+        "A": "Scenarios with high physical risk also have high transition risk.",
+        "B": "Both risks can be completely eliminated with proper planning.",
+        "C": "Scenarios with drastic emissions cuts (high transition risk) are expected to have lower long-term physical risk.",
+        "D": "Transition risk is always higher than physical risk, regardless of the scenario."
+      },
+      "answer": "C",
+      "explanation": "Figure 7.6 on page 162 illustrates a spectrum where drastic emissions cuts (e.g., 1.5-2°C outcomes) involve high transition risk but moderate physical risk. Conversely, continued rising emissions (e.g., >6°C outcome) entail high physical risk."
+    },
+    {
+      "question": "What is a key difference in the timeline of impacts between transition risk and physical risk?",
+      "options": {
+        "A": "Physical risk impacts are immediate, while transition risk impacts only occur after 2100.",
+        "B": "Transition risk from policy changes can have significant impacts on short timescales, whereas major differences in physical risk between scenarios manifest on longer timescales (post-2050).",
+        "C": "Both risks manifest on exactly the same timescale.",
+        "D": "Transition risk has a lag of several decades, while physical risk does not."
+      },
+      "answer": "B",
+      "explanation": "Page 154 explains, 'For physical risk, emissions trajectories only make a difference on very long timescales, whereas for transition risk, emissions trajectories make a very significant difference even on short timescales.'"
+    },
+    {
+      "question": "What are sector decarbonization pathways primarily used for?",
+      "options": {
+        "A": "Gauging the physical risk of flooding for a specific factory.",
+        "B": "Gauging the transition risk for firms in a particular industry by providing a compatible emissions trajectory.",
+        "C": "Setting international trade tariffs.",
+        "D": "Analyzing demographic and population trends."
+      },
+      "answer": "B",
+      "explanation": "Page 163 states, 'For most sectors... sector decarbonization pathways are a highly useful way of gauging transition risk.' They are constructed to be compatible with targets like the Paris Agreement."
+    },
+    {
+      "question": "Pathways from organizations like the NGFS and IEA that start with a global goal and allocate emissions across regions and sectors are examples of what kind of approach?",
+      "options": {
+        "A": "Bottom-up",
+        "B": "Top-down",
+        "C": "Laissez-faire",
+        "D": "Historical"
+      },
+      "answer": "B",
+      "explanation": "Figure 7.7 on page 164 defines the 'Top-down' philosophy as 'Work backwards from net Zero globally' and 'Allocate emissions across sectors and regions,' listing NGFS and IEA as examples."
+    },
+    {
+      "question": "Which of the following is an example of a 'bottom-up' pathway philosophy?",
+      "options": {
+        "A": "Starting with a global carbon budget and allocating it to countries.",
+        "B": "Working forwards from where a sector is today, focusing on commercially feasible and scalable actions.",
+        "C": "Ignoring technology and focusing only on macroeconomic trends.",
+        "D": "Assuming a single global policy that applies to all sectors equally."
+      },
+      "answer": "B",
+      "explanation": "Figure 7.7 on page 164 defines the 'Bottom-up' philosophy as 'Work forwards from where the sector is today' and 'Focus on commercially feasible, scalable action,' listing WBCSD and MPP as examples."
+    },
+    {
+      "question": "Why is it often more useful for physical risk scenario analysis to be based on plausible events rather than global emissions trajectories for near-term planning (e.g., through 2050)?",
+      "options": {
+        "A": "Global emissions trajectories are a state secret and not available.",
+        "B": "Because physical impacts are largely 'baked in' for the next few decades, making operational preparedness for plausible events more practical.",
+        "C": "Physical events like floods and storms are not related to climate change.",
+        "D": "It is impossible to model the physical impacts of different emissions trajectories."
+      },
+      "answer": "B",
+      "explanation": "Page 166 explains that because of the lag in the climate system and the baked-in warming, 'a completely different sort of scenario analysis is sometimes more useful for physical risk—one not driven by global or sector emissions trajectories but an exercise in operational preparedness based on plausible future events.'"
+    },
+    {
+      "question": "In its 2020 TCFD report, Citi concluded what about its operational resilience after analyzing severe hurricane scenarios?",
+      "options": {
+        "A": "A severe hurricane would bankrupt the company.",
+        "B": "There would not be a material impact on operational resilience, citing the success of work-from-home during the COVID-19 pandemic.",
+        "C": "It needed to immediately move its headquarters out of New York City.",
+        "D": "Climate change poses no physical risk to its operations."
+      },
+      "answer": "B",
+      "explanation": "Page 170 summarizes Citi's conclusion: 'Nonetheless, Citi concluded that there would 'not[be]a material impact to our operational resilience.' In particular, the bank cited the successful example of temporary work-from-home arrangements during the COVID-19 pandemic...'"
+    },
+    {
+      "question": "What is meant by 'ex-ante integration' of climate scenarios into investment processes?",
+      "options": {
+        "A": "Analyzing climate risk in a portfolio only after a major loss has occurred.",
+        "B": "Excluding all energy stocks from a portfolio.",
+        "C": "Proactively using scenario analysis as part of the toolkit for making investment decisions.",
+        "D": "A type of financial analysis that is now prohibited."
+      },
+      "answer": "C",
+      "explanation": "Page 170 describes 'ex-ante integration' as a 'more proactive use of scenarios in investment decision-making,' which 'can potentially preempt undue exposure to climate risk.'"
+    },
+    {
+      "question": "The concept of scenario analysis, as applied to corporations and strategic planning, originated in which decade?",
+      "options": {
+        "A": "1990s",
+        "B": "2010s",
+        "C": "1950s",
+        "D": "1920s"
+      },
+      "answer": "C",
+      "explanation": "Page 153 states, 'The concept originated in academic research in the 1950s and is often credited to Herman Kahn... Scenario analysis spread quickly beyond academic circles to corporations...'"
+    },
+    {
+      "question": "According to TCFD recommendations, which is NOT a required characteristic of a good scenario?",
+      "options": {
+        "A": "Plausible",
+        "B": "Guaranteed to be correct",
+        "C": "Relevant",
+        "D": "Consistent"
+      },
+      "answer": "B",
+      "explanation": "Page 154 lists the TCFD's scenario characteristics: Plausible, Distinctive, Consistent, Relevant, and Challenging. It explicitly is not about predicting the future accurately."
+    },
+    {
+      "question": "Why is it necessary to have carbon capture and sequestration capacity to achieve net-zero?",
+      "options": {
+        "A": "Because it is the cheapest form of energy.",
+        "B": "Because some sectors, like agriculture and aviation, will have residual emissions that are nearly impossible to stop.",
+        "C": "Because it is the only way to produce electricity.",
+        "D": "Because all scenarios assume a complete failure to reduce emissions from sources."
+      },
+      "answer": "B",
+      "explanation": "Page 155 explains, 'We need the capacity to capture and sequester carbon because some sectors, such as agriculture, will have residual emissions that are nearly impossible to stop. There are also sectors like aviation where we do not yet have viable zero carbon alternatives.'"
+    },
+    {
+      "question": "The combination of SSPs and RCPs allows for a matrix-type analysis. What does comparing different rows in this matrix (different RCPs for the same SSP) allow you to do?",
+      "options": {
+        "A": "Compare different socioeconomic situations under the same climate policy.",
+        "B": "Compare different levels of climate policy stringency for the same baseline socioeconomic situation.",
+        "C": "Compare the climate in different geographic regions.",
+        "D": "Compare the effectiveness of different climate models."
+      },
+      "answer": "B",
+      "explanation": "Page 157 explains the matrix format: 'To compare matrix rows is to compare different levels of climate policy stringency (as rows are different RCPs).'"
+    },
+    {
+      "question": "What does the IEA's 'Stated Policies Scenario' (STEPS) reflect?",
+      "options": {
+        "A": "An ambitious pathway to achieving net-zero by 2050.",
+        "B": "The impact of existing policy frameworks and announced policy intentions.",
+        "C": "A worst-case scenario with no climate policies at all.",
+        "D": "A scenario focused only on social targets, ignoring climate."
+      },
+      "answer": "B",
+      "explanation": "The table on page 161 describes the STEPS scenario as reflecting 'the impact of existing policy framework and announced policy intentions to show how current policy ambitions affect the energy sector through 2040.'"
+    },
+    {
+      "question": "According to the IEA's Net Zero pathway (Figure 7.5), what milestone is targeted for 2030?",
+      "options": {
+        "A": "No new sales of fossil fuel boilers.",
+        "B": "60% of global car sales are electric.",
+        "C": "50% of existing buildings are retrofitted to zero-carbon-ready levels.",
+        "D": "Almost 70% of electricity generation is from solar PV and wind."
+      },
+      "answer": "B",
+      "explanation": "The 'Key milestones in the pathway to net zero' chart on page 160 clearly lists '60% of global car sales are electric' under the 2030 column."
+    },
+    {
+      "question": "Which NGFS reference scenario leads to over 3°C of warming and significant physical risks by not meeting Paris goals?",
+      "options": {
+        "A": "Orderly Scenario",
+        "B": "Disorderly Transition Scenario",
+        "C": "Hothouse Earth Scenario",
+        "D": "Net Zero 2050 Scenario"
+      },
+      "answer": "C",
+      "explanation": "The table on page 161 describes the 'Hothouse Earth Scenario' as one where 'Current policies are preserved, and Paris goals are not met... leading to more than 3°C of warming and significant physical risks.'"
+    },
+    {
+      "question": "A key analytical choice in scenario analysis involves the 'Timescale'. Which timescale is noted as being relevant only for long-term infrastructure?",
+      "options": {
+        "A": "2030",
+        "B": "2050",
+        "C": "2100",
+        "D": "Next year"
+      },
+      "answer": "C",
+      "explanation": "Table 7.3 on page 163 lists 'Timescale—2030, 2050, 2100' as an analytical choice, and adds a note: '[2100 only relevant for long-term infrastructure].'"
+    },
+    {
+      "question": "What kind of analysis is the Transition Pathway Initiative (TPI) known for?",
+      "options": {
+        "A": "Conducting physical risk assessments on infrastructure projects.",
+        "B": "Grading publicly listed companies on their level of alignment with Paris-compliant sector trajectories.",
+        "C": "Developing new IPCC climate scenarios from scratch.",
+        "D": "Lobbying governments to abandon climate policies."
+      },
+      "answer": "B",
+      "explanation": "Page 163 mentions the Transition Pathway Initiative as an external body that 'grades publicly listed companies on their level of alignment with various scenarios.'"
+    },
+    {
+      "question": "What is an example of a physical risk-related business disruption cited in the text?",
+      "options": {
+        "A": "A stock market crash.",
+        "B": "The 2011 Thai floods disrupting semiconductor production.",
+        "C": "A sudden hike in carbon taxes.",
+        "D": "The invention of a new renewable energy technology."
+      },
+      "answer": "B",
+      "explanation": "Page 168 provides several examples of climate-linked business disruption, including 'the 2011 Thai floods or 2020-2021 Taiwanese drought, both of which disrupted semiconductor production...'"
+    },
+    {
+      "question": "Asset manager Abrdn (formerly Aberdeen Standard) stated its intention to integrate scenario analysis into its investment activities. Which of the following is one of the ways it planned to do this?",
+      "options": {
+        "A": "By ignoring climate risks in its stock selection.",
+        "B": "By embedding scenario analysis into its stewardship and engagement with companies.",
+        "C": "By exclusively investing in fossil fuel companies.",
+        "D": "By ceasing all communication with its clients about climate change."
+      },
+      "answer": "B",
+      "explanation": "Page 172 lists Abrdn's intentions, including 'b. Embedding scenario analysis into our approach to stewardship. Where material climate risks are identified, we will engage with companies...'"
+    },
+    {
+      "question": "What is 'climate system sensitivity', listed as a parameter/assumption in Table 7.3?",
+      "options": {
+        "A": "The sensitivity of financial markets to climate news.",
+        "B": "The political sensitivity of discussing climate change.",
+        "C": "The response of the climate to a given amount of CO2.",
+        "D": "The sensitivity of a building's structure to extreme weather."
+      },
+      "answer": "C",
+      "explanation": "Table 7.3 on page 163 defines 'Climate system sensitivity' as 'such as the response of climate to a given amount of CO2.'"
+    },
+    {
+      "question": "In the HSBC heat map for transition risk (Figure 7.10), which sector shows a 'smaller impact in Disorderly scenario than Orderly'?",
+      "options": {
+        "A": "Chemicals",
+        "B": "Oil and gas (Upstream)",
+        "C": "Automotive (OEM)",
+        "D": "Construction and building materials"
+      },
+      "answer": "C",
+      "explanation": "The heat map on page 171 has a specific note for the Automotive sector: 'Smaller impact in Disorderly scenario than Orderly as total vehicle sales are higher due to significant EV adoption.'"
+    },
+    {
+      "question": "What does physical risk analysis always start at, according to the text?",
+      "options": {
+        "A": "The global macroeconomic level.",
+        "B": "The national policy level.",
+        "C": "The facility level.",
+        "D": "The sector benchmark level."
+      },
+      "answer": "C",
+      "explanation": "Page 166 makes a key distinction: 'Another important difference that makes physical risk scenario planning very distinct from transition risk is that physical risk always starts at the facility level. Physical impacts affect specific processes and sites...'"
+    },
+    {
+      "question": "What is the primary output metric used by the PACTA methodology for sectors like steel and cement that lack clear decarbonization pathways?",
+      "options": {
+        "A": "Production Volume Trajectory",
+        "B": "Technology/Fuel Mix",
+        "C": "Emissions Intensity",
+        "D": "Absolute Emissions"
+      },
+      "answer": "C",
+      "explanation": "Page 165 explains, 'For sectors without clear decarbonization pathways as yet, such as steel and cement, the methodology instead uses the measure of emissions intensity.'"
+    },
+    {
+      "question": "What type of financial instrument was launched by Legal and General Investment Management (LGIM) linked to a Transition Pathway Initiative (TPI) index?",
+      "options": {
+        "A": "A cryptocurrency",
+        "B": "A high-risk hedge fund",
+        "C": "An index-tracking fund",
+        "D": "A corporate bond"
+      },
+      "answer": "C",
+      "explanation": "Page 164 mentions that 'Legal and General Investment Management (LGIM), launched the first index-tracking fund linked to one of these TPI indices in December 2020.'"
+    },
+    {
+      "question": "Which of these is NOT one of the five climate-critical sectors covered by PACTA for Banks?",
+      "options": {
+        "A": "Power",
+        "B": "Automotive",
+        "C": "Information Technology",
+        "D": "Fossil Fuels"
+      },
+      "answer": "C",
+      "explanation": "Page 165 lists the five sectors covered by PACTA for Banks: 'Power, Fossil Fuels, Automotive, Steel, and Cement.'"
+    },
+    {
+      "question": "According to the document, Shell's own climate scenarios, like 'Sky 1.5', have been noted to differ from IPCC or IEA scenarios in what way?",
+      "options": {
+        "A": "They assume a much faster phase-out of all fossil fuels.",
+        "B": "They assume a much larger continuing role for oil & gas through 2100.",
+        "C": "They do not believe climate change is happening.",
+        "D": "They are identical to the IPCC's RCP 2.6 scenario."
+      },
+      "answer": "B",
+      "explanation": "Page 165 notes, 'Perhaps unsurprisingly, both 'Sky 1.5'... assume a much larger continuing role for oil & gas through 2100 than do scenarios drawn up by neutral bodies such as the IPCC or IEA...'"
+    },
+    {
+      "question": "The case study about the 2019 European heatwaves mentions that production was paused at BASF chemical plants for what reason?",
+      "options": {
+        "A": "The heat caused the chemical reactions to become unstable.",
+        "B": "Workers were not able to come to the plants due to travel disruptions.",
+        "C": "The inability to transport materials by barge on the Rhine due to historically low water levels.",
+        "D": "There was a lack of electricity to power the plants."
+      },
+      "answer": "C",
+      "explanation": "Page 168 cites the 2019 European heatwaves and drought, which 'forced production pauses in certain German industries, including at BASF chemical plants, due to the inability to transport materials by barge on the Rhine with its historically low water levels.'"
+    },
+    {
+      "question": "What is the name of the in-house model used by Ortec Finance to project extreme weather risk?",
+      "options": {
+        "A": "ClimateValue",
+        "B": "WeatherSure",
+        "C": "ClimatePREDICT",
+        "D": "RiskHorizon"
+      },
+      "answer": "C",
+      "explanation": "Page 167 introduces the case study: 'Ortec Finance, a consulting firm, has an in-house model called ClimatePREDICT specializing in projecting extreme weather risk on decadal timescales.'"
+    },
+    {
+      "question": "In the BHP Billiton analysis, which scenario is aligned with the goals of the Paris Agreement?",
+      "options": {
+        "A": "Central Energy View",
+        "B": "Lower Carbon View",
+        "C": "Climate Crisis scenario",
+        "D": "1.5 °C scenario"
+      },
+      "answer": "D",
+      "explanation": "Page 169 defines the '1.5 °C scenario' as the one 'which aligns with the goals of the Paris Agreement and requires steep global annual emissions reductions...'"
+    },
+    {
+      "question": "What significant event in May 2021 is cited as a 'vivid example' of investors taking action against companies not making credible climate plans?",
+      "options": {
+        "A": "The COP26 climate summit in Glasgow.",
+        "B": "The publication of the IEA Net-Zero by 2050 report.",
+        "C": "An investor campaign, led by Engine No 1, placing two independent directors on the board of ExxonMobil.",
+        "D": "The signing of the Paris Agreement."
+      },
+      "answer": "C",
+      "explanation": "Page 168 highlights this event: 'A vivid example occurred in May 2021, when an investor campaign, spearheaded by an activist hedge fund, Engine No 1, voted to place two independent directors on the board of ExxonMobil... against management's wishes.'"
+    },
+    {
+      "question": "What is the title of Chapter 7?",
+      "options": {
+        "A": "Introduction to Climate Science",
+        "B": "Climate Policy and Regulation",
+        "C": "Financial Risk Management",
+        "D": "Climate Models and Scenario Analysis"
+      },
+      "answer": "D",
+      "explanation": "The title is prominently displayed on the first page (page 151) of the provided document."
+    },
+    {
+      "question": "Which of the following organizations is NOT mentioned as a provider of reference scenarios?",
+      "options": {
+        "A": "IEA",
+        "B": "IRENA",
+        "C": "NASA",
+        "D": "NGFS"
+      },
+      "answer": "C",
+      "explanation": "Page 152 lists important providers of reference scenarios: 'the International Energy Agency (IEA), Greenpeace, IRENA, and the NGFS.' NASA is not mentioned in this context."
+    },
+    {
+      "question": "Which RCP corresponds to a temperature rise of approximately 4.3°C by 2100 with rising emissions?",
+      "options": {
+        "A": "RCP 1.9",
+        "B": "RCP 2.6",
+        "C": "RCP 4.5",
+        "D": "RCP 8.5"
+      },
+      "answer": "D",
+      "explanation": "Table 7.1 on page 157 shows that RCP 8.5 corresponds to a rise of '~4.3°C' and has an 'Emissions Trend to 2100' of 'rising'."
+    },
+    {
+      "question": "What kind of models are used to translate emissions trajectories into physical impacts like temperature rise and precipitation changes?",
+      "options": {
+        "A": "Economic models",
+        "B": "Physical climate models",
+        "C": "Integrated assessment models",
+        "D": "Financial models"
+      },
+      "answer": "B",
+      "explanation": "Page 166 states, 'Physical climate models were originally developed to help scientists understand the functioning and operation of the Earth's climate system. Now, they are an important tool for scenario analysis on physical risk.' It also mentions trajectories being 're-inputted into models to gain an estimate of various hazards.'"
+    },
+    {
+      "question": "Which of the following is listed as a scenario 'output' in Table 7.3?",
+      "options": {
+        "A": "Carbon Price",
+        "B": "Asset valuations—how badly are assets stranded?",
+        "C": "Technology",
+        "D": "Geographic variation"
+      },
+      "answer": "B",
+      "explanation": "Table 7.3 on page 163 lists 'Asset valuations—how badly are assets stranded?' under the 'Scenario Outputs' column. The others are listed under 'Parameters/Assumptions'."
+    },
+    {
+      "question": "The REMIND model, used by banks implementing NGFS scenarios, was developed by which institute?",
+      "options": {
+        "A": "The Potsdam Institute for Climate Impact Research (PIK)",
+        "B": "Massachusetts Institute of Technology (MIT)",
+        "C": "The International Energy Agency (IEA)",
+        "D": "The Bank of England (BoE)"
+      },
+      "answer": "A",
+      "explanation": "Page 161 mentions that banks using NGFS scenarios have tended to use the REMIND model, and page 162 clarifies this model was 'developed by the Potsdam Institute for Climate Impact Research (PIK).'"
+    },
+    {
+      "question": "Which British asset manager and UK specialist firm announced the co-development of a bespoke climate risk framework called Destination@Risk?",
+      "options": {
+        "A": "HSBC and PwC",
+        "B": "Abrdn and Deloitte",
+        "C": "Legal & General Investment Management (LGIM) and Baringa Partners",
+        "D": "Schroders and EY"
+      },
+      "answer": "C",
+      "explanation": "Page 172 describes the case study: 'In October 2020, LGIM and Baringa Partners, a specialist in climate and physical risk analysis, announced the co-development of a bespoke climate risk framework, Destination@Risk.'"
+    },
+    {
+      "question": "What is the Climate Biennial Exploratory Scenario (CBES)?",
+      "options": {
+        "A": "An annual climate conference hosted by the UN.",
+        "B": "The Bank of England's climate stress test, run every other year.",
+        "C": "A climate model developed by the IPCC.",
+        "D": "A scenario for disorderly transition developed by the NGFS."
+      },
+      "answer": "B",
+      "explanation": "Page 155 mentions, 'Starting in 2021, the BoE's climate stress test, called the Climate Biennial Exploratory Scenario (CBES), will be run every other year.'"
+    },
+    {
+      "question": "According to the IEA Net-Zero pathway (Figure 7.5), by what year should there be no new Internal Combustion Engine (ICE) car sales?",
+      "options": {
+        "A": "2030",
+        "B": "2035",
+        "C": "2040",
+        "D": "2050"
+      },
+      "answer": "B",
+      "explanation": "The chart on page 160 clearly indicates 'No new ICE car sales' as a key milestone for the year 2035."
+    },
+    {
+      "question": "What does SSP3, 'Regional Rivalry', assume, making high-mitigation scenarios not feasible under it?",
+      "options": {
+        "A": "A world focused on global sustainability and cooperation.",
+        "B": "A world with rapid technological progress and high economic growth.",
+        "C": "A fragmented world with a resurgence of nationalism and concern for national security.",
+        "D": "A world with high inequality between and within states."
+      },
+      "answer": "C",
+      "explanation": "Page 157 mentions that 'SSP-3 involves regional rivalry between countries' and that under these assumptions, 'a high-mitigation scenario is not feasible.'"
+    },
+    {
+      "question": "The text states that for physical risk, examining facility-level risk requires detailed data on three components. Which of the following is NOT one of them?",
+      "options": {
+        "A": "Hazards",
+        "B": "Exposure",
+        "C": "Vulnerability",
+        "D": "Profitability"
+      },
+      "answer": "D",
+      "explanation": "Page 166 states, '...examining facility-level physical risk requires having detailed data on hazards, exposure, and vulnerability, including adaptive capacity...'"
+    },
+    {
+      "question": "What is the primary reason that scenario planning as pioneered by Shell was so valuable?",
+      "options": {
+        "A": "It allowed Shell to accurately predict the exact future price of oil.",
+        "B": "It ensured a firm-wide approach to preparedness for a range of plausible futures.",
+        "C": "It was used to create compelling advertising campaigns.",
+        "D": "It helped the company choose which oil fields to drill next."
+      },
+      "answer": "B",
+      "explanation": "Page 153 explains the value of Shell's approach: 'The point of the team, however, was not to predict the future accurately; its value was in ensuring a firm-wide approach to preparedness...'"
+    },
+    {
+      "question": "In the London hydrological flood risk chart from Ortec Finance (Figure 7.8), which pathway shows the highest annual losses by the end of the century?",
+      "options": {
+        "A": "PARIS/1.5°C pathway (Green)",
+        "B": "3°C pathway (Blue)",
+        "C": "FAILED/4°C pathway (Orange)",
+        "D": "No climate change (Grey)"
+      },
+      "answer": "C",
+      "explanation": "The chart for London on page 167 shows the orange line, representing the FAILED/4°C pathway, reaching the highest point on the y-axis (Annual losses) by 2090."
+    },
+    {
+      "question": "What is the primary focus of the Deep Decarbonization Pathways Project (DDPP)?",
+      "options": {
+        "A": "Global macroeconomic scenarios.",
+        "B": "Country-level pathways for emissions reductions consistent with a 2°C goal.",
+        "C": "Short-term energy price forecasting.",
+        "D": "Physical risk modeling for the insurance industry."
+      },
+      "answer": "B",
+      "explanation": "The table on page 161 describes the DDPP Initiative as providing 'Country-level pathways for emissions reductions that are consistent with a global 2°C goal.'"
+    },
+    {
+      "question": "According to the TCFD, a key feature of scenarios is that they should challenge what?",
+      "options": {
+        "A": "The laws of physics.",
+        "B": "Conventional wisdom and 'business-as-usual' assumptions.",
+        "C": "The authority of corporate management.",
+        "D": "The accuracy of historical financial statements."
+      },
+      "answer": "B",
+      "explanation": "Page 154 states, 'A key feature of scenarios is that scenarios should challenge conventional wisdom about the future... [and] explore alternatives that may significantly alter the basis for 'business-as-usual' assumptions.'"
+    },
+    {
+      "question": "What year did the 'old' RCPs start, and what year did the 'new' SSP-RCP pathways start, according to Figure 7.2?",
+      "options": {
+        "A": "Old started in 1990, new started in 2000.",
+        "B": "Old started in 2000, new started in 2010.",
+        "C": "Old started in 2007, new started in 2014.",
+        "D": "Old started in 2014, new started in 2021."
+      },
+      "answer": "C",
+      "explanation": "The caption for Figure 7.2 on page 158 explains, 'Also, the old RCPs started in 2007, and the new pathways start in 2014.'"
+    },
+    {
+      "question": "Which of these institutions is a French think-tank that runs the Deep Decarbonization Pathways Project (DDPP)?",
+      "options": {
+        "A": "Banque de France",
+        "B": "Potsdam Institute for Climate Impact Research",
+        "C": "Institute for Sustainable Development",
+        "D": "International Energy Agency"
+      },
+      "answer": "C",
+      "explanation": "Page 161 mentions 'the sector-specific scenarios of the Deep Decarbonization Pathways Project (DDPP), run out of the Institute for Sustainable Development, a French think-tank.'"
+    },
+    {
+      "question": "For transition risk analysis, what does the 'Technology/Fuel Mix' metric used by PACTA measure?",
+      "options": {
+        "A": "The absolute volume of a client's production.",
+        "B": "The emissions intensity of a client's operations.",
+        "C": "The sectoral technology/fuel mix of a loan book (e.g., % of auto production that is EV).",
+        "D": "The number of patents a client holds for new technologies."
+      },
+      "answer": "C",
+      "explanation": "Page 165 defines 'Technology/Fuel Mix' as the metric showing 'the sectoral technology/fuel mix of a loan book and/or client (e.g., what percentage of automobile production a bank finances that is related to electric vehicles...).'"
+    },
+    {
+      "question": "What is the key difference between climate models and Integrated Assessment Models (IAMs) as described in Question 7.7?",
+      "options": {
+        "A": "Climate models are based on physical science, whereas IAMs are only grounded in economic theory.",
+        "B": "There is no difference; they are the same thing.",
+        "C": "Climate models model the physical climate, while IAMs model social and economic factors and their interactions.",
+        "D": "IAMs are a type of climate model."
+      },
+      "answer": "A",
+      "explanation": "Based on the provided Q&A (page 173 and 175, Q7.7, answer A) and the text (p.163, 166), climate models focus on physical processes, while IAMs are 'most heavily rooted in economics and economic models.'"
+    },
+    {
+      "question": "The scenario analysis approach is flexible enough to draw together what in one approach?",
+      "options": {
+        "A": "Only financial risks.",
+        "B": "Only environmental issues.",
+        "C": "Nearly all the relevant issues, risks, and their interrelationships.",
+        "D": "Only the opinions of the CEO."
+      },
+      "answer": "C",
+      "explanation": "Page 153 states that 'Scenario analysis is flexible enough to draw together nearly all the relevant issues, risks, and their interrelationships in one approach...'"
+    },
+    {
+      "question": "In the HSBC transition risk case study, which sub-sector has higher carbon costs that outweigh the benefit from GDP growth in a Disorderly scenario?",
+      "options": {
+        "A": "Automotive (OEM)",
+        "B": "Power and utilities (PowerGen)",
+        "C": "Chemicals",
+        "D": "Construction and building materials"
+      },
+      "answer": "C",
+      "explanation": "The heatmap graphic on page 171 includes a note for the Chemicals sector: 'Large impact in Disorderly scenario as higher carbon costs outweigh the benefit from GDP growth.'"
+    },
+    {
+      "question": "What does IRENA's 1.5°C Scenario describe?",
+      "options": {
+        "A": "A scenario based only on governments' current energy plans.",
+        "B": "A pathway aligned with net-zero emissions by 2050, maintaining warming below 1.5°C.",
+        "C": "A hothouse earth scenario with unabated emissions.",
+        "D": "A sector-specific pathway for the steel industry."
+      },
+      "answer": "B",
+      "explanation": "The table on page 161 describes IRENA's 1.5°C Scenario as 'A pathway aligned with net-zero emissions by 2050 and thus with maintaining warming below 1.5°C.'"
+    },
+    {
+      "question": "Which of these is NOT a 'Learning Objective' listed at the beginning of the chapter?",
+      "options": {
+        "A": "Define climate scenario analysis and explain how organizations use scenario analysis.",
+        "B": "Understand IPCC scenarios and associated RCPs and SSPs.",
+        "C": "Develop and code a new physical climate model from scratch.",
+        "D": "Describe how financial firms use climate scenario analysis for investment processes."
+      },
+      "answer": "C",
+      "explanation": "Page 151 lists the learning objectives. They focus on defining, explaining, understanding, and describing existing concepts and their uses, not on creating new models."
+    },
+    {
+      "question": "The IEA 'Sustainable Development Scenario' (SDS) aligns with what temperature goal?",
+      "options": {
+        "A": "Holding temperature rise to below 1.8°C with a 66% probability.",
+        "B": "Allowing temperature rise to exceed 3°C.",
+        "C": "A strict 1.5°C limit with no overshoot.",
+        "D": "It is not aligned with any specific temperature goal."
+      },
+      "answer": "A",
+      "explanation": "The table on page 161 describes the SDS as 'fully aligned with Paris agreement goals, and it holds global temperature rise to below 1.8°C with a 66% probability...'"
+    },
+    {
+      "question": "For what reason does the document state that firms like large fossil fuel and commodity firms might build their own bottom-up global models?",
+      "options": {
+        "A": "Because it is a regulatory requirement for them.",
+        "B": "Because their fortunes are closely tied to global changes in the energy mix.",
+        "C": "Because the IPCC and IEA scenarios are not publicly available.",
+        "D": "Because it is cheaper than using existing reference scenarios."
+      },
+      "answer": "B",
+      "explanation": "Page 165 explains that building original bottom-up models 'typically only makes sense for large fossil fuel and commodity firms whose fortunes are closely tied to global changes in the energy mix.'"
+    },
+    {
+      "question": "What is the source of the chart in Figure 7.3, 'Matching SSPs and RCPs Shared Socioeconomic Pathways'?",
+      "options": {
+        "A": "The Intergovernmental Panel on Climate Change (IPCC)",
+        "B": "The International Energy Agency (IEA)",
+        "C": "The Potsdam Institute for Climate Impact Research",
+        "D": "Carbon Brief"
+      },
+      "answer": "C",
+      "explanation": "The citation for Figure 7.3 on page 159 reads: 'Reprinted from Senses(2020), Climate Change Scenario Primer with permission of the Potsdam Institute for Climate Impact Research.'"
+    },
+    {
+      "question": "According to the chapter, why must stakeholders continue to advance and refine scenario analysis?",
+      "options": {
+        "A": "Because the climate has stopped changing, so new analysis is needed.",
+        "B": "Because current models are perfect and need no improvement.",
+        "C": "Because there is not yet broad alignment or the data fidelity necessary for consistent analysis across organizations.",
+        "D": "Because regulators have banned the use of current scenarios."
+      },
+      "answer": "C",
+      "explanation": "The conclusion on page 172 notes, 'We must also be cognizant that there is not broad alignment nor the data fidelity necessary for consistent scenario analysis across companies and organizations. Over time, all stakeholders will need to continue to advance and refine the analysis...'"
+    },
+    {
+      "question": "According to the text, which two central banks are mentioned, along with the BoE and ECB, as implementing climate stress tests?",
+      "options": {
+        "A": "The US Federal Reserve and the Bank of Japan",
+        "B": "The Banque de France and the Nederlandsche Bank (the Dutch central bank)",
+        "C": "The People's Bank of China and the Reserve Bank of India",
+        "D": "The Swiss National Bank and the Bank of Canada"
+      },
+      "answer": "B",
+      "explanation": "Page 155 states: 'The Bank of England (BoE), the Banque de France, and the Nederlandsche Bank (the Dutch central bank), as well as the European Central Bank are at various stages of implementing climate stress tests...'"
+    },
+    {
+      "question": "What milestone related to buildings is part of the IEA's Net-Zero pathway for 2050?",
+      "options": {
+        "A": "All new buildings are zero-carbon-ready.",
+        "B": "More than 85% of buildings are zero-carbon-ready.",
+        "C": "50% of existing buildings retrofitted to zero-carbon-ready levels.",
+        "D": "All buildings are demolished and rebuilt."
+      },
+      "answer": "B",
+      "explanation": "The chart 'Key milestones in the pathway to net zero' on page 160 lists 'More than 85% of buildings are zero-carbon-ready' under the 2050 column."
+    },
+    {
+      "question": "According to the chapter's Key Learning Points, the physical impacts of climate change are projected to be relatively similar between now and what year under any plausible emissions trajectory?",
+      "options": {
+        "A": "2030",
+        "B": "2040",
+        "C": "2050",
+        "D": "2100"
+      },
+      "answer": "C",
+      "explanation": "Page 152 summarizes in the Key Learning Points: 'The physical impacts of climate change are projected to be relatively similar between now and 2050 under any plausible emissions trajectory...'"
+    },
+    {
+      "question": "What is the title of the case study on page 171?",
+      "options": {
+        "A": "CASE STUDY: SCENARIO ANALYSIS FOR PHYSICAL CLIMATE EFFECTS ON OPERATIONS-CITI",
+        "B": "CASE STUDY: VERY LONG-HORIZON PORTFOLIO PHYSICAL RISKS-ORTEC FINANCE",
+        "C": "CASE STUDY ON USE OF SCENARIOS FOR TRANSITION RISK: HSBC",
+        "D": "CASE STUDIES: INTEGRATION OF SCENARIO ANALYSIS INTO ASSET MANAGEMENT"
+      },
+      "answer": "C",
+      "explanation": "The title at the top of page 171 is 'CASE STUDY ON USE OF SCENARIOS FOR TRANSITION RISK: HSBC'."
+    },
+    {
+      "question": "Which of these sectors is NOT one of the six high-transition risk sectors examined in the HSBC case study?",
+      "options": {
+        "A": "Automotive",
+        "B": "Oil & gas",
+        "C": "Utilities",
+        "D": "Healthcare"
+      },
+      "answer": "D",
+      "explanation": "Page 171 lists the sectors examined by HSBC: 'automotive, construction, chemicals, metals and mining, oil & gas, and utilities.' Healthcare is not mentioned."
+    },
+    {
+      "question": "In what way is physical risk analysis for a financial firm different from transition risk analysis in terms of sector coverage?",
+      "options": {
+        "A": "Physical risk only affects the energy sector, while transition risk affects all sectors.",
+        "B": "For transition risk, a firm can focus on a few key emissions-intensive sectors, while for physical risk, all sectors and a wide range of assets are potentially affected.",
+        "C": "Both types of analysis are only ever applied to the technology sector.",
+        "D": "There is no difference in sector coverage."
+      },
+      "answer": "B",
+      "explanation": "Page 166 explains that for transition risk, 'even financial firms can use emissions data for just a few key emissions-intensive sectors to get an estimate of portfolio alignment. Meanwhile, for physical risk, all sectors and a wide range of assets and facilities are potentially affected.'"
+    },
+    {
+      "question": "The Glasgow Financial Alliance for Net Zero (GFANZ) is the source for which table in the chapter?",
+      "options": {
+        "A": "Table 7.1 PRE-2021 RCPS",
+        "B": "Table 7.2 Summary of Reference Scenarios",
+        "C": "Table 7.4 Overview of current state of sectoral net-zero pathways",
+        "D": "Table 7.3 Parameters, Assumptions, and Outputs"
+      },
+      "answer": "C",
+      "explanation": "The source credit for Table 7.4 on page 164 is given as 'Source: From Our progress and plan towards a net-zero global economy Nov 2021. Reprinted by permission from The Glasgow Financial Alliance for Net Zero.'"
+    },
+    {
+      "question": "What does the 2022 report on the Bank of England's CBES stress test find about UK banks and insurers?",
+      "options": {
+        "A": "They have fully understood and mitigated all climate risks.",
+        "B": "They have made no progress in climate risk management.",
+        "C": "While they are making good progress, there is still much to be done and a lack of available emissions data is a big issue.",
+        "D": "The report concluded that climate change poses no risk to the UK financial system."
+      },
+      "answer": "C",
+      "explanation": "Page 155 states, 'The May 2022 report found that, while UK banks and insurers are making good progress in some aspects of their climate risk management, there is still much to be done to fully understand climate risks, and a lack of available emissions data is a big issue.'"
+    },
+    {
+      "question": "According to Figure 7.1, what happened to global CO2 emissions in 2020 compared to 2019?",
+      "options": {
+        "A": "They increased sharply.",
+        "B": "They stayed exactly the same.",
+        "C": "They decreased.",
+        "D": "The chart does not show data for 2019 and 2020."
+      },
+      "answer": "C",
+      "explanation": "Figure 7.1 on page 155 shows two dots labeled 'CO2 emissions in 2019' and 'CO2 emissions in 2020'. The 2020 dot is visibly lower on the y-axis (Gt CO2) than the 2019 dot, indicating a decrease."
+    },
+    {
+      "question": "What is the primary function of organizations like Climatewise, which is part of the Cambridge Institute for Sustainability Leadership?",
+      "options": {
+        "A": "They act as government regulators for the financial industry.",
+        "B": "They are commercial data providers or consortiums that provide detailed data for in-house scenario analysis.",
+        "C": "They are fossil fuel lobby groups.",
+        "D": "They build and operate renewable energy power plants."
+      },
+      "answer": "B",
+      "explanation": "Page 164 lists 'consortiums such as Climatewise, which is part of the Cambridge Institute for Sustainability Leadership' as entities that 'provide detailed data on different asset classes by scenario... for firms to be able to do in-house analysis.'"
+    }
+  ]
+}
